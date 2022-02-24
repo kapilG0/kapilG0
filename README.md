@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there Everyone 👋
+
+Welcome to my profile
 
 <!--
 **kapilG0/kapilG0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
