@@ -1,10 +1,13 @@
-### Hi there Everyone 👋
+### Hi there Everyone . I am Kapil Gupta 👋
+### Interested in learning about new skills
 
-Welcome to my profile
+#### Welcome to my profile
 
-- 🔭 I’m currently working on node.js,mongodb
-- 🌱 I’m currently learning angular,nodejs,mongodb
-- 👯 I’m looking to collaborate on angular,node.js projects
+- 🔭 I’m currently **working on node.js,mongodb**
+- 🌱 I’m currently *learning angular,nodejs,mongodb*
+- 👯 I’m looking to **contribute on angular,node.js projects in free time**
+- 📫 You can connect with me on [Linkedln](https://www.linkedin.com/in/kapil-gupta-42947316b/)
+
 
 
 <!--
