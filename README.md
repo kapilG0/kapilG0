@@ -4,9 +4,9 @@
 #### Welcome to my profile
 
 - 🔭 I’m currently **working on Node.js,Mongodb**
-- 🌱 I’m currently *learning Angular,Nodejs,Mongodb*
-- 👯 I’m looking to **contribute on Angular,Node.js projects in free time**
-- 📫 You can connect with me on [Linkedln](https://www.linkedin.com/in/kapil-gupta-42947316b/),[Twitter](https://twitter.com/KG161997?t=qIUoYCK3kJcusTKEBY40KQ&s=09)
+- 🧑‍💻 I’m currently *learning Angular,Nodejs,Mongodb*
+- 💻 I’m looking to **contribute on Angular,Node.js projects in free time**
+- 📫 You can connect with me on [Linkedln](https://www.linkedin.com/in/kapil-gupta-42947316b/), [Twitter](https://twitter.com/KG161997?t=qIUoYCK3kJcusTKEBY40KQ&s=09)
 
 
 
