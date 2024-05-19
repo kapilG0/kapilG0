@@ -11,22 +11,28 @@
 
  
 
-#### Welcome to my profile 😄
+<h3 align=center> Welcome to my profile 🙂</h3>
 
 - 🔭 I’m currently **working as software Engineer**
-- 🧑‍💻 I’m currently *working on these languages( Angular,Nodejs,Mongodb,express.js)*
+- 👨‍🦱 I’m currently *working on these languages( Angular,Nodejs,Mongodb,express.js)*
+- 👉 Currently learning react.js as well 
 - 💻 I’m looking to **contribute on Mean/Mern stacks projects in free time**
-- 📫 You can connect with me on [Linkedln](https://www.linkedin.com/in/kapil-gupta-42947316b/), [Twitter](https://twitter.com/KG161997?t=qIUoYCK3kJcusTKEBY40KQ&s=09), [Hackerrank](
-https://www.hackerrank.com/dashboard), [Coding Ninjas](https://www.codingninjas.com/studio/profile/9761e067-31fa-4e09-a3ae-31df8e513c89)
+- 📫 You can connect with me on : 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kapil-gupta-42947316b/)](https://www.linkedin.com/in/kapil-gupta-42947316b/) [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&labelColor=blue&link=https://twitter.com/KG161997?t=qIUoYCK3kJcusTKEBY40KQ&s=09)](https://twitter.com/KG161997?t=qIUoYCK3kJcusTKEBY40KQ&s=09)
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-darkgreen?style=for-the-badge&logo=hackerrank&labelColor=black&link=https://www.hackerrank.com/dashboard)](https://www.hackerrank.com/dashboard) [![Coding Ninjas](https://img.shields.io/badge/codingninjas-orange?style=for-the-badge&logo=codingninjas&labelColor=black&link=https://www.codingninjas.com/studio/profile/9761e067-31fa-4e09-a3ae-31df8e513c89)](https://www.codingninjas.com/studio/profile/9761e067-31fa-4e09-a3ae-31df8e513c89)
+
+<!-- [Coding Ninjas](https://www.codingninjas.com/studio/profile/9761e067-31fa-4e09-a3ae-31df8e513c89)-->
 ---
 
 
-#### About Me
-  > Interested in learning about new skills
+<h3 align="center">About Me </h3>
 
-  > In Free time i like to hangout with my friends and family.
+  - Interested in learning about new skills
+  - In Free time i like to hangout with my friends and family.
 
 --- 
+
+<h3 align='center'>My Last 5 Activities</h3>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#175](https://github.com/Priyaaa1/StartConnect-Hub/issues/175#issuecomment-2119230072) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
