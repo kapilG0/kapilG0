@@ -32,7 +32,7 @@
 
 --- 
 
-<h3 align='center'>My Last 5 Activities</h3>
+<h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#175](https://github.com/Priyaaa1/StartConnect-Hub/issues/175#issuecomment-2119230072) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
