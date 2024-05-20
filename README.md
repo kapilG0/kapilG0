@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#180](https://github.com/mohitparmar1/Shopy/issues/180#issuecomment-2120805982) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
-2. ❗ Opened issue [#180](https://github.com/mohitparmar1/Shopy/issues/180) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
-3. 🗣 Commented on [#179](https://github.com/mohitparmar1/Shopy/issues/179#issuecomment-2120802813) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
-4. ❗ Opened issue [#179](https://github.com/mohitparmar1/Shopy/issues/179) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
-5. 🗣 Commented on [#106](https://github.com/AbhiPatel10/openzone/issues/106#issuecomment-2120795586) in [AbhiPatel10/openzone](https://github.com/AbhiPatel10/openzone)
+1. 🗣 Commented on [#97](https://github.com/EternoSeeker/gameoflife/issues/97#issuecomment-2120820263) in [EternoSeeker/gameoflife](https://github.com/EternoSeeker/gameoflife)
+2. ❗ Opened issue [#97](https://github.com/EternoSeeker/gameoflife/issues/97) in [EternoSeeker/gameoflife](https://github.com/EternoSeeker/gameoflife)
+3. 🗣 Commented on [#183](https://github.com/mohitparmar1/Shopy/issues/183#issuecomment-2120816462) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
+4. ❗ Opened issue [#183](https://github.com/mohitparmar1/Shopy/issues/183) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
+5. 🗣 Commented on [#182](https://github.com/mohitparmar1/Shopy/issues/182#issuecomment-2120813340) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
 <!--END_SECTION:activity-->
 
 ---
