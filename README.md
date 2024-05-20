@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#201](https://github.com/Priyaaa1/StartConnect-Hub/pull/201) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
-2. 🗣 Commented on [#639](https://github.com/amupedia2021/amupedia-web/issues/639#issuecomment-2119835782) in [amupedia2021/amupedia-web](https://github.com/amupedia2021/amupedia-web)
-3. 💪 Opened PR [#642](https://github.com/amupedia2021/amupedia-web/pull/642) in [amupedia2021/amupedia-web](https://github.com/amupedia2021/amupedia-web)
-4. 🗣 Commented on [#192](https://github.com/Saurav-Pant/Blood-Donation-Project/issues/192#issuecomment-2119647847) in [Saurav-Pant/Blood-Donation-Project](https://github.com/Saurav-Pant/Blood-Donation-Project)
-5. 🗣 Commented on [#175](https://github.com/Priyaaa1/StartConnect-Hub/issues/175#issuecomment-2119230072) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
+1. 🗣 Commented on [#201](https://github.com/Priyaaa1/StartConnect-Hub/pull/201#issuecomment-2120084973) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
+2. 💪 Opened PR [#201](https://github.com/Priyaaa1/StartConnect-Hub/pull/201) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
+3. 🗣 Commented on [#639](https://github.com/amupedia2021/amupedia-web/issues/639#issuecomment-2119835782) in [amupedia2021/amupedia-web](https://github.com/amupedia2021/amupedia-web)
+4. 💪 Opened PR [#642](https://github.com/amupedia2021/amupedia-web/pull/642) in [amupedia2021/amupedia-web](https://github.com/amupedia2021/amupedia-web)
+5. 🗣 Commented on [#192](https://github.com/Saurav-Pant/Blood-Donation-Project/issues/192#issuecomment-2119647847) in [Saurav-Pant/Blood-Donation-Project](https://github.com/Saurav-Pant/Blood-Donation-Project)
 <!--END_SECTION:activity-->
 
 ---
