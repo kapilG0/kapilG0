@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#201](https://github.com/Priyaaa1/StartConnect-Hub/pull/201#issuecomment-2120084973) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
-2. 💪 Opened PR [#201](https://github.com/Priyaaa1/StartConnect-Hub/pull/201) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
-3. 🗣 Commented on [#639](https://github.com/amupedia2021/amupedia-web/issues/639#issuecomment-2119835782) in [amupedia2021/amupedia-web](https://github.com/amupedia2021/amupedia-web)
-4. 💪 Opened PR [#642](https://github.com/amupedia2021/amupedia-web/pull/642) in [amupedia2021/amupedia-web](https://github.com/amupedia2021/amupedia-web)
-5. 🗣 Commented on [#192](https://github.com/Saurav-Pant/Blood-Donation-Project/issues/192#issuecomment-2119647847) in [Saurav-Pant/Blood-Donation-Project](https://github.com/Saurav-Pant/Blood-Donation-Project)
+1. 🗣 Commented on [#180](https://github.com/mohitparmar1/Shopy/issues/180#issuecomment-2120805982) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
+2. ❗ Opened issue [#180](https://github.com/mohitparmar1/Shopy/issues/180) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
+3. 🗣 Commented on [#179](https://github.com/mohitparmar1/Shopy/issues/179#issuecomment-2120802813) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
+4. ❗ Opened issue [#179](https://github.com/mohitparmar1/Shopy/issues/179) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
+5. 🗣 Commented on [#106](https://github.com/AbhiPatel10/openzone/issues/106#issuecomment-2120795586) in [AbhiPatel10/openzone](https://github.com/AbhiPatel10/openzone)
 <!--END_SECTION:activity-->
 
 ---
