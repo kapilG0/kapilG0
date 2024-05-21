@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#247](https://github.com/JiyaGupta-cs/ShopNex/issues/247#issuecomment-2122525041) in [JiyaGupta-cs/ShopNex](https://github.com/JiyaGupta-cs/ShopNex)
-2. 💪 Opened PR [#373](https://github.com/JiyaGupta-cs/ShopNex/pull/373) in [JiyaGupta-cs/ShopNex](https://github.com/JiyaGupta-cs/ShopNex)
-3. 🗣 Commented on [#46](https://github.com/devXprite/gitglance/issues/46#issuecomment-2122412324) in [devXprite/gitglance](https://github.com/devXprite/gitglance)
-4. ❗ Opened issue [#46](https://github.com/devXprite/gitglance/issues/46) in [devXprite/gitglance](https://github.com/devXprite/gitglance)
-5. 🗣 Commented on [#1079](https://github.com/codervivek5/VigyBag/issues/1079#issuecomment-2122118204) in [codervivek5/VigyBag](https://github.com/codervivek5/VigyBag)
+1. 🗣 Commented on [#429](https://github.com/HimanshuNarware/Devlabs/issues/429#issuecomment-2122944222) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
+2. ❗ Opened issue [#429](https://github.com/HimanshuNarware/Devlabs/issues/429) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
+3. 🗣 Commented on [#428](https://github.com/HimanshuNarware/Devlabs/issues/428#issuecomment-2122941322) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
+4. ❗ Opened issue [#428](https://github.com/HimanshuNarware/Devlabs/issues/428) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
+5. 🗣 Commented on [#247](https://github.com/JiyaGupta-cs/ShopNex/issues/247#issuecomment-2122525041) in [JiyaGupta-cs/ShopNex](https://github.com/JiyaGupta-cs/ShopNex)
 <!--END_SECTION:activity-->
 
 ---
