@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#429](https://github.com/HimanshuNarware/Devlabs/issues/429#issuecomment-2122944222) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
-2. ❗ Opened issue [#429](https://github.com/HimanshuNarware/Devlabs/issues/429) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
-3. 🗣 Commented on [#428](https://github.com/HimanshuNarware/Devlabs/issues/428#issuecomment-2122941322) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
-4. ❗ Opened issue [#428](https://github.com/HimanshuNarware/Devlabs/issues/428) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
-5. 🗣 Commented on [#247](https://github.com/JiyaGupta-cs/ShopNex/issues/247#issuecomment-2122525041) in [JiyaGupta-cs/ShopNex](https://github.com/JiyaGupta-cs/ShopNex)
+1. 🗣 Commented on [#428](https://github.com/HimanshuNarware/Devlabs/issues/428#issuecomment-2123061824) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
+2. 💪 Opened PR [#432](https://github.com/HimanshuNarware/Devlabs/pull/432) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
+3. 🗣 Commented on [#429](https://github.com/HimanshuNarware/Devlabs/issues/429#issuecomment-2122944222) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
+4. ❗ Opened issue [#429](https://github.com/HimanshuNarware/Devlabs/issues/429) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
+5. 🗣 Commented on [#428](https://github.com/HimanshuNarware/Devlabs/issues/428#issuecomment-2122941322) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
 <!--END_SECTION:activity-->
 
 ---
