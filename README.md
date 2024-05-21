@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1079](https://github.com/codervivek5/VigyBag/issues/1079#issuecomment-2122118204) in [codervivek5/VigyBag](https://github.com/codervivek5/VigyBag)
-2. 💪 Opened PR [#1125](https://github.com/codervivek5/VigyBag/pull/1125) in [codervivek5/VigyBag](https://github.com/codervivek5/VigyBag)
-3. 🗣 Commented on [#201](https://github.com/Priyaaa1/StartConnect-Hub/pull/201#issuecomment-2121929315) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
-4. 🗣 Commented on [#252](https://github.com/CSEdgeOfficial/learn.csedge.courses/issues/252#issuecomment-2121917361) in [CSEdgeOfficial/learn.csedge.courses](https://github.com/CSEdgeOfficial/learn.csedge.courses)
-5. ❗ Opened issue [#252](https://github.com/CSEdgeOfficial/learn.csedge.courses/issues/252) in [CSEdgeOfficial/learn.csedge.courses](https://github.com/CSEdgeOfficial/learn.csedge.courses)
+1. 🗣 Commented on [#46](https://github.com/devXprite/gitglance/issues/46#issuecomment-2122412324) in [devXprite/gitglance](https://github.com/devXprite/gitglance)
+2. ❗ Opened issue [#46](https://github.com/devXprite/gitglance/issues/46) in [devXprite/gitglance](https://github.com/devXprite/gitglance)
+3. 🗣 Commented on [#1079](https://github.com/codervivek5/VigyBag/issues/1079#issuecomment-2122118204) in [codervivek5/VigyBag](https://github.com/codervivek5/VigyBag)
+4. 💪 Opened PR [#1125](https://github.com/codervivek5/VigyBag/pull/1125) in [codervivek5/VigyBag](https://github.com/codervivek5/VigyBag)
+5. 🗣 Commented on [#201](https://github.com/Priyaaa1/StartConnect-Hub/pull/201#issuecomment-2121929315) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
 <!--END_SECTION:activity-->
 
 ---
