@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#97](https://github.com/EternoSeeker/gameoflife/issues/97#issuecomment-2120820263) in [EternoSeeker/gameoflife](https://github.com/EternoSeeker/gameoflife)
-2. ❗ Opened issue [#97](https://github.com/EternoSeeker/gameoflife/issues/97) in [EternoSeeker/gameoflife](https://github.com/EternoSeeker/gameoflife)
-3. 🗣 Commented on [#183](https://github.com/mohitparmar1/Shopy/issues/183#issuecomment-2120816462) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
-4. ❗ Opened issue [#183](https://github.com/mohitparmar1/Shopy/issues/183) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
-5. 🗣 Commented on [#182](https://github.com/mohitparmar1/Shopy/issues/182#issuecomment-2120813340) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
+1. 🗣 Commented on [#104](https://github.com/omrajsharma/bigohhh.com/issues/104#issuecomment-2121813271) in [omrajsharma/bigohhh.com](https://github.com/omrajsharma/bigohhh.com)
+2. 💪 Opened PR [#150](https://github.com/omrajsharma/bigohhh.com/pull/150) in [omrajsharma/bigohhh.com](https://github.com/omrajsharma/bigohhh.com)
+3. 🗣 Commented on [#97](https://github.com/EternoSeeker/gameoflife/issues/97#issuecomment-2120820263) in [EternoSeeker/gameoflife](https://github.com/EternoSeeker/gameoflife)
+4. ❗ Opened issue [#97](https://github.com/EternoSeeker/gameoflife/issues/97) in [EternoSeeker/gameoflife](https://github.com/EternoSeeker/gameoflife)
+5. 🗣 Commented on [#183](https://github.com/mohitparmar1/Shopy/issues/183#issuecomment-2120816462) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
 <!--END_SECTION:activity-->
 
 ---
