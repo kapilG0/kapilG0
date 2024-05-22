@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#161](https://github.com/hereisSwapnil/ExamTime/pull/161#issuecomment-2123936399) in [hereisSwapnil/ExamTime](https://github.com/hereisSwapnil/ExamTime)
-2. 🗣 Commented on [#1536](https://github.com/akshitagupta15june/Moksh/issues/1536#issuecomment-2123933467) in [akshitagupta15june/Moksh](https://github.com/akshitagupta15june/Moksh)
-3. 🗣 Commented on [#605](https://github.com/anuragverma108/SwapReads/issues/605#issuecomment-2123931097) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
-4. 🗣 Commented on [#126](https://github.com/TechNodes2-0/ElectiveHub/issues/126#issuecomment-2123906419) in [TechNodes2-0/ElectiveHub](https://github.com/TechNodes2-0/ElectiveHub)
-5. 🗣 Commented on [#150](https://github.com/omrajsharma/bigohhh.com/pull/150#issuecomment-2123902271) in [omrajsharma/bigohhh.com](https://github.com/omrajsharma/bigohhh.com)
+1. ❗ Opened issue [#33](https://github.com/MAVRICK-1/EduWeb/issues/33) in [MAVRICK-1/EduWeb](https://github.com/MAVRICK-1/EduWeb)
+2. 🗣 Commented on [#201](https://github.com/Priyaaa1/StartConnect-Hub/pull/201#issuecomment-2123949282) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
+3. 🗣 Commented on [#161](https://github.com/hereisSwapnil/ExamTime/pull/161#issuecomment-2123936399) in [hereisSwapnil/ExamTime](https://github.com/hereisSwapnil/ExamTime)
+4. 🗣 Commented on [#1536](https://github.com/akshitagupta15june/Moksh/issues/1536#issuecomment-2123933467) in [akshitagupta15june/Moksh](https://github.com/akshitagupta15june/Moksh)
+5. 🗣 Commented on [#605](https://github.com/anuragverma108/SwapReads/issues/605#issuecomment-2123931097) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
 <!--END_SECTION:activity-->
 
 ---
