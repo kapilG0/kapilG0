@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#33](https://github.com/MAVRICK-1/EduWeb/issues/33) in [MAVRICK-1/EduWeb](https://github.com/MAVRICK-1/EduWeb)
-2. 🗣 Commented on [#201](https://github.com/Priyaaa1/StartConnect-Hub/pull/201#issuecomment-2123949282) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
-3. 🗣 Commented on [#161](https://github.com/hereisSwapnil/ExamTime/pull/161#issuecomment-2123936399) in [hereisSwapnil/ExamTime](https://github.com/hereisSwapnil/ExamTime)
-4. 🗣 Commented on [#1536](https://github.com/akshitagupta15june/Moksh/issues/1536#issuecomment-2123933467) in [akshitagupta15june/Moksh](https://github.com/akshitagupta15june/Moksh)
-5. 🗣 Commented on [#605](https://github.com/anuragverma108/SwapReads/issues/605#issuecomment-2123931097) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
+1. 🗣 Commented on [#569](https://github.com/Counselllor/Counsellor-Web/issues/569#issuecomment-2124023614) in [Counselllor/Counsellor-Web](https://github.com/Counselllor/Counsellor-Web)
+2. ❗ Opened issue [#569](https://github.com/Counselllor/Counsellor-Web/issues/569) in [Counselllor/Counsellor-Web](https://github.com/Counselllor/Counsellor-Web)
+3. 🗣 Commented on [#568](https://github.com/Counselllor/Counsellor-Web/issues/568#issuecomment-2124021111) in [Counselllor/Counsellor-Web](https://github.com/Counselllor/Counsellor-Web)
+4. ❗ Opened issue [#568](https://github.com/Counselllor/Counsellor-Web/issues/568) in [Counselllor/Counsellor-Web](https://github.com/Counselllor/Counsellor-Web)
+5. 🗣 Commented on [#397](https://github.com/Omkar-Sonawane-23/Tourism/issues/397#issuecomment-2124012576) in [Omkar-Sonawane-23/Tourism](https://github.com/Omkar-Sonawane-23/Tourism)
 <!--END_SECTION:activity-->
 
 ---
