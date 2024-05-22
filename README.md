@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#283](https://github.com/harshalhonde21/EcommerceSpectastyle/issues/283#issuecomment-2124106014) in [harshalhonde21/EcommerceSpectastyle](https://github.com/harshalhonde21/EcommerceSpectastyle)
-2. ❗ Opened issue [#283](https://github.com/harshalhonde21/EcommerceSpectastyle/issues/283) in [harshalhonde21/EcommerceSpectastyle](https://github.com/harshalhonde21/EcommerceSpectastyle)
-3. 🗣 Commented on [#282](https://github.com/harshalhonde21/EcommerceSpectastyle/issues/282#issuecomment-2124098511) in [harshalhonde21/EcommerceSpectastyle](https://github.com/harshalhonde21/EcommerceSpectastyle)
-4. ❗ Opened issue [#282](https://github.com/harshalhonde21/EcommerceSpectastyle/issues/282) in [harshalhonde21/EcommerceSpectastyle](https://github.com/harshalhonde21/EcommerceSpectastyle)
-5. 🗣 Commented on [#82](https://github.com/TailoredUI/TailoredUI/issues/82#issuecomment-2124094469) in [TailoredUI/TailoredUI](https://github.com/TailoredUI/TailoredUI)
+1. 🗣 Commented on [#211](https://github.com/harshalhonde21/EcommerceSpectastyle/issues/211#issuecomment-2124676560) in [harshalhonde21/EcommerceSpectastyle](https://github.com/harshalhonde21/EcommerceSpectastyle)
+2. 🗣 Commented on [#283](https://github.com/harshalhonde21/EcommerceSpectastyle/issues/283#issuecomment-2124106014) in [harshalhonde21/EcommerceSpectastyle](https://github.com/harshalhonde21/EcommerceSpectastyle)
+3. ❗ Opened issue [#283](https://github.com/harshalhonde21/EcommerceSpectastyle/issues/283) in [harshalhonde21/EcommerceSpectastyle](https://github.com/harshalhonde21/EcommerceSpectastyle)
+4. 🗣 Commented on [#282](https://github.com/harshalhonde21/EcommerceSpectastyle/issues/282#issuecomment-2124098511) in [harshalhonde21/EcommerceSpectastyle](https://github.com/harshalhonde21/EcommerceSpectastyle)
+5. ❗ Opened issue [#282](https://github.com/harshalhonde21/EcommerceSpectastyle/issues/282) in [harshalhonde21/EcommerceSpectastyle](https://github.com/harshalhonde21/EcommerceSpectastyle)
 <!--END_SECTION:activity-->
 
 ---
