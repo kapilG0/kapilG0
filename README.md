@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#427](https://github.com/khushi-joshi-05/Food-ordering-website/issues/427#issuecomment-2124070866) in [khushi-joshi-05/Food-ordering-website](https://github.com/khushi-joshi-05/Food-ordering-website)
-2. ❗ Opened issue [#427](https://github.com/khushi-joshi-05/Food-ordering-website/issues/427) in [khushi-joshi-05/Food-ordering-website](https://github.com/khushi-joshi-05/Food-ordering-website)
-3. 🗣 Commented on [#426](https://github.com/khushi-joshi-05/Food-ordering-website/issues/426#issuecomment-2124067383) in [khushi-joshi-05/Food-ordering-website](https://github.com/khushi-joshi-05/Food-ordering-website)
-4. ❗ Opened issue [#426](https://github.com/khushi-joshi-05/Food-ordering-website/issues/426) in [khushi-joshi-05/Food-ordering-website](https://github.com/khushi-joshi-05/Food-ordering-website)
-5. 🗣 Commented on [#425](https://github.com/khushi-joshi-05/Food-ordering-website/issues/425#issuecomment-2124062677) in [khushi-joshi-05/Food-ordering-website](https://github.com/khushi-joshi-05/Food-ordering-website)
+1. 🗣 Commented on [#283](https://github.com/harshalhonde21/EcommerceSpectastyle/issues/283#issuecomment-2124106014) in [harshalhonde21/EcommerceSpectastyle](https://github.com/harshalhonde21/EcommerceSpectastyle)
+2. ❗ Opened issue [#283](https://github.com/harshalhonde21/EcommerceSpectastyle/issues/283) in [harshalhonde21/EcommerceSpectastyle](https://github.com/harshalhonde21/EcommerceSpectastyle)
+3. 🗣 Commented on [#282](https://github.com/harshalhonde21/EcommerceSpectastyle/issues/282#issuecomment-2124098511) in [harshalhonde21/EcommerceSpectastyle](https://github.com/harshalhonde21/EcommerceSpectastyle)
+4. ❗ Opened issue [#282](https://github.com/harshalhonde21/EcommerceSpectastyle/issues/282) in [harshalhonde21/EcommerceSpectastyle](https://github.com/harshalhonde21/EcommerceSpectastyle)
+5. 🗣 Commented on [#82](https://github.com/TailoredUI/TailoredUI/issues/82#issuecomment-2124094469) in [TailoredUI/TailoredUI](https://github.com/TailoredUI/TailoredUI)
 <!--END_SECTION:activity-->
 
 ---
