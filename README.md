@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#569](https://github.com/Counselllor/Counsellor-Web/issues/569#issuecomment-2124023614) in [Counselllor/Counsellor-Web](https://github.com/Counselllor/Counsellor-Web)
-2. ❗ Opened issue [#569](https://github.com/Counselllor/Counsellor-Web/issues/569) in [Counselllor/Counsellor-Web](https://github.com/Counselllor/Counsellor-Web)
-3. 🗣 Commented on [#568](https://github.com/Counselllor/Counsellor-Web/issues/568#issuecomment-2124021111) in [Counselllor/Counsellor-Web](https://github.com/Counselllor/Counsellor-Web)
-4. ❗ Opened issue [#568](https://github.com/Counselllor/Counsellor-Web/issues/568) in [Counselllor/Counsellor-Web](https://github.com/Counselllor/Counsellor-Web)
-5. 🗣 Commented on [#397](https://github.com/Omkar-Sonawane-23/Tourism/issues/397#issuecomment-2124012576) in [Omkar-Sonawane-23/Tourism](https://github.com/Omkar-Sonawane-23/Tourism)
+1. 🗣 Commented on [#427](https://github.com/khushi-joshi-05/Food-ordering-website/issues/427#issuecomment-2124070866) in [khushi-joshi-05/Food-ordering-website](https://github.com/khushi-joshi-05/Food-ordering-website)
+2. ❗ Opened issue [#427](https://github.com/khushi-joshi-05/Food-ordering-website/issues/427) in [khushi-joshi-05/Food-ordering-website](https://github.com/khushi-joshi-05/Food-ordering-website)
+3. 🗣 Commented on [#426](https://github.com/khushi-joshi-05/Food-ordering-website/issues/426#issuecomment-2124067383) in [khushi-joshi-05/Food-ordering-website](https://github.com/khushi-joshi-05/Food-ordering-website)
+4. ❗ Opened issue [#426](https://github.com/khushi-joshi-05/Food-ordering-website/issues/426) in [khushi-joshi-05/Food-ordering-website](https://github.com/khushi-joshi-05/Food-ordering-website)
+5. 🗣 Commented on [#425](https://github.com/khushi-joshi-05/Food-ordering-website/issues/425#issuecomment-2124062677) in [khushi-joshi-05/Food-ordering-website](https://github.com/khushi-joshi-05/Food-ordering-website)
 <!--END_SECTION:activity-->
 
 ---
