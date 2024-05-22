@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1564](https://github.com/akshitagupta15june/Moksh/pull/1564#issuecomment-2123869174) in [akshitagupta15june/Moksh](https://github.com/akshitagupta15june/Moksh)
-2. 🗣 Commented on [#428](https://github.com/HimanshuNarware/Devlabs/issues/428#issuecomment-2123061824) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
-3. 💪 Opened PR [#432](https://github.com/HimanshuNarware/Devlabs/pull/432) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
-4. 🗣 Commented on [#429](https://github.com/HimanshuNarware/Devlabs/issues/429#issuecomment-2122944222) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
-5. ❗ Opened issue [#429](https://github.com/HimanshuNarware/Devlabs/issues/429) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
+1. 🗣 Commented on [#161](https://github.com/hereisSwapnil/ExamTime/pull/161#issuecomment-2123936399) in [hereisSwapnil/ExamTime](https://github.com/hereisSwapnil/ExamTime)
+2. 🗣 Commented on [#1536](https://github.com/akshitagupta15june/Moksh/issues/1536#issuecomment-2123933467) in [akshitagupta15june/Moksh](https://github.com/akshitagupta15june/Moksh)
+3. 🗣 Commented on [#605](https://github.com/anuragverma108/SwapReads/issues/605#issuecomment-2123931097) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
+4. 🗣 Commented on [#126](https://github.com/TechNodes2-0/ElectiveHub/issues/126#issuecomment-2123906419) in [TechNodes2-0/ElectiveHub](https://github.com/TechNodes2-0/ElectiveHub)
+5. 🗣 Commented on [#150](https://github.com/omrajsharma/bigohhh.com/pull/150#issuecomment-2123902271) in [omrajsharma/bigohhh.com](https://github.com/omrajsharma/bigohhh.com)
 <!--END_SECTION:activity-->
 
 ---
