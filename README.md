@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#642](https://github.com/amupedia2021/amupedia-web/pull/642#issuecomment-2126444111) in [amupedia2021/amupedia-web](https://github.com/amupedia2021/amupedia-web)
-2. 🗣 Commented on [#758](https://github.com/anuragverma108/SwapReads/issues/758#issuecomment-2126238028) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
-3. 🔒 Closed issue [#758](https://github.com/anuragverma108/SwapReads/issues/758) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
-4. 🗣 Commented on [#758](https://github.com/anuragverma108/SwapReads/issues/758#issuecomment-2126235802) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
-5. ❗ Opened issue [#758](https://github.com/anuragverma108/SwapReads/issues/758) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
+1. 🗣 Commented on [#302](https://github.com/abhay-raj19/FitBody/issues/302#issuecomment-2126530792) in [abhay-raj19/FitBody](https://github.com/abhay-raj19/FitBody)
+2. ❗ Opened issue [#302](https://github.com/abhay-raj19/FitBody/issues/302) in [abhay-raj19/FitBody](https://github.com/abhay-raj19/FitBody)
+3. 🗣 Commented on [#432](https://github.com/HimanshuNarware/Devlabs/pull/432#issuecomment-2126508622) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
+4. 🗣 Commented on [#432](https://github.com/HimanshuNarware/Devlabs/pull/432#issuecomment-2126507240) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
+5. 🗣 Commented on [#642](https://github.com/amupedia2021/amupedia-web/pull/642#issuecomment-2126444111) in [amupedia2021/amupedia-web](https://github.com/amupedia2021/amupedia-web)
 <!--END_SECTION:activity-->
 
 ---
