@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#302](https://github.com/abhay-raj19/FitBody/issues/302#issuecomment-2126530792) in [abhay-raj19/FitBody](https://github.com/abhay-raj19/FitBody)
-2. ❗ Opened issue [#302](https://github.com/abhay-raj19/FitBody/issues/302) in [abhay-raj19/FitBody](https://github.com/abhay-raj19/FitBody)
-3. 🗣 Commented on [#432](https://github.com/HimanshuNarware/Devlabs/pull/432#issuecomment-2126508622) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
-4. 🗣 Commented on [#432](https://github.com/HimanshuNarware/Devlabs/pull/432#issuecomment-2126507240) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
-5. 🗣 Commented on [#642](https://github.com/amupedia2021/amupedia-web/pull/642#issuecomment-2126444111) in [amupedia2021/amupedia-web](https://github.com/amupedia2021/amupedia-web)
+1. 🗣 Commented on [#144](https://github.com/TechNodes2-0/ElectiveHub/pull/144#issuecomment-2126585238) in [TechNodes2-0/ElectiveHub](https://github.com/TechNodes2-0/ElectiveHub)
+2. 🗣 Commented on [#194](https://github.com/singodiyashubham87/Draw-it-out/issues/194#issuecomment-2126565137) in [singodiyashubham87/Draw-it-out](https://github.com/singodiyashubham87/Draw-it-out)
+3. 🗣 Commented on [#150](https://github.com/omrajsharma/bigohhh.com/pull/150#issuecomment-2126559247) in [omrajsharma/bigohhh.com](https://github.com/omrajsharma/bigohhh.com)
+4. 🗣 Commented on [#391](https://github.com/JiyaGupta-cs/ShopNex/issues/391#issuecomment-2126544810) in [JiyaGupta-cs/ShopNex](https://github.com/JiyaGupta-cs/ShopNex)
+5. ❗ Opened issue [#391](https://github.com/JiyaGupta-cs/ShopNex/issues/391) in [JiyaGupta-cs/ShopNex](https://github.com/JiyaGupta-cs/ShopNex)
 <!--END_SECTION:activity-->
 
 ---
