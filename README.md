@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#758](https://github.com/anuragverma108/SwapReads/issues/758#issuecomment-2126238028) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
-2. 🔒 Closed issue [#758](https://github.com/anuragverma108/SwapReads/issues/758) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
-3. 🗣 Commented on [#758](https://github.com/anuragverma108/SwapReads/issues/758#issuecomment-2126235802) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
-4. ❗ Opened issue [#758](https://github.com/anuragverma108/SwapReads/issues/758) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
-5. ❗ Opened issue [#195](https://github.com/singodiyashubham87/Draw-it-out/issues/195) in [singodiyashubham87/Draw-it-out](https://github.com/singodiyashubham87/Draw-it-out)
+1. 🗣 Commented on [#642](https://github.com/amupedia2021/amupedia-web/pull/642#issuecomment-2126444111) in [amupedia2021/amupedia-web](https://github.com/amupedia2021/amupedia-web)
+2. 🗣 Commented on [#758](https://github.com/anuragverma108/SwapReads/issues/758#issuecomment-2126238028) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
+3. 🔒 Closed issue [#758](https://github.com/anuragverma108/SwapReads/issues/758) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
+4. 🗣 Commented on [#758](https://github.com/anuragverma108/SwapReads/issues/758#issuecomment-2126235802) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
+5. ❗ Opened issue [#758](https://github.com/anuragverma108/SwapReads/issues/758) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
 <!--END_SECTION:activity-->
 
 ---
