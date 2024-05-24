@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#507](https://github.com/apu52/Travel_Website/issues/507#issuecomment-2129416776) in [apu52/Travel_Website](https://github.com/apu52/Travel_Website)
-2. 💪 Opened PR [#568](https://github.com/apu52/Travel_Website/pull/568) in [apu52/Travel_Website](https://github.com/apu52/Travel_Website)
-3. 🗣 Commented on [#97](https://github.com/EternoSeeker/gameoflife/issues/97#issuecomment-2129284068) in [EternoSeeker/gameoflife](https://github.com/EternoSeeker/gameoflife)
-4. 💪 Opened PR [#118](https://github.com/EternoSeeker/gameoflife/pull/118) in [EternoSeeker/gameoflife](https://github.com/EternoSeeker/gameoflife)
-5. 🗣 Commented on [#489](https://github.com/HimanshuNarware/Devlabs/pull/489#issuecomment-2129002348) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
+1. 🗣 Commented on [#642](https://github.com/amupedia2021/amupedia-web/pull/642#issuecomment-2129617763) in [amupedia2021/amupedia-web](https://github.com/amupedia2021/amupedia-web)
+2. 🗣 Commented on [#507](https://github.com/apu52/Travel_Website/issues/507#issuecomment-2129416776) in [apu52/Travel_Website](https://github.com/apu52/Travel_Website)
+3. 💪 Opened PR [#568](https://github.com/apu52/Travel_Website/pull/568) in [apu52/Travel_Website](https://github.com/apu52/Travel_Website)
+4. 🗣 Commented on [#97](https://github.com/EternoSeeker/gameoflife/issues/97#issuecomment-2129284068) in [EternoSeeker/gameoflife](https://github.com/EternoSeeker/gameoflife)
+5. 💪 Opened PR [#118](https://github.com/EternoSeeker/gameoflife/pull/118) in [EternoSeeker/gameoflife](https://github.com/EternoSeeker/gameoflife)
 <!--END_SECTION:activity-->
 
 ---
