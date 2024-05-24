@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#489](https://github.com/HimanshuNarware/Devlabs/pull/489#issuecomment-2129002348) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
-2. 🗣 Commented on [#429](https://github.com/HimanshuNarware/Devlabs/issues/429#issuecomment-2128997248) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
-3. 💪 Opened PR [#489](https://github.com/HimanshuNarware/Devlabs/pull/489) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
-4. 🗣 Commented on [#781](https://github.com/Rakesh9100/CalcDiverse/issues/781#issuecomment-2128437842) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-5. 🗣 Commented on [#780](https://github.com/Rakesh9100/CalcDiverse/issues/780#issuecomment-2128434533) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+1. 🗣 Commented on [#97](https://github.com/EternoSeeker/gameoflife/issues/97#issuecomment-2129284068) in [EternoSeeker/gameoflife](https://github.com/EternoSeeker/gameoflife)
+2. 💪 Opened PR [#118](https://github.com/EternoSeeker/gameoflife/pull/118) in [EternoSeeker/gameoflife](https://github.com/EternoSeeker/gameoflife)
+3. 🗣 Commented on [#489](https://github.com/HimanshuNarware/Devlabs/pull/489#issuecomment-2129002348) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
+4. 🗣 Commented on [#429](https://github.com/HimanshuNarware/Devlabs/issues/429#issuecomment-2128997248) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
+5. 💪 Opened PR [#489](https://github.com/HimanshuNarware/Devlabs/pull/489) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
 <!--END_SECTION:activity-->
 
 ---
