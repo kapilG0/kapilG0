@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1564](https://github.com/akshitagupta15june/Moksh/pull/1564#issuecomment-2127432544) in [akshitagupta15june/Moksh](https://github.com/akshitagupta15june/Moksh)
-2. 🗣 Commented on [#144](https://github.com/TechNodes2-0/ElectiveHub/pull/144#issuecomment-2126585238) in [TechNodes2-0/ElectiveHub](https://github.com/TechNodes2-0/ElectiveHub)
-3. 🗣 Commented on [#194](https://github.com/singodiyashubham87/Draw-it-out/issues/194#issuecomment-2126565137) in [singodiyashubham87/Draw-it-out](https://github.com/singodiyashubham87/Draw-it-out)
-4. 🗣 Commented on [#150](https://github.com/omrajsharma/bigohhh.com/pull/150#issuecomment-2126559247) in [omrajsharma/bigohhh.com](https://github.com/omrajsharma/bigohhh.com)
-5. 🗣 Commented on [#391](https://github.com/JiyaGupta-cs/ShopNex/issues/391#issuecomment-2126544810) in [JiyaGupta-cs/ShopNex](https://github.com/JiyaGupta-cs/ShopNex)
+1. 🗣 Commented on [#781](https://github.com/Rakesh9100/CalcDiverse/issues/781#issuecomment-2128437842) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+2. 🗣 Commented on [#780](https://github.com/Rakesh9100/CalcDiverse/issues/780#issuecomment-2128434533) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+3. 🗣 Commented on [#1564](https://github.com/akshitagupta15june/Moksh/pull/1564#issuecomment-2127432544) in [akshitagupta15june/Moksh](https://github.com/akshitagupta15june/Moksh)
+4. 🗣 Commented on [#144](https://github.com/TechNodes2-0/ElectiveHub/pull/144#issuecomment-2126585238) in [TechNodes2-0/ElectiveHub](https://github.com/TechNodes2-0/ElectiveHub)
+5. 🗣 Commented on [#194](https://github.com/singodiyashubham87/Draw-it-out/issues/194#issuecomment-2126565137) in [singodiyashubham87/Draw-it-out](https://github.com/singodiyashubham87/Draw-it-out)
 <!--END_SECTION:activity-->
 
 ---
