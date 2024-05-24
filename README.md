@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#781](https://github.com/Rakesh9100/CalcDiverse/issues/781#issuecomment-2128437842) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-2. 🗣 Commented on [#780](https://github.com/Rakesh9100/CalcDiverse/issues/780#issuecomment-2128434533) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-3. 🗣 Commented on [#1564](https://github.com/akshitagupta15june/Moksh/pull/1564#issuecomment-2127432544) in [akshitagupta15june/Moksh](https://github.com/akshitagupta15june/Moksh)
-4. 🗣 Commented on [#144](https://github.com/TechNodes2-0/ElectiveHub/pull/144#issuecomment-2126585238) in [TechNodes2-0/ElectiveHub](https://github.com/TechNodes2-0/ElectiveHub)
-5. 🗣 Commented on [#194](https://github.com/singodiyashubham87/Draw-it-out/issues/194#issuecomment-2126565137) in [singodiyashubham87/Draw-it-out](https://github.com/singodiyashubham87/Draw-it-out)
+1. 🗣 Commented on [#489](https://github.com/HimanshuNarware/Devlabs/pull/489#issuecomment-2129002348) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
+2. 🗣 Commented on [#429](https://github.com/HimanshuNarware/Devlabs/issues/429#issuecomment-2128997248) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
+3. 💪 Opened PR [#489](https://github.com/HimanshuNarware/Devlabs/pull/489) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
+4. 🗣 Commented on [#781](https://github.com/Rakesh9100/CalcDiverse/issues/781#issuecomment-2128437842) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+5. 🗣 Commented on [#780](https://github.com/Rakesh9100/CalcDiverse/issues/780#issuecomment-2128434533) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
 <!--END_SECTION:activity-->
 
 ---
