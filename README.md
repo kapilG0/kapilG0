@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/devXprite/gitglance/issues/46#issuecomment-2131128361) in [devXprite/gitglance](https://github.com/devXprite/gitglance)
-2. 💪 Opened PR [#60](https://github.com/devXprite/gitglance/pull/60) in [devXprite/gitglance](https://github.com/devXprite/gitglance)
-3. 🗣 Commented on [#509](https://github.com/apu52/Travel_Website/issues/509#issuecomment-2131041069) in [apu52/Travel_Website](https://github.com/apu52/Travel_Website)
-4. 💪 Opened PR [#589](https://github.com/apu52/Travel_Website/pull/589) in [apu52/Travel_Website](https://github.com/apu52/Travel_Website)
-5. 🗣 Commented on [#118](https://github.com/EternoSeeker/gameoflife/pull/118#issuecomment-2130753642) in [EternoSeeker/gameoflife](https://github.com/EternoSeeker/gameoflife)
+1. 🗣 Commented on [#114](https://github.com/ashutoshgithubs/iemhacks_DEV-G/issues/114#issuecomment-2131187752) in [ashutoshgithubs/iemhacks_DEV-G](https://github.com/ashutoshgithubs/iemhacks_DEV-G)
+2. 💪 Opened PR [#120](https://github.com/ashutoshgithubs/iemhacks_DEV-G/pull/120) in [ashutoshgithubs/iemhacks_DEV-G](https://github.com/ashutoshgithubs/iemhacks_DEV-G)
+3. 🗣 Commented on [#46](https://github.com/devXprite/gitglance/issues/46#issuecomment-2131128361) in [devXprite/gitglance](https://github.com/devXprite/gitglance)
+4. 💪 Opened PR [#60](https://github.com/devXprite/gitglance/pull/60) in [devXprite/gitglance](https://github.com/devXprite/gitglance)
+5. 🗣 Commented on [#509](https://github.com/apu52/Travel_Website/issues/509#issuecomment-2131041069) in [apu52/Travel_Website](https://github.com/apu52/Travel_Website)
 <!--END_SECTION:activity-->
 
 ---
