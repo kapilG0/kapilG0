@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#950](https://github.com/digitomize/digitomize/issues/950#issuecomment-2131317089) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
-2. ❗ Opened issue [#950](https://github.com/digitomize/digitomize/issues/950) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
-3. 🗣 Commented on [#35](https://github.com/MAVRICK-1/EduWeb/issues/35#issuecomment-2131213002) in [MAVRICK-1/EduWeb](https://github.com/MAVRICK-1/EduWeb)
-4. ❗ Opened issue [#35](https://github.com/MAVRICK-1/EduWeb/issues/35) in [MAVRICK-1/EduWeb](https://github.com/MAVRICK-1/EduWeb)
-5. 🗣 Commented on [#1645](https://github.com/akshitagupta15june/PetMe/issues/1645#issuecomment-2131210557) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
+1. 🗣 Commented on [#213](https://github.com/mohitparmar1/Shopy/issues/213#issuecomment-2131358307) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
+2. ❗ Opened issue [#213](https://github.com/mohitparmar1/Shopy/issues/213) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
+3. 🗣 Commented on [#212](https://github.com/mohitparmar1/Shopy/issues/212#issuecomment-2131357836) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
+4. ❗ Opened issue [#212](https://github.com/mohitparmar1/Shopy/issues/212) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
+5. 🗣 Commented on [#211](https://github.com/mohitparmar1/Shopy/issues/211#issuecomment-2131357360) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
 <!--END_SECTION:activity-->
 
 ---
