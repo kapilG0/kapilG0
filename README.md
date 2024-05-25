@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#509](https://github.com/apu52/Travel_Website/issues/509#issuecomment-2131041069) in [apu52/Travel_Website](https://github.com/apu52/Travel_Website)
-2. 💪 Opened PR [#589](https://github.com/apu52/Travel_Website/pull/589) in [apu52/Travel_Website](https://github.com/apu52/Travel_Website)
-3. 🗣 Commented on [#118](https://github.com/EternoSeeker/gameoflife/pull/118#issuecomment-2130753642) in [EternoSeeker/gameoflife](https://github.com/EternoSeeker/gameoflife)
-4. 🗣 Commented on [#68](https://github.com/AnguHashBlog/angular-material/issues/68#issuecomment-2129999005) in [AnguHashBlog/angular-material](https://github.com/AnguHashBlog/angular-material)
-5. 🗣 Commented on [#35](https://github.com/Indie-Kart/ecommerce-store/pull/35#issuecomment-2129988605) in [Indie-Kart/ecommerce-store](https://github.com/Indie-Kart/ecommerce-store)
+1. 🗣 Commented on [#46](https://github.com/devXprite/gitglance/issues/46#issuecomment-2131128361) in [devXprite/gitglance](https://github.com/devXprite/gitglance)
+2. 💪 Opened PR [#60](https://github.com/devXprite/gitglance/pull/60) in [devXprite/gitglance](https://github.com/devXprite/gitglance)
+3. 🗣 Commented on [#509](https://github.com/apu52/Travel_Website/issues/509#issuecomment-2131041069) in [apu52/Travel_Website](https://github.com/apu52/Travel_Website)
+4. 💪 Opened PR [#589](https://github.com/apu52/Travel_Website/pull/589) in [apu52/Travel_Website](https://github.com/apu52/Travel_Website)
+5. 🗣 Commented on [#118](https://github.com/EternoSeeker/gameoflife/pull/118#issuecomment-2130753642) in [EternoSeeker/gameoflife](https://github.com/EternoSeeker/gameoflife)
 <!--END_SECTION:activity-->
 
 ---
