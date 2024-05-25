@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#114](https://github.com/ashutoshgithubs/iemhacks_DEV-G/issues/114#issuecomment-2131187752) in [ashutoshgithubs/iemhacks_DEV-G](https://github.com/ashutoshgithubs/iemhacks_DEV-G)
-2. 💪 Opened PR [#120](https://github.com/ashutoshgithubs/iemhacks_DEV-G/pull/120) in [ashutoshgithubs/iemhacks_DEV-G](https://github.com/ashutoshgithubs/iemhacks_DEV-G)
-3. 🗣 Commented on [#46](https://github.com/devXprite/gitglance/issues/46#issuecomment-2131128361) in [devXprite/gitglance](https://github.com/devXprite/gitglance)
-4. 💪 Opened PR [#60](https://github.com/devXprite/gitglance/pull/60) in [devXprite/gitglance](https://github.com/devXprite/gitglance)
-5. 🗣 Commented on [#509](https://github.com/apu52/Travel_Website/issues/509#issuecomment-2131041069) in [apu52/Travel_Website](https://github.com/apu52/Travel_Website)
+1. 🗣 Commented on [#35](https://github.com/MAVRICK-1/EduWeb/issues/35#issuecomment-2131213002) in [MAVRICK-1/EduWeb](https://github.com/MAVRICK-1/EduWeb)
+2. ❗ Opened issue [#35](https://github.com/MAVRICK-1/EduWeb/issues/35) in [MAVRICK-1/EduWeb](https://github.com/MAVRICK-1/EduWeb)
+3. 🗣 Commented on [#1645](https://github.com/akshitagupta15june/PetMe/issues/1645#issuecomment-2131210557) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
+4. 🔒 Closed issue [#1645](https://github.com/akshitagupta15june/PetMe/issues/1645) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
+5. 🗣 Commented on [#1645](https://github.com/akshitagupta15june/PetMe/issues/1645#issuecomment-2131209971) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
 <!--END_SECTION:activity-->
 
 ---
