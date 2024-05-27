@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#200](https://github.com/Satyam1923/Spring-Music-Player/issues/200#issuecomment-2132884755) in [Satyam1923/Spring-Music-Player](https://github.com/Satyam1923/Spring-Music-Player)
-2. ❗ Opened issue [#200](https://github.com/Satyam1923/Spring-Music-Player/issues/200) in [Satyam1923/Spring-Music-Player](https://github.com/Satyam1923/Spring-Music-Player)
-3. 🗣 Commented on [#6](https://github.com/Kiran-pro2001/hackathon2024IITBhuRoundGrandFinale/issues/6#issuecomment-2132869828) in [Kiran-pro2001/hackathon2024IITBhuRoundGrandFinale](https://github.com/Kiran-pro2001/hackathon2024IITBhuRoundGrandFinale)
-4. ❗ Opened issue [#6](https://github.com/Kiran-pro2001/hackathon2024IITBhuRoundGrandFinale/issues/6) in [Kiran-pro2001/hackathon2024IITBhuRoundGrandFinale](https://github.com/Kiran-pro2001/hackathon2024IITBhuRoundGrandFinale)
-5. 🗣 Commented on [#950](https://github.com/digitomize/digitomize/issues/950#issuecomment-2132834112) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
+1. 🗣 Commented on [#950](https://github.com/digitomize/digitomize/issues/950#issuecomment-2133506659) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
+2. 🗣 Commented on [#957](https://github.com/digitomize/digitomize/pull/957#issuecomment-2133506072) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
+3. ❌ Closed PR [#957](https://github.com/digitomize/digitomize/pull/957) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
+4. 🗣 Commented on [#200](https://github.com/Satyam1923/Spring-Music-Player/issues/200#issuecomment-2132884755) in [Satyam1923/Spring-Music-Player](https://github.com/Satyam1923/Spring-Music-Player)
+5. ❗ Opened issue [#200](https://github.com/Satyam1923/Spring-Music-Player/issues/200) in [Satyam1923/Spring-Music-Player](https://github.com/Satyam1923/Spring-Music-Player)
 <!--END_SECTION:activity-->
 
 ---
