@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#950](https://github.com/digitomize/digitomize/issues/950#issuecomment-2132732237) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
-2. 💪 Opened PR [#956](https://github.com/digitomize/digitomize/pull/956) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
-3. 🗣 Commented on [#373](https://github.com/JiyaGupta-cs/ShopNex/pull/373#issuecomment-2132693982) in [JiyaGupta-cs/ShopNex](https://github.com/JiyaGupta-cs/ShopNex)
-4. 🗣 Commented on [#642](https://github.com/amupedia2021/amupedia-web/pull/642#issuecomment-2132693020) in [amupedia2021/amupedia-web](https://github.com/amupedia2021/amupedia-web)
-5. 🗣 Commented on [#1564](https://github.com/akshitagupta15june/Moksh/pull/1564#issuecomment-2132692005) in [akshitagupta15june/Moksh](https://github.com/akshitagupta15june/Moksh)
+1. 💪 Opened PR [#957](https://github.com/digitomize/digitomize/pull/957) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
+2. 🗣 Commented on [#956](https://github.com/digitomize/digitomize/pull/956#issuecomment-2132802736) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
+3. 🗣 Commented on [#950](https://github.com/digitomize/digitomize/issues/950#issuecomment-2132732237) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
+4. 💪 Opened PR [#956](https://github.com/digitomize/digitomize/pull/956) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
+5. 🗣 Commented on [#373](https://github.com/JiyaGupta-cs/ShopNex/pull/373#issuecomment-2132693982) in [JiyaGupta-cs/ShopNex](https://github.com/JiyaGupta-cs/ShopNex)
 <!--END_SECTION:activity-->
 
 ---
