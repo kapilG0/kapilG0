@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#508](https://github.com/apu52/Travel_Website/issues/508#issuecomment-2132659110) in [apu52/Travel_Website](https://github.com/apu52/Travel_Website)
-2. 💪 Opened PR [#631](https://github.com/apu52/Travel_Website/pull/631) in [apu52/Travel_Website](https://github.com/apu52/Travel_Website)
-3. 🗣 Commented on [#213](https://github.com/mohitparmar1/Shopy/issues/213#issuecomment-2131358307) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
-4. ❗ Opened issue [#213](https://github.com/mohitparmar1/Shopy/issues/213) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
-5. 🗣 Commented on [#212](https://github.com/mohitparmar1/Shopy/issues/212#issuecomment-2131357836) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
+1. 🗣 Commented on [#373](https://github.com/JiyaGupta-cs/ShopNex/pull/373#issuecomment-2132693982) in [JiyaGupta-cs/ShopNex](https://github.com/JiyaGupta-cs/ShopNex)
+2. 🗣 Commented on [#642](https://github.com/amupedia2021/amupedia-web/pull/642#issuecomment-2132693020) in [amupedia2021/amupedia-web](https://github.com/amupedia2021/amupedia-web)
+3. 🗣 Commented on [#1564](https://github.com/akshitagupta15june/Moksh/pull/1564#issuecomment-2132692005) in [akshitagupta15june/Moksh](https://github.com/akshitagupta15june/Moksh)
+4. 🗣 Commented on [#282](https://github.com/harshalhonde21/EcommerceSpectastyle/issues/282#issuecomment-2132687000) in [harshalhonde21/EcommerceSpectastyle](https://github.com/harshalhonde21/EcommerceSpectastyle)
+5. 💪 Opened PR [#331](https://github.com/harshalhonde21/EcommerceSpectastyle/pull/331) in [harshalhonde21/EcommerceSpectastyle](https://github.com/harshalhonde21/EcommerceSpectastyle)
 <!--END_SECTION:activity-->
 
 ---
