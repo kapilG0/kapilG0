@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#213](https://github.com/mohitparmar1/Shopy/issues/213#issuecomment-2131358307) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
-2. ❗ Opened issue [#213](https://github.com/mohitparmar1/Shopy/issues/213) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
-3. 🗣 Commented on [#212](https://github.com/mohitparmar1/Shopy/issues/212#issuecomment-2131357836) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
-4. ❗ Opened issue [#212](https://github.com/mohitparmar1/Shopy/issues/212) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
-5. 🗣 Commented on [#211](https://github.com/mohitparmar1/Shopy/issues/211#issuecomment-2131357360) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
+1. 🗣 Commented on [#508](https://github.com/apu52/Travel_Website/issues/508#issuecomment-2132659110) in [apu52/Travel_Website](https://github.com/apu52/Travel_Website)
+2. 💪 Opened PR [#631](https://github.com/apu52/Travel_Website/pull/631) in [apu52/Travel_Website](https://github.com/apu52/Travel_Website)
+3. 🗣 Commented on [#213](https://github.com/mohitparmar1/Shopy/issues/213#issuecomment-2131358307) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
+4. ❗ Opened issue [#213](https://github.com/mohitparmar1/Shopy/issues/213) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
+5. 🗣 Commented on [#212](https://github.com/mohitparmar1/Shopy/issues/212#issuecomment-2131357836) in [mohitparmar1/Shopy](https://github.com/mohitparmar1/Shopy)
 <!--END_SECTION:activity-->
 
 ---
