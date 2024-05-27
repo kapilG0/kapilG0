@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#780](https://github.com/Rakesh9100/CalcDiverse/issues/780#issuecomment-2133656158) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-2. 💪 Opened PR [#909](https://github.com/Rakesh9100/CalcDiverse/pull/909) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-3. 🗣 Commented on [#950](https://github.com/digitomize/digitomize/issues/950#issuecomment-2133506659) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
-4. 🗣 Commented on [#957](https://github.com/digitomize/digitomize/pull/957#issuecomment-2133506072) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
-5. ❌ Closed PR [#957](https://github.com/digitomize/digitomize/pull/957) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
+1. 🗣 Commented on [#39](https://github.com/MAVRICK-1/EduWeb/issues/39#issuecomment-2133688381) in [MAVRICK-1/EduWeb](https://github.com/MAVRICK-1/EduWeb)
+2. ❗ Opened issue [#39](https://github.com/MAVRICK-1/EduWeb/issues/39) in [MAVRICK-1/EduWeb](https://github.com/MAVRICK-1/EduWeb)
+3. 🗣 Commented on [#909](https://github.com/Rakesh9100/CalcDiverse/pull/909#issuecomment-2133682924) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+4. 🗣 Commented on [#33](https://github.com/MAVRICK-1/EduWeb/issues/33#issuecomment-2133681146) in [MAVRICK-1/EduWeb](https://github.com/MAVRICK-1/EduWeb)
+5. 💪 Opened PR [#38](https://github.com/MAVRICK-1/EduWeb/pull/38) in [MAVRICK-1/EduWeb](https://github.com/MAVRICK-1/EduWeb)
 <!--END_SECTION:activity-->
 
 ---
