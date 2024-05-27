@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#950](https://github.com/digitomize/digitomize/issues/950#issuecomment-2133506659) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
-2. 🗣 Commented on [#957](https://github.com/digitomize/digitomize/pull/957#issuecomment-2133506072) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
-3. ❌ Closed PR [#957](https://github.com/digitomize/digitomize/pull/957) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
-4. 🗣 Commented on [#200](https://github.com/Satyam1923/Spring-Music-Player/issues/200#issuecomment-2132884755) in [Satyam1923/Spring-Music-Player](https://github.com/Satyam1923/Spring-Music-Player)
-5. ❗ Opened issue [#200](https://github.com/Satyam1923/Spring-Music-Player/issues/200) in [Satyam1923/Spring-Music-Player](https://github.com/Satyam1923/Spring-Music-Player)
+1. 🗣 Commented on [#780](https://github.com/Rakesh9100/CalcDiverse/issues/780#issuecomment-2133656158) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+2. 💪 Opened PR [#909](https://github.com/Rakesh9100/CalcDiverse/pull/909) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+3. 🗣 Commented on [#950](https://github.com/digitomize/digitomize/issues/950#issuecomment-2133506659) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
+4. 🗣 Commented on [#957](https://github.com/digitomize/digitomize/pull/957#issuecomment-2133506072) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
+5. ❌ Closed PR [#957](https://github.com/digitomize/digitomize/pull/957) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
 <!--END_SECTION:activity-->
 
 ---
