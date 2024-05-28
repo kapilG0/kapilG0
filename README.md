@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#961](https://github.com/digitomize/digitomize/issues/961#issuecomment-2133858547) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
-2. 🗣 Commented on [#961](https://github.com/digitomize/digitomize/issues/961#issuecomment-2133853432) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
-3. 🗣 Commented on [#961](https://github.com/digitomize/digitomize/issues/961#issuecomment-2133850369) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
-4. ❗ Opened issue [#961](https://github.com/digitomize/digitomize/issues/961) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
-5. 🗣 Commented on [#39](https://github.com/MAVRICK-1/EduWeb/issues/39#issuecomment-2133751821) in [MAVRICK-1/EduWeb](https://github.com/MAVRICK-1/EduWeb)
+1. 🗣 Commented on [#40](https://github.com/MAVRICK-1/EduWeb/pull/40#issuecomment-2134382866) in [MAVRICK-1/EduWeb](https://github.com/MAVRICK-1/EduWeb)
+2. 🗣 Commented on [#961](https://github.com/digitomize/digitomize/issues/961#issuecomment-2133858547) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
+3. 🗣 Commented on [#961](https://github.com/digitomize/digitomize/issues/961#issuecomment-2133853432) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
+4. 🗣 Commented on [#961](https://github.com/digitomize/digitomize/issues/961#issuecomment-2133850369) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
+5. ❗ Opened issue [#961](https://github.com/digitomize/digitomize/issues/961) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
 <!--END_SECTION:activity-->
 
 ---
