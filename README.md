@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#140](https://github.com/urstrulynishkarsh/ReactChat/issues/140#issuecomment-2134530265) in [urstrulynishkarsh/ReactChat](https://github.com/urstrulynishkarsh/ReactChat)
-2. 💪 Opened PR [#167](https://github.com/urstrulynishkarsh/ReactChat/pull/167) in [urstrulynishkarsh/ReactChat](https://github.com/urstrulynishkarsh/ReactChat)
-3. 🗣 Commented on [#40](https://github.com/MAVRICK-1/EduWeb/pull/40#issuecomment-2134382866) in [MAVRICK-1/EduWeb](https://github.com/MAVRICK-1/EduWeb)
-4. 🗣 Commented on [#961](https://github.com/digitomize/digitomize/issues/961#issuecomment-2133858547) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
-5. 🗣 Commented on [#961](https://github.com/digitomize/digitomize/issues/961#issuecomment-2133853432) in [digitomize/digitomize](https://github.com/digitomize/digitomize)
+1. 🗣 Commented on [#349](https://github.com/Anushkabh/krishiconnect/issues/349#issuecomment-2134556035) in [Anushkabh/krishiconnect](https://github.com/Anushkabh/krishiconnect)
+2. ❗ Opened issue [#349](https://github.com/Anushkabh/krishiconnect/issues/349) in [Anushkabh/krishiconnect](https://github.com/Anushkabh/krishiconnect)
+3. 🗣 Commented on [#211](https://github.com/Anushkabh/krishiconnect/issues/211#issuecomment-2134548613) in [Anushkabh/krishiconnect](https://github.com/Anushkabh/krishiconnect)
+4. 🗣 Commented on [#140](https://github.com/urstrulynishkarsh/ReactChat/issues/140#issuecomment-2134530265) in [urstrulynishkarsh/ReactChat](https://github.com/urstrulynishkarsh/ReactChat)
+5. 💪 Opened PR [#167](https://github.com/urstrulynishkarsh/ReactChat/pull/167) in [urstrulynishkarsh/ReactChat](https://github.com/urstrulynishkarsh/ReactChat)
 <!--END_SECTION:activity-->
 
 ---
