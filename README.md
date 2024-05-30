@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#349](https://github.com/Anushkabh/krishiconnect/issues/349#issuecomment-2134556035) in [Anushkabh/krishiconnect](https://github.com/Anushkabh/krishiconnect)
-2. ❗ Opened issue [#349](https://github.com/Anushkabh/krishiconnect/issues/349) in [Anushkabh/krishiconnect](https://github.com/Anushkabh/krishiconnect)
-3. 🗣 Commented on [#211](https://github.com/Anushkabh/krishiconnect/issues/211#issuecomment-2134548613) in [Anushkabh/krishiconnect](https://github.com/Anushkabh/krishiconnect)
-4. 🗣 Commented on [#140](https://github.com/urstrulynishkarsh/ReactChat/issues/140#issuecomment-2134530265) in [urstrulynishkarsh/ReactChat](https://github.com/urstrulynishkarsh/ReactChat)
-5. 💪 Opened PR [#167](https://github.com/urstrulynishkarsh/ReactChat/pull/167) in [urstrulynishkarsh/ReactChat](https://github.com/urstrulynishkarsh/ReactChat)
+1. 🗣 Commented on [#194](https://github.com/singodiyashubham87/Draw-it-out/issues/194#issuecomment-2138762150) in [singodiyashubham87/Draw-it-out](https://github.com/singodiyashubham87/Draw-it-out)
+2. 💪 Opened PR [#235](https://github.com/singodiyashubham87/Draw-it-out/pull/235) in [singodiyashubham87/Draw-it-out](https://github.com/singodiyashubham87/Draw-it-out)
+3. 🗣 Commented on [#349](https://github.com/Anushkabh/krishiconnect/issues/349#issuecomment-2134556035) in [Anushkabh/krishiconnect](https://github.com/Anushkabh/krishiconnect)
+4. ❗ Opened issue [#349](https://github.com/Anushkabh/krishiconnect/issues/349) in [Anushkabh/krishiconnect](https://github.com/Anushkabh/krishiconnect)
+5. 🗣 Commented on [#211](https://github.com/Anushkabh/krishiconnect/issues/211#issuecomment-2134548613) in [Anushkabh/krishiconnect](https://github.com/Anushkabh/krishiconnect)
 <!--END_SECTION:activity-->
 
 ---
