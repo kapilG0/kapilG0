@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#109](https://github.com/TailoredUI/TailoredUI/issues/109#issuecomment-2143738882) in [TailoredUI/TailoredUI](https://github.com/TailoredUI/TailoredUI)
-2. ❗ Opened issue [#109](https://github.com/TailoredUI/TailoredUI/issues/109) in [TailoredUI/TailoredUI](https://github.com/TailoredUI/TailoredUI)
-3. 🗣 Commented on [#348](https://github.com/piug-07/blogzen-OpenSource/issues/348#issuecomment-2143738409) in [piug-07/blogzen-OpenSource](https://github.com/piug-07/blogzen-OpenSource)
-4. ❗ Opened issue [#348](https://github.com/piug-07/blogzen-OpenSource/issues/348) in [piug-07/blogzen-OpenSource](https://github.com/piug-07/blogzen-OpenSource)
-5. 🗣 Commented on [#347](https://github.com/piug-07/blogzen-OpenSource/issues/347#issuecomment-2143738150) in [piug-07/blogzen-OpenSource](https://github.com/piug-07/blogzen-OpenSource)
+1. 🗣 Commented on [#104](https://github.com/omrajsharma/bigohhh.com/issues/104#issuecomment-2143748060) in [omrajsharma/bigohhh.com](https://github.com/omrajsharma/bigohhh.com)
+2. 🗣 Commented on [#109](https://github.com/TailoredUI/TailoredUI/issues/109#issuecomment-2143738882) in [TailoredUI/TailoredUI](https://github.com/TailoredUI/TailoredUI)
+3. ❗ Opened issue [#109](https://github.com/TailoredUI/TailoredUI/issues/109) in [TailoredUI/TailoredUI](https://github.com/TailoredUI/TailoredUI)
+4. 🗣 Commented on [#348](https://github.com/piug-07/blogzen-OpenSource/issues/348#issuecomment-2143738409) in [piug-07/blogzen-OpenSource](https://github.com/piug-07/blogzen-OpenSource)
+5. ❗ Opened issue [#348](https://github.com/piug-07/blogzen-OpenSource/issues/348) in [piug-07/blogzen-OpenSource](https://github.com/piug-07/blogzen-OpenSource)
 <!--END_SECTION:activity-->
 
 ---
