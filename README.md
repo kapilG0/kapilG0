@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#631](https://github.com/apu52/Travel_Website/pull/631#issuecomment-2143483167) in [apu52/Travel_Website](https://github.com/apu52/Travel_Website)
-2. 🗣 Commented on [#631](https://github.com/apu52/Travel_Website/pull/631#issuecomment-2143388828) in [apu52/Travel_Website](https://github.com/apu52/Travel_Website)
-3. 🗣 Commented on [#194](https://github.com/singodiyashubham87/Draw-it-out/issues/194#issuecomment-2138762150) in [singodiyashubham87/Draw-it-out](https://github.com/singodiyashubham87/Draw-it-out)
-4. 💪 Opened PR [#235](https://github.com/singodiyashubham87/Draw-it-out/pull/235) in [singodiyashubham87/Draw-it-out](https://github.com/singodiyashubham87/Draw-it-out)
-5. 🗣 Commented on [#349](https://github.com/Anushkabh/krishiconnect/issues/349#issuecomment-2134556035) in [Anushkabh/krishiconnect](https://github.com/Anushkabh/krishiconnect)
+1. 🗣 Commented on [#302](https://github.com/abhay-raj19/FitBody/issues/302#issuecomment-2143726621) in [abhay-raj19/FitBody](https://github.com/abhay-raj19/FitBody)
+2. 💪 Opened PR [#386](https://github.com/abhay-raj19/FitBody/pull/386) in [abhay-raj19/FitBody](https://github.com/abhay-raj19/FitBody)
+3. 🗣 Commented on [#631](https://github.com/apu52/Travel_Website/pull/631#issuecomment-2143483167) in [apu52/Travel_Website](https://github.com/apu52/Travel_Website)
+4. 🗣 Commented on [#631](https://github.com/apu52/Travel_Website/pull/631#issuecomment-2143388828) in [apu52/Travel_Website](https://github.com/apu52/Travel_Website)
+5. 🗣 Commented on [#194](https://github.com/singodiyashubham87/Draw-it-out/issues/194#issuecomment-2138762150) in [singodiyashubham87/Draw-it-out](https://github.com/singodiyashubham87/Draw-it-out)
 <!--END_SECTION:activity-->
 
 ---
