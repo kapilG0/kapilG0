@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#302](https://github.com/abhay-raj19/FitBody/issues/302#issuecomment-2143726621) in [abhay-raj19/FitBody](https://github.com/abhay-raj19/FitBody)
-2. 💪 Opened PR [#386](https://github.com/abhay-raj19/FitBody/pull/386) in [abhay-raj19/FitBody](https://github.com/abhay-raj19/FitBody)
-3. 🗣 Commented on [#631](https://github.com/apu52/Travel_Website/pull/631#issuecomment-2143483167) in [apu52/Travel_Website](https://github.com/apu52/Travel_Website)
-4. 🗣 Commented on [#631](https://github.com/apu52/Travel_Website/pull/631#issuecomment-2143388828) in [apu52/Travel_Website](https://github.com/apu52/Travel_Website)
-5. 🗣 Commented on [#194](https://github.com/singodiyashubham87/Draw-it-out/issues/194#issuecomment-2138762150) in [singodiyashubham87/Draw-it-out](https://github.com/singodiyashubham87/Draw-it-out)
+1. 🗣 Commented on [#373](https://github.com/JiyaGupta-cs/ShopNex/pull/373#issuecomment-2143732464) in [JiyaGupta-cs/ShopNex](https://github.com/JiyaGupta-cs/ShopNex)
+2. 🗣 Commented on [#1564](https://github.com/akshitagupta15june/Moksh/pull/1564#issuecomment-2143731638) in [akshitagupta15june/Moksh](https://github.com/akshitagupta15june/Moksh)
+3. 🗣 Commented on [#373](https://github.com/JiyaGupta-cs/ShopNex/pull/373#issuecomment-2143728454) in [JiyaGupta-cs/ShopNex](https://github.com/JiyaGupta-cs/ShopNex)
+4. 🗣 Commented on [#302](https://github.com/abhay-raj19/FitBody/issues/302#issuecomment-2143726621) in [abhay-raj19/FitBody](https://github.com/abhay-raj19/FitBody)
+5. 💪 Opened PR [#386](https://github.com/abhay-raj19/FitBody/pull/386) in [abhay-raj19/FitBody](https://github.com/abhay-raj19/FitBody)
 <!--END_SECTION:activity-->
 
 ---
