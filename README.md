@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#373](https://github.com/JiyaGupta-cs/ShopNex/pull/373#issuecomment-2143732464) in [JiyaGupta-cs/ShopNex](https://github.com/JiyaGupta-cs/ShopNex)
-2. 🗣 Commented on [#1564](https://github.com/akshitagupta15june/Moksh/pull/1564#issuecomment-2143731638) in [akshitagupta15june/Moksh](https://github.com/akshitagupta15june/Moksh)
-3. 🗣 Commented on [#373](https://github.com/JiyaGupta-cs/ShopNex/pull/373#issuecomment-2143728454) in [JiyaGupta-cs/ShopNex](https://github.com/JiyaGupta-cs/ShopNex)
-4. 🗣 Commented on [#302](https://github.com/abhay-raj19/FitBody/issues/302#issuecomment-2143726621) in [abhay-raj19/FitBody](https://github.com/abhay-raj19/FitBody)
-5. 💪 Opened PR [#386](https://github.com/abhay-raj19/FitBody/pull/386) in [abhay-raj19/FitBody](https://github.com/abhay-raj19/FitBody)
+1. 🗣 Commented on [#109](https://github.com/TailoredUI/TailoredUI/issues/109#issuecomment-2143738882) in [TailoredUI/TailoredUI](https://github.com/TailoredUI/TailoredUI)
+2. ❗ Opened issue [#109](https://github.com/TailoredUI/TailoredUI/issues/109) in [TailoredUI/TailoredUI](https://github.com/TailoredUI/TailoredUI)
+3. 🗣 Commented on [#348](https://github.com/piug-07/blogzen-OpenSource/issues/348#issuecomment-2143738409) in [piug-07/blogzen-OpenSource](https://github.com/piug-07/blogzen-OpenSource)
+4. ❗ Opened issue [#348](https://github.com/piug-07/blogzen-OpenSource/issues/348) in [piug-07/blogzen-OpenSource](https://github.com/piug-07/blogzen-OpenSource)
+5. 🗣 Commented on [#347](https://github.com/piug-07/blogzen-OpenSource/issues/347#issuecomment-2143738150) in [piug-07/blogzen-OpenSource](https://github.com/piug-07/blogzen-OpenSource)
 <!--END_SECTION:activity-->
 
 ---
