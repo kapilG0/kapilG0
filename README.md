@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#104](https://github.com/omrajsharma/bigohhh.com/issues/104#issuecomment-2143748060) in [omrajsharma/bigohhh.com](https://github.com/omrajsharma/bigohhh.com)
-2. 🗣 Commented on [#109](https://github.com/TailoredUI/TailoredUI/issues/109#issuecomment-2143738882) in [TailoredUI/TailoredUI](https://github.com/TailoredUI/TailoredUI)
-3. ❗ Opened issue [#109](https://github.com/TailoredUI/TailoredUI/issues/109) in [TailoredUI/TailoredUI](https://github.com/TailoredUI/TailoredUI)
-4. 🗣 Commented on [#348](https://github.com/piug-07/blogzen-OpenSource/issues/348#issuecomment-2143738409) in [piug-07/blogzen-OpenSource](https://github.com/piug-07/blogzen-OpenSource)
-5. ❗ Opened issue [#348](https://github.com/piug-07/blogzen-OpenSource/issues/348) in [piug-07/blogzen-OpenSource](https://github.com/piug-07/blogzen-OpenSource)
+1. 🗣 Commented on [#235](https://github.com/singodiyashubham87/Draw-it-out/pull/235#issuecomment-2143783052) in [singodiyashubham87/Draw-it-out](https://github.com/singodiyashubham87/Draw-it-out)
+2. 🗣 Commented on [#35](https://github.com/MAVRICK-1/EduWeb/issues/35#issuecomment-2143779476) in [MAVRICK-1/EduWeb](https://github.com/MAVRICK-1/EduWeb)
+3. 💪 Opened PR [#52](https://github.com/MAVRICK-1/EduWeb/pull/52) in [MAVRICK-1/EduWeb](https://github.com/MAVRICK-1/EduWeb)
+4. 🗣 Commented on [#104](https://github.com/omrajsharma/bigohhh.com/issues/104#issuecomment-2143748060) in [omrajsharma/bigohhh.com](https://github.com/omrajsharma/bigohhh.com)
+5. 🗣 Commented on [#109](https://github.com/TailoredUI/TailoredUI/issues/109#issuecomment-2143738882) in [TailoredUI/TailoredUI](https://github.com/TailoredUI/TailoredUI)
 <!--END_SECTION:activity-->
 
 ---
