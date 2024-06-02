@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#209](https://github.com/Akshatchaube01/TimeWarp/issues/209#issuecomment-2143900404) in [Akshatchaube01/TimeWarp](https://github.com/Akshatchaube01/TimeWarp)
-2. ❗ Opened issue [#209](https://github.com/Akshatchaube01/TimeWarp/issues/209) in [Akshatchaube01/TimeWarp](https://github.com/Akshatchaube01/TimeWarp)
-3. 🗣 Commented on [#45](https://github.com/SnipSavvy/SnipSavvy_Frontend/issues/45#issuecomment-2143862960) in [SnipSavvy/SnipSavvy_Frontend](https://github.com/SnipSavvy/SnipSavvy_Frontend)
-4. 🗣 Commented on [#45](https://github.com/SnipSavvy/SnipSavvy_Frontend/issues/45#issuecomment-2143859290) in [SnipSavvy/SnipSavvy_Frontend](https://github.com/SnipSavvy/SnipSavvy_Frontend)
-5. 🗣 Commented on [#780](https://github.com/Rakesh9100/CalcDiverse/issues/780#issuecomment-2143840768) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+1. 🗣 Commented on [#81](https://github.com/VaibhavArora314/StyleShare/issues/81#issuecomment-2143920192) in [VaibhavArora314/StyleShare](https://github.com/VaibhavArora314/StyleShare)
+2. 🗣 Commented on [#209](https://github.com/Akshatchaube01/TimeWarp/issues/209#issuecomment-2143900404) in [Akshatchaube01/TimeWarp](https://github.com/Akshatchaube01/TimeWarp)
+3. ❗ Opened issue [#209](https://github.com/Akshatchaube01/TimeWarp/issues/209) in [Akshatchaube01/TimeWarp](https://github.com/Akshatchaube01/TimeWarp)
+4. 🗣 Commented on [#45](https://github.com/SnipSavvy/SnipSavvy_Frontend/issues/45#issuecomment-2143862960) in [SnipSavvy/SnipSavvy_Frontend](https://github.com/SnipSavvy/SnipSavvy_Frontend)
+5. 🗣 Commented on [#45](https://github.com/SnipSavvy/SnipSavvy_Frontend/issues/45#issuecomment-2143859290) in [SnipSavvy/SnipSavvy_Frontend](https://github.com/SnipSavvy/SnipSavvy_Frontend)
 <!--END_SECTION:activity-->
 
 ---
