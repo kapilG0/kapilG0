@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#780](https://github.com/Rakesh9100/CalcDiverse/issues/780#issuecomment-2143840768) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-2. 🗣 Commented on [#235](https://github.com/singodiyashubham87/Draw-it-out/pull/235#issuecomment-2143839834) in [singodiyashubham87/Draw-it-out](https://github.com/singodiyashubham87/Draw-it-out)
-3. 🗣 Commented on [#235](https://github.com/singodiyashubham87/Draw-it-out/pull/235#issuecomment-2143824236) in [singodiyashubham87/Draw-it-out](https://github.com/singodiyashubham87/Draw-it-out)
-4. 🗣 Commented on [#211](https://github.com/SUGAM-ARORA/UniCollab/issues/211#issuecomment-2143821696) in [SUGAM-ARORA/UniCollab](https://github.com/SUGAM-ARORA/UniCollab)
-5. ❗ Opened issue [#211](https://github.com/SUGAM-ARORA/UniCollab/issues/211) in [SUGAM-ARORA/UniCollab](https://github.com/SUGAM-ARORA/UniCollab)
+1. 🗣 Commented on [#45](https://github.com/SnipSavvy/SnipSavvy_Frontend/issues/45#issuecomment-2143862960) in [SnipSavvy/SnipSavvy_Frontend](https://github.com/SnipSavvy/SnipSavvy_Frontend)
+2. 🗣 Commented on [#45](https://github.com/SnipSavvy/SnipSavvy_Frontend/issues/45#issuecomment-2143859290) in [SnipSavvy/SnipSavvy_Frontend](https://github.com/SnipSavvy/SnipSavvy_Frontend)
+3. 🗣 Commented on [#780](https://github.com/Rakesh9100/CalcDiverse/issues/780#issuecomment-2143840768) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+4. 🗣 Commented on [#235](https://github.com/singodiyashubham87/Draw-it-out/pull/235#issuecomment-2143839834) in [singodiyashubham87/Draw-it-out](https://github.com/singodiyashubham87/Draw-it-out)
+5. 🗣 Commented on [#235](https://github.com/singodiyashubham87/Draw-it-out/pull/235#issuecomment-2143824236) in [singodiyashubham87/Draw-it-out](https://github.com/singodiyashubham87/Draw-it-out)
 <!--END_SECTION:activity-->
 
 ---
