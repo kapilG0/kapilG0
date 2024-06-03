@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#211](https://github.com/harshalhonde21/EcommerceSpectastyle/issues/211#issuecomment-2144384132) in [harshalhonde21/EcommerceSpectastyle](https://github.com/harshalhonde21/EcommerceSpectastyle)
-2. 🔒 Closed issue [#211](https://github.com/harshalhonde21/EcommerceSpectastyle/issues/211) in [harshalhonde21/EcommerceSpectastyle](https://github.com/harshalhonde21/EcommerceSpectastyle)
-3. 🗣 Commented on [#1536](https://github.com/akshitagupta15june/Moksh/issues/1536#issuecomment-2144381497) in [akshitagupta15june/Moksh](https://github.com/akshitagupta15june/Moksh)
-4. 🔒 Closed issue [#1536](https://github.com/akshitagupta15june/Moksh/issues/1536) in [akshitagupta15june/Moksh](https://github.com/akshitagupta15june/Moksh)
-5. 🗣 Commented on [#235](https://github.com/singodiyashubham87/Draw-it-out/pull/235#issuecomment-2144336106) in [singodiyashubham87/Draw-it-out](https://github.com/singodiyashubham87/Draw-it-out)
+1. 🗣 Commented on [#211](https://github.com/Anushkabh/krishiconnect/issues/211#issuecomment-2144431280) in [Anushkabh/krishiconnect](https://github.com/Anushkabh/krishiconnect)
+2. 🔒 Closed issue [#211](https://github.com/Anushkabh/krishiconnect/issues/211) in [Anushkabh/krishiconnect](https://github.com/Anushkabh/krishiconnect)
+3. 🗣 Commented on [#1080](https://github.com/codervivek5/VigyBag/issues/1080#issuecomment-2144428878) in [codervivek5/VigyBag](https://github.com/codervivek5/VigyBag)
+4. 🔒 Closed issue [#1080](https://github.com/codervivek5/VigyBag/issues/1080) in [codervivek5/VigyBag](https://github.com/codervivek5/VigyBag)
+5. 🔒 Closed issue [#104](https://github.com/omrajsharma/bigohhh.com/issues/104) in [omrajsharma/bigohhh.com](https://github.com/omrajsharma/bigohhh.com)
 <!--END_SECTION:activity-->
 
 ---
