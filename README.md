@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#235](https://github.com/singodiyashubham87/Draw-it-out/pull/235#issuecomment-2144336106) in [singodiyashubham87/Draw-it-out](https://github.com/singodiyashubham87/Draw-it-out)
-2. 🗣 Commented on [#81](https://github.com/VaibhavArora314/StyleShare/issues/81#issuecomment-2143920192) in [VaibhavArora314/StyleShare](https://github.com/VaibhavArora314/StyleShare)
-3. 🗣 Commented on [#209](https://github.com/Akshatchaube01/TimeWarp/issues/209#issuecomment-2143900404) in [Akshatchaube01/TimeWarp](https://github.com/Akshatchaube01/TimeWarp)
-4. ❗ Opened issue [#209](https://github.com/Akshatchaube01/TimeWarp/issues/209) in [Akshatchaube01/TimeWarp](https://github.com/Akshatchaube01/TimeWarp)
-5. 🗣 Commented on [#45](https://github.com/SnipSavvy/SnipSavvy_Frontend/issues/45#issuecomment-2143862960) in [SnipSavvy/SnipSavvy_Frontend](https://github.com/SnipSavvy/SnipSavvy_Frontend)
+1. 🗣 Commented on [#211](https://github.com/harshalhonde21/EcommerceSpectastyle/issues/211#issuecomment-2144384132) in [harshalhonde21/EcommerceSpectastyle](https://github.com/harshalhonde21/EcommerceSpectastyle)
+2. 🔒 Closed issue [#211](https://github.com/harshalhonde21/EcommerceSpectastyle/issues/211) in [harshalhonde21/EcommerceSpectastyle](https://github.com/harshalhonde21/EcommerceSpectastyle)
+3. 🗣 Commented on [#1536](https://github.com/akshitagupta15june/Moksh/issues/1536#issuecomment-2144381497) in [akshitagupta15june/Moksh](https://github.com/akshitagupta15june/Moksh)
+4. 🔒 Closed issue [#1536](https://github.com/akshitagupta15june/Moksh/issues/1536) in [akshitagupta15june/Moksh](https://github.com/akshitagupta15june/Moksh)
+5. 🗣 Commented on [#235](https://github.com/singodiyashubham87/Draw-it-out/pull/235#issuecomment-2144336106) in [singodiyashubham87/Draw-it-out](https://github.com/singodiyashubham87/Draw-it-out)
 <!--END_SECTION:activity-->
 
 ---
