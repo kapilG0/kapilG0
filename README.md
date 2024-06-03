@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#211](https://github.com/Anushkabh/krishiconnect/issues/211#issuecomment-2144431280) in [Anushkabh/krishiconnect](https://github.com/Anushkabh/krishiconnect)
-2. 🔒 Closed issue [#211](https://github.com/Anushkabh/krishiconnect/issues/211) in [Anushkabh/krishiconnect](https://github.com/Anushkabh/krishiconnect)
-3. 🗣 Commented on [#1080](https://github.com/codervivek5/VigyBag/issues/1080#issuecomment-2144428878) in [codervivek5/VigyBag](https://github.com/codervivek5/VigyBag)
-4. 🔒 Closed issue [#1080](https://github.com/codervivek5/VigyBag/issues/1080) in [codervivek5/VigyBag](https://github.com/codervivek5/VigyBag)
-5. 🔒 Closed issue [#104](https://github.com/omrajsharma/bigohhh.com/issues/104) in [omrajsharma/bigohhh.com](https://github.com/omrajsharma/bigohhh.com)
+1. 🔒 Closed issue [#282](https://github.com/harshalhonde21/EcommerceSpectastyle/issues/282) in [harshalhonde21/EcommerceSpectastyle](https://github.com/harshalhonde21/EcommerceSpectastyle)
+2. 🗣 Commented on [#282](https://github.com/harshalhonde21/EcommerceSpectastyle/issues/282#issuecomment-2144449131) in [harshalhonde21/EcommerceSpectastyle](https://github.com/harshalhonde21/EcommerceSpectastyle)
+3. 🗣 Commented on [#167](https://github.com/urstrulynishkarsh/ReactChat/pull/167#issuecomment-2144438319) in [urstrulynishkarsh/ReactChat](https://github.com/urstrulynishkarsh/ReactChat)
+4. 🗣 Commented on [#642](https://github.com/amupedia2021/amupedia-web/pull/642#issuecomment-2144433834) in [amupedia2021/amupedia-web](https://github.com/amupedia2021/amupedia-web)
+5. 🗣 Commented on [#211](https://github.com/Anushkabh/krishiconnect/issues/211#issuecomment-2144431280) in [Anushkabh/krishiconnect](https://github.com/Anushkabh/krishiconnect)
 <!--END_SECTION:activity-->
 
 ---
