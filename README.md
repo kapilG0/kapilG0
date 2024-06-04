@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#177](https://github.com/urstrulynishkarsh/ReactChat/issues/177#issuecomment-2147305039) in [urstrulynishkarsh/ReactChat](https://github.com/urstrulynishkarsh/ReactChat)
-2. ❗ Opened issue [#177](https://github.com/urstrulynishkarsh/ReactChat/issues/177) in [urstrulynishkarsh/ReactChat](https://github.com/urstrulynishkarsh/ReactChat)
-3. 🗣 Commented on [#189](https://github.com/pooranjoyb/popShop/issues/189#issuecomment-2147299026) in [pooranjoyb/popShop](https://github.com/pooranjoyb/popShop)
-4. ❗ Opened issue [#189](https://github.com/pooranjoyb/popShop/issues/189) in [pooranjoyb/popShop](https://github.com/pooranjoyb/popShop)
-5. 🗣 Commented on [#1368](https://github.com/anuragverma108/SwapReads/issues/1368#issuecomment-2147285599) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
+1. 🗣 Commented on [#76](https://github.com/adarsh-singh01/PrithWe/issues/76#issuecomment-2148030126) in [adarsh-singh01/PrithWe](https://github.com/adarsh-singh01/PrithWe)
+2. 🗣 Commented on [#177](https://github.com/urstrulynishkarsh/ReactChat/issues/177#issuecomment-2147305039) in [urstrulynishkarsh/ReactChat](https://github.com/urstrulynishkarsh/ReactChat)
+3. ❗ Opened issue [#177](https://github.com/urstrulynishkarsh/ReactChat/issues/177) in [urstrulynishkarsh/ReactChat](https://github.com/urstrulynishkarsh/ReactChat)
+4. 🗣 Commented on [#189](https://github.com/pooranjoyb/popShop/issues/189#issuecomment-2147299026) in [pooranjoyb/popShop](https://github.com/pooranjoyb/popShop)
+5. ❗ Opened issue [#189](https://github.com/pooranjoyb/popShop/issues/189) in [pooranjoyb/popShop](https://github.com/pooranjoyb/popShop)
 <!--END_SECTION:activity-->
 
 ---
