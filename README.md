@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#282](https://github.com/harshalhonde21/EcommerceSpectastyle/issues/282) in [harshalhonde21/EcommerceSpectastyle](https://github.com/harshalhonde21/EcommerceSpectastyle)
-2. 🗣 Commented on [#282](https://github.com/harshalhonde21/EcommerceSpectastyle/issues/282#issuecomment-2144449131) in [harshalhonde21/EcommerceSpectastyle](https://github.com/harshalhonde21/EcommerceSpectastyle)
-3. 🗣 Commented on [#167](https://github.com/urstrulynishkarsh/ReactChat/pull/167#issuecomment-2144438319) in [urstrulynishkarsh/ReactChat](https://github.com/urstrulynishkarsh/ReactChat)
-4. 🗣 Commented on [#642](https://github.com/amupedia2021/amupedia-web/pull/642#issuecomment-2144433834) in [amupedia2021/amupedia-web](https://github.com/amupedia2021/amupedia-web)
-5. 🗣 Commented on [#211](https://github.com/Anushkabh/krishiconnect/issues/211#issuecomment-2144431280) in [Anushkabh/krishiconnect](https://github.com/Anushkabh/krishiconnect)
+1. 🗣 Commented on [#575](https://github.com/Its-Aman-Yadav/Community-Site/issues/575#issuecomment-2146577929) in [Its-Aman-Yadav/Community-Site](https://github.com/Its-Aman-Yadav/Community-Site)
+2. ❗ Opened issue [#575](https://github.com/Its-Aman-Yadav/Community-Site/issues/575) in [Its-Aman-Yadav/Community-Site](https://github.com/Its-Aman-Yadav/Community-Site)
+3. 🗣 Commented on [#574](https://github.com/Its-Aman-Yadav/Community-Site/issues/574#issuecomment-2146574654) in [Its-Aman-Yadav/Community-Site](https://github.com/Its-Aman-Yadav/Community-Site)
+4. ❗ Opened issue [#574](https://github.com/Its-Aman-Yadav/Community-Site/issues/574) in [Its-Aman-Yadav/Community-Site](https://github.com/Its-Aman-Yadav/Community-Site)
+5. 🗣 Commented on [#319](https://github.com/Rajan-Barnwal/jobproject/issues/319#issuecomment-2146572576) in [Rajan-Barnwal/jobproject](https://github.com/Rajan-Barnwal/jobproject)
 <!--END_SECTION:activity-->
 
 ---
