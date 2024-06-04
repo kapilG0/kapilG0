@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com/punyakrit/social-share/issues/74#issuecomment-2146844967) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
-2. 💪 Opened PR [#92](https://github.com/punyakrit/social-share/pull/92) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
-3. 🗣 Commented on [#100](https://github.com/chirantanbanik/Wellread/issues/100#issuecomment-2146740852) in [chirantanbanik/Wellread](https://github.com/chirantanbanik/Wellread)
-4. ❗ Opened issue [#100](https://github.com/chirantanbanik/Wellread/issues/100) in [chirantanbanik/Wellread](https://github.com/chirantanbanik/Wellread)
-5. 🗣 Commented on [#576](https://github.com/Its-Aman-Yadav/Community-Site/issues/576#issuecomment-2146726693) in [Its-Aman-Yadav/Community-Site](https://github.com/Its-Aman-Yadav/Community-Site)
+1. 🗣 Commented on [#70](https://github.com/singhJasvinder101/MyBlog/issues/70#issuecomment-2147034100) in [singhJasvinder101/MyBlog](https://github.com/singhJasvinder101/MyBlog)
+2. 🗣 Commented on [#74](https://github.com/punyakrit/social-share/issues/74#issuecomment-2146844967) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
+3. 💪 Opened PR [#92](https://github.com/punyakrit/social-share/pull/92) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
+4. 🗣 Commented on [#100](https://github.com/chirantanbanik/Wellread/issues/100#issuecomment-2146740852) in [chirantanbanik/Wellread](https://github.com/chirantanbanik/Wellread)
+5. ❗ Opened issue [#100](https://github.com/chirantanbanik/Wellread/issues/100) in [chirantanbanik/Wellread](https://github.com/chirantanbanik/Wellread)
 <!--END_SECTION:activity-->
 
 ---
