@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com/singhJasvinder101/MyBlog/issues/70#issuecomment-2147034100) in [singhJasvinder101/MyBlog](https://github.com/singhJasvinder101/MyBlog)
-2. 🗣 Commented on [#74](https://github.com/punyakrit/social-share/issues/74#issuecomment-2146844967) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
-3. 💪 Opened PR [#92](https://github.com/punyakrit/social-share/pull/92) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
-4. 🗣 Commented on [#100](https://github.com/chirantanbanik/Wellread/issues/100#issuecomment-2146740852) in [chirantanbanik/Wellread](https://github.com/chirantanbanik/Wellread)
-5. ❗ Opened issue [#100](https://github.com/chirantanbanik/Wellread/issues/100) in [chirantanbanik/Wellread](https://github.com/chirantanbanik/Wellread)
+1. 🗣 Commented on [#189](https://github.com/pooranjoyb/popShop/issues/189#issuecomment-2147299026) in [pooranjoyb/popShop](https://github.com/pooranjoyb/popShop)
+2. ❗ Opened issue [#189](https://github.com/pooranjoyb/popShop/issues/189) in [pooranjoyb/popShop](https://github.com/pooranjoyb/popShop)
+3. 🗣 Commented on [#1368](https://github.com/anuragverma108/SwapReads/issues/1368#issuecomment-2147285599) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
+4. ❗ Opened issue [#1368](https://github.com/anuragverma108/SwapReads/issues/1368) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
+5. 🗣 Commented on [#1367](https://github.com/anuragverma108/SwapReads/issues/1367#issuecomment-2147278518) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
 <!--END_SECTION:activity-->
 
 ---
