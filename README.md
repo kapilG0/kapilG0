@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#575](https://github.com/Its-Aman-Yadav/Community-Site/issues/575#issuecomment-2146577929) in [Its-Aman-Yadav/Community-Site](https://github.com/Its-Aman-Yadav/Community-Site)
-2. ❗ Opened issue [#575](https://github.com/Its-Aman-Yadav/Community-Site/issues/575) in [Its-Aman-Yadav/Community-Site](https://github.com/Its-Aman-Yadav/Community-Site)
-3. 🗣 Commented on [#574](https://github.com/Its-Aman-Yadav/Community-Site/issues/574#issuecomment-2146574654) in [Its-Aman-Yadav/Community-Site](https://github.com/Its-Aman-Yadav/Community-Site)
-4. ❗ Opened issue [#574](https://github.com/Its-Aman-Yadav/Community-Site/issues/574) in [Its-Aman-Yadav/Community-Site](https://github.com/Its-Aman-Yadav/Community-Site)
-5. 🗣 Commented on [#319](https://github.com/Rajan-Barnwal/jobproject/issues/319#issuecomment-2146572576) in [Rajan-Barnwal/jobproject](https://github.com/Rajan-Barnwal/jobproject)
+1. 🗣 Commented on [#100](https://github.com/chirantanbanik/Wellread/issues/100#issuecomment-2146740852) in [chirantanbanik/Wellread](https://github.com/chirantanbanik/Wellread)
+2. ❗ Opened issue [#100](https://github.com/chirantanbanik/Wellread/issues/100) in [chirantanbanik/Wellread](https://github.com/chirantanbanik/Wellread)
+3. 🗣 Commented on [#576](https://github.com/Its-Aman-Yadav/Community-Site/issues/576#issuecomment-2146726693) in [Its-Aman-Yadav/Community-Site](https://github.com/Its-Aman-Yadav/Community-Site)
+4. ❗ Opened issue [#576](https://github.com/Its-Aman-Yadav/Community-Site/issues/576) in [Its-Aman-Yadav/Community-Site](https://github.com/Its-Aman-Yadav/Community-Site)
+5. 🗣 Commented on [#575](https://github.com/Its-Aman-Yadav/Community-Site/issues/575#issuecomment-2146577929) in [Its-Aman-Yadav/Community-Site](https://github.com/Its-Aman-Yadav/Community-Site)
 <!--END_SECTION:activity-->
 
 ---
