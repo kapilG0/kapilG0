@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#177](https://github.com/urstrulynishkarsh/ReactChat/issues/177#issuecomment-2153826909) in [urstrulynishkarsh/ReactChat](https://github.com/urstrulynishkarsh/ReactChat)
-2. 🗣 Commented on [#210](https://github.com/SUGAM-ARORA/UniCollab/issues/210#issuecomment-2153747731) in [SUGAM-ARORA/UniCollab](https://github.com/SUGAM-ARORA/UniCollab)
-3. 🗣 Commented on [#211](https://github.com/SUGAM-ARORA/UniCollab/issues/211#issuecomment-2153747148) in [SUGAM-ARORA/UniCollab](https://github.com/SUGAM-ARORA/UniCollab)
-4. 🔒 Closed issue [#211](https://github.com/SUGAM-ARORA/UniCollab/issues/211) in [SUGAM-ARORA/UniCollab](https://github.com/SUGAM-ARORA/UniCollab)
-5. 🗣 Commented on [#76](https://github.com/adarsh-singh01/PrithWe/issues/76#issuecomment-2148030126) in [adarsh-singh01/PrithWe](https://github.com/adarsh-singh01/PrithWe)
+1. 🔒 Closed issue [#1367](https://github.com/anuragverma108/SwapReads/issues/1367) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
+2. 🗣 Commented on [#1367](https://github.com/anuragverma108/SwapReads/issues/1367#issuecomment-2154226039) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
+3. 🗣 Commented on [#1527](https://github.com/anuragverma108/SwapReads/issues/1527#issuecomment-2154199106) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
+4. ❗ Opened issue [#1527](https://github.com/anuragverma108/SwapReads/issues/1527) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
+5. 🗣 Commented on [#1368](https://github.com/anuragverma108/SwapReads/issues/1368#issuecomment-2154195922) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
 <!--END_SECTION:activity-->
 
 ---
