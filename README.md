@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#76](https://github.com/adarsh-singh01/PrithWe/issues/76#issuecomment-2148030126) in [adarsh-singh01/PrithWe](https://github.com/adarsh-singh01/PrithWe)
-2. 🗣 Commented on [#177](https://github.com/urstrulynishkarsh/ReactChat/issues/177#issuecomment-2147305039) in [urstrulynishkarsh/ReactChat](https://github.com/urstrulynishkarsh/ReactChat)
-3. ❗ Opened issue [#177](https://github.com/urstrulynishkarsh/ReactChat/issues/177) in [urstrulynishkarsh/ReactChat](https://github.com/urstrulynishkarsh/ReactChat)
-4. 🗣 Commented on [#189](https://github.com/pooranjoyb/popShop/issues/189#issuecomment-2147299026) in [pooranjoyb/popShop](https://github.com/pooranjoyb/popShop)
-5. ❗ Opened issue [#189](https://github.com/pooranjoyb/popShop/issues/189) in [pooranjoyb/popShop](https://github.com/pooranjoyb/popShop)
+1. 🗣 Commented on [#210](https://github.com/SUGAM-ARORA/UniCollab/issues/210#issuecomment-2153747731) in [SUGAM-ARORA/UniCollab](https://github.com/SUGAM-ARORA/UniCollab)
+2. 🗣 Commented on [#211](https://github.com/SUGAM-ARORA/UniCollab/issues/211#issuecomment-2153747148) in [SUGAM-ARORA/UniCollab](https://github.com/SUGAM-ARORA/UniCollab)
+3. 🔒 Closed issue [#211](https://github.com/SUGAM-ARORA/UniCollab/issues/211) in [SUGAM-ARORA/UniCollab](https://github.com/SUGAM-ARORA/UniCollab)
+4. 🗣 Commented on [#76](https://github.com/adarsh-singh01/PrithWe/issues/76#issuecomment-2148030126) in [adarsh-singh01/PrithWe](https://github.com/adarsh-singh01/PrithWe)
+5. 🗣 Commented on [#177](https://github.com/urstrulynishkarsh/ReactChat/issues/177#issuecomment-2147305039) in [urstrulynishkarsh/ReactChat](https://github.com/urstrulynishkarsh/ReactChat)
 <!--END_SECTION:activity-->
 
 ---
