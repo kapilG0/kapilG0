@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1546](https://github.com/anuragverma108/SwapReads/pull/1546#issuecomment-2155726596) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
-2. 🗣 Commented on [#1366](https://github.com/anuragverma108/SwapReads/issues/1366#issuecomment-2154914988) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
-3. 🗣 Commented on [#1366](https://github.com/anuragverma108/SwapReads/issues/1366#issuecomment-2154906550) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
-4. 💪 Opened PR [#1546](https://github.com/anuragverma108/SwapReads/pull/1546) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
-5. 🗣 Commented on [#1366](https://github.com/anuragverma108/SwapReads/issues/1366#issuecomment-2154894287) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
+1. 🗣 Commented on [#1546](https://github.com/anuragverma108/SwapReads/pull/1546#issuecomment-2155828095) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
+2. 🗣 Commented on [#1546](https://github.com/anuragverma108/SwapReads/pull/1546#issuecomment-2155726596) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
+3. 🗣 Commented on [#1366](https://github.com/anuragverma108/SwapReads/issues/1366#issuecomment-2154914988) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
+4. 🗣 Commented on [#1366](https://github.com/anuragverma108/SwapReads/issues/1366#issuecomment-2154906550) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
+5. 💪 Opened PR [#1546](https://github.com/anuragverma108/SwapReads/pull/1546) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
 <!--END_SECTION:activity-->
 
 ---
