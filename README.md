@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#99](https://github.com/adarsh-singh01/PrithWe/pull/99#issuecomment-2155853944) in [adarsh-singh01/PrithWe](https://github.com/adarsh-singh01/PrithWe)
-2. 🗣 Commented on [#76](https://github.com/adarsh-singh01/PrithWe/issues/76#issuecomment-2155850755) in [adarsh-singh01/PrithWe](https://github.com/adarsh-singh01/PrithWe)
-3. 💪 Opened PR [#99](https://github.com/adarsh-singh01/PrithWe/pull/99) in [adarsh-singh01/PrithWe](https://github.com/adarsh-singh01/PrithWe)
-4. 🗣 Commented on [#1546](https://github.com/anuragverma108/SwapReads/pull/1546#issuecomment-2155840536) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
-5. 🗣 Commented on [#386](https://github.com/abhay-raj19/FitBody/pull/386#issuecomment-2155830544) in [abhay-raj19/FitBody](https://github.com/abhay-raj19/FitBody)
+1. 🗣 Commented on [#1526](https://github.com/anuragverma108/SwapReads/pull/1526#issuecomment-2155858409) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
+2. 🗣 Commented on [#99](https://github.com/adarsh-singh01/PrithWe/pull/99#issuecomment-2155853944) in [adarsh-singh01/PrithWe](https://github.com/adarsh-singh01/PrithWe)
+3. 🗣 Commented on [#76](https://github.com/adarsh-singh01/PrithWe/issues/76#issuecomment-2155850755) in [adarsh-singh01/PrithWe](https://github.com/adarsh-singh01/PrithWe)
+4. 💪 Opened PR [#99](https://github.com/adarsh-singh01/PrithWe/pull/99) in [adarsh-singh01/PrithWe](https://github.com/adarsh-singh01/PrithWe)
+5. 🗣 Commented on [#1546](https://github.com/anuragverma108/SwapReads/pull/1546#issuecomment-2155840536) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
 <!--END_SECTION:activity-->
 
 ---
