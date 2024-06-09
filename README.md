@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#99](https://github.com/Avdhesh-Varshney/Chanakya-Niti/pull/99#issuecomment-2156339336) in [Avdhesh-Varshney/Chanakya-Niti](https://github.com/Avdhesh-Varshney/Chanakya-Niti)
-2. 🗣 Commented on [#99](https://github.com/Avdhesh-Varshney/Chanakya-Niti/pull/99#issuecomment-2156287823) in [Avdhesh-Varshney/Chanakya-Niti](https://github.com/Avdhesh-Varshney/Chanakya-Niti)
-3. 🗣 Commented on [#36](https://github.com/Avdhesh-Varshney/Chanakya-Niti/issues/36#issuecomment-2155882450) in [Avdhesh-Varshney/Chanakya-Niti](https://github.com/Avdhesh-Varshney/Chanakya-Niti)
-4. 💪 Opened PR [#99](https://github.com/Avdhesh-Varshney/Chanakya-Niti/pull/99) in [Avdhesh-Varshney/Chanakya-Niti](https://github.com/Avdhesh-Varshney/Chanakya-Niti)
-5. 🗣 Commented on [#514](https://github.com/CodeHarborHub/codeharborhub.github.io/issues/514#issuecomment-2155870728) in [CodeHarborHub/codeharborhub.github.io](https://github.com/CodeHarborHub/codeharborhub.github.io)
+1. 🔒 Closed issue [#1368](https://github.com/anuragverma108/SwapReads/issues/1368) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
+2. 🔒 Closed issue [#1366](https://github.com/anuragverma108/SwapReads/issues/1366) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
+3. 🗣 Commented on [#52](https://github.com/MAVRICK-1/EduWeb/pull/52#issuecomment-2156346113) in [MAVRICK-1/EduWeb](https://github.com/MAVRICK-1/EduWeb)
+4. 🗣 Commented on [#52](https://github.com/MAVRICK-1/EduWeb/pull/52#issuecomment-2156340080) in [MAVRICK-1/EduWeb](https://github.com/MAVRICK-1/EduWeb)
+5. 🗣 Commented on [#99](https://github.com/adarsh-singh01/PrithWe/pull/99#issuecomment-2156339793) in [adarsh-singh01/PrithWe](https://github.com/adarsh-singh01/PrithWe)
 <!--END_SECTION:activity-->
 
 ---
