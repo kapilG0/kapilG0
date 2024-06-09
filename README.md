@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1368](https://github.com/anuragverma108/SwapReads/issues/1368) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
-2. 🔒 Closed issue [#1366](https://github.com/anuragverma108/SwapReads/issues/1366) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
-3. 🗣 Commented on [#52](https://github.com/MAVRICK-1/EduWeb/pull/52#issuecomment-2156346113) in [MAVRICK-1/EduWeb](https://github.com/MAVRICK-1/EduWeb)
-4. 🗣 Commented on [#52](https://github.com/MAVRICK-1/EduWeb/pull/52#issuecomment-2156340080) in [MAVRICK-1/EduWeb](https://github.com/MAVRICK-1/EduWeb)
-5. 🗣 Commented on [#99](https://github.com/adarsh-singh01/PrithWe/pull/99#issuecomment-2156339793) in [adarsh-singh01/PrithWe](https://github.com/adarsh-singh01/PrithWe)
+1. 💪 Opened PR [#80](https://github.com/AnguHashBlog/angular-material/pull/80) in [AnguHashBlog/angular-material](https://github.com/AnguHashBlog/angular-material)
+2. 🔒 Closed issue [#1368](https://github.com/anuragverma108/SwapReads/issues/1368) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
+3. 🔒 Closed issue [#1366](https://github.com/anuragverma108/SwapReads/issues/1366) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
+4. 🗣 Commented on [#52](https://github.com/MAVRICK-1/EduWeb/pull/52#issuecomment-2156346113) in [MAVRICK-1/EduWeb](https://github.com/MAVRICK-1/EduWeb)
+5. 🗣 Commented on [#52](https://github.com/MAVRICK-1/EduWeb/pull/52#issuecomment-2156340080) in [MAVRICK-1/EduWeb](https://github.com/MAVRICK-1/EduWeb)
 <!--END_SECTION:activity-->
 
 ---
