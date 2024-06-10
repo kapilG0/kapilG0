@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1817](https://github.com/akshitagupta15june/PetMe/issues/1817#issuecomment-2157187126) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
-2. ❗ Opened issue [#1817](https://github.com/akshitagupta15june/PetMe/issues/1817) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
-3. 🗣 Commented on [#286](https://github.com/VanshKing30/FoodiesWeb/issues/286#issuecomment-2157180165) in [VanshKing30/FoodiesWeb](https://github.com/VanshKing30/FoodiesWeb)
-4. ❗ Opened issue [#286](https://github.com/VanshKing30/FoodiesWeb/issues/286) in [VanshKing30/FoodiesWeb](https://github.com/VanshKing30/FoodiesWeb)
-5. 🗣 Commented on [#167](https://github.com/urstrulynishkarsh/ReactChat/pull/167#issuecomment-2157175803) in [urstrulynishkarsh/ReactChat](https://github.com/urstrulynishkarsh/ReactChat)
+1. 🗣 Commented on [#252](https://github.com/usha-madithati/esmart.github.io/issues/252#issuecomment-2157268347) in [usha-madithati/esmart.github.io](https://github.com/usha-madithati/esmart.github.io)
+2. ❗ Opened issue [#252](https://github.com/usha-madithati/esmart.github.io/issues/252) in [usha-madithati/esmart.github.io](https://github.com/usha-madithati/esmart.github.io)
+3. 🗣 Commented on [#1817](https://github.com/akshitagupta15june/PetMe/issues/1817#issuecomment-2157187126) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
+4. ❗ Opened issue [#1817](https://github.com/akshitagupta15june/PetMe/issues/1817) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
+5. 🗣 Commented on [#286](https://github.com/VanshKing30/FoodiesWeb/issues/286#issuecomment-2157180165) in [VanshKing30/FoodiesWeb](https://github.com/VanshKing30/FoodiesWeb)
 <!--END_SECTION:activity-->
 
 ---
