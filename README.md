@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#99](https://github.com/Avdhesh-Varshney/Chanakya-Niti/pull/99#issuecomment-2157094228) in [Avdhesh-Varshney/Chanakya-Niti](https://github.com/Avdhesh-Varshney/Chanakya-Niti)
-2. 💪 Opened PR [#80](https://github.com/AnguHashBlog/angular-material/pull/80) in [AnguHashBlog/angular-material](https://github.com/AnguHashBlog/angular-material)
-3. 🔒 Closed issue [#1368](https://github.com/anuragverma108/SwapReads/issues/1368) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
-4. 🔒 Closed issue [#1366](https://github.com/anuragverma108/SwapReads/issues/1366) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
-5. 🗣 Commented on [#52](https://github.com/MAVRICK-1/EduWeb/pull/52#issuecomment-2156346113) in [MAVRICK-1/EduWeb](https://github.com/MAVRICK-1/EduWeb)
+1. 🗣 Commented on [#1817](https://github.com/akshitagupta15june/PetMe/issues/1817#issuecomment-2157187126) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
+2. ❗ Opened issue [#1817](https://github.com/akshitagupta15june/PetMe/issues/1817) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
+3. 🗣 Commented on [#286](https://github.com/VanshKing30/FoodiesWeb/issues/286#issuecomment-2157180165) in [VanshKing30/FoodiesWeb](https://github.com/VanshKing30/FoodiesWeb)
+4. ❗ Opened issue [#286](https://github.com/VanshKing30/FoodiesWeb/issues/286) in [VanshKing30/FoodiesWeb](https://github.com/VanshKing30/FoodiesWeb)
+5. 🗣 Commented on [#167](https://github.com/urstrulynishkarsh/ReactChat/pull/167#issuecomment-2157175803) in [urstrulynishkarsh/ReactChat](https://github.com/urstrulynishkarsh/ReactChat)
 <!--END_SECTION:activity-->
 
 ---
