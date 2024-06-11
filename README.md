@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52](https://github.com/MAVRICK-1/EduWeb/pull/52#issuecomment-2160937171) in [MAVRICK-1/EduWeb](https://github.com/MAVRICK-1/EduWeb)
-2. 🗣 Commented on [#220](https://github.com/Nactore-Org/Nacto-Care/issues/220#issuecomment-2160892650) in [Nactore-Org/Nacto-Care](https://github.com/Nactore-Org/Nacto-Care)
-3. 💪 Opened PR [#272](https://github.com/Nactore-Org/Nacto-Care/pull/272) in [Nactore-Org/Nacto-Care](https://github.com/Nactore-Org/Nacto-Care)
-4. 🗣 Commented on [#435](https://github.com/CSEdgeOfficial/learn.csedge.courses/issues/435#issuecomment-2160722965) in [CSEdgeOfficial/learn.csedge.courses](https://github.com/CSEdgeOfficial/learn.csedge.courses)
-5. 💪 Opened PR [#441](https://github.com/CSEdgeOfficial/learn.csedge.courses/pull/441) in [CSEdgeOfficial/learn.csedge.courses](https://github.com/CSEdgeOfficial/learn.csedge.courses)
+1. 🗣 Commented on [#43](https://github.com/Kiran-pro2001/hackathon2024IITBhuRoundGrandFinale/issues/43#issuecomment-2161003453) in [Kiran-pro2001/hackathon2024IITBhuRoundGrandFinale](https://github.com/Kiran-pro2001/hackathon2024IITBhuRoundGrandFinale)
+2. ❗ Opened issue [#43](https://github.com/Kiran-pro2001/hackathon2024IITBhuRoundGrandFinale/issues/43) in [Kiran-pro2001/hackathon2024IITBhuRoundGrandFinale](https://github.com/Kiran-pro2001/hackathon2024IITBhuRoundGrandFinale)
+3. 🗣 Commented on [#119](https://github.com/Nishitbaria/OpenGrame/issues/119#issuecomment-2160987179) in [Nishitbaria/OpenGrame](https://github.com/Nishitbaria/OpenGrame)
+4. ❗ Opened issue [#119](https://github.com/Nishitbaria/OpenGrame/issues/119) in [Nishitbaria/OpenGrame](https://github.com/Nishitbaria/OpenGrame)
+5. 🗣 Commented on [#272](https://github.com/Akshatchaube01/TimeWarp/issues/272#issuecomment-2160974547) in [Akshatchaube01/TimeWarp](https://github.com/Akshatchaube01/TimeWarp)
 <!--END_SECTION:activity-->
 
 ---
