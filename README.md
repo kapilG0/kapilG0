@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#220](https://github.com/Nactore-Org/Nacto-Care/issues/220#issuecomment-2160892650) in [Nactore-Org/Nacto-Care](https://github.com/Nactore-Org/Nacto-Care)
-2. 💪 Opened PR [#272](https://github.com/Nactore-Org/Nacto-Care/pull/272) in [Nactore-Org/Nacto-Care](https://github.com/Nactore-Org/Nacto-Care)
-3. 🗣 Commented on [#435](https://github.com/CSEdgeOfficial/learn.csedge.courses/issues/435#issuecomment-2160722965) in [CSEdgeOfficial/learn.csedge.courses](https://github.com/CSEdgeOfficial/learn.csedge.courses)
-4. 💪 Opened PR [#441](https://github.com/CSEdgeOfficial/learn.csedge.courses/pull/441) in [CSEdgeOfficial/learn.csedge.courses](https://github.com/CSEdgeOfficial/learn.csedge.courses)
-5. 🗣 Commented on [#99](https://github.com/adarsh-singh01/PrithWe/pull/99#issuecomment-2160440848) in [adarsh-singh01/PrithWe](https://github.com/adarsh-singh01/PrithWe)
+1. 🗣 Commented on [#52](https://github.com/MAVRICK-1/EduWeb/pull/52#issuecomment-2160937171) in [MAVRICK-1/EduWeb](https://github.com/MAVRICK-1/EduWeb)
+2. 🗣 Commented on [#220](https://github.com/Nactore-Org/Nacto-Care/issues/220#issuecomment-2160892650) in [Nactore-Org/Nacto-Care](https://github.com/Nactore-Org/Nacto-Care)
+3. 💪 Opened PR [#272](https://github.com/Nactore-Org/Nacto-Care/pull/272) in [Nactore-Org/Nacto-Care](https://github.com/Nactore-Org/Nacto-Care)
+4. 🗣 Commented on [#435](https://github.com/CSEdgeOfficial/learn.csedge.courses/issues/435#issuecomment-2160722965) in [CSEdgeOfficial/learn.csedge.courses](https://github.com/CSEdgeOfficial/learn.csedge.courses)
+5. 💪 Opened PR [#441](https://github.com/CSEdgeOfficial/learn.csedge.courses/pull/441) in [CSEdgeOfficial/learn.csedge.courses](https://github.com/CSEdgeOfficial/learn.csedge.courses)
 <!--END_SECTION:activity-->
 
 ---
