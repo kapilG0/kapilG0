@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/Kiran-pro2001/hackathon2024IITBhuRoundGrandFinale/issues/43#issuecomment-2161003453) in [Kiran-pro2001/hackathon2024IITBhuRoundGrandFinale](https://github.com/Kiran-pro2001/hackathon2024IITBhuRoundGrandFinale)
-2. ❗ Opened issue [#43](https://github.com/Kiran-pro2001/hackathon2024IITBhuRoundGrandFinale/issues/43) in [Kiran-pro2001/hackathon2024IITBhuRoundGrandFinale](https://github.com/Kiran-pro2001/hackathon2024IITBhuRoundGrandFinale)
-3. 🗣 Commented on [#119](https://github.com/Nishitbaria/OpenGrame/issues/119#issuecomment-2160987179) in [Nishitbaria/OpenGrame](https://github.com/Nishitbaria/OpenGrame)
-4. ❗ Opened issue [#119](https://github.com/Nishitbaria/OpenGrame/issues/119) in [Nishitbaria/OpenGrame](https://github.com/Nishitbaria/OpenGrame)
-5. 🗣 Commented on [#272](https://github.com/Akshatchaube01/TimeWarp/issues/272#issuecomment-2160974547) in [Akshatchaube01/TimeWarp](https://github.com/Akshatchaube01/TimeWarp)
+1. 🗣 Commented on [#194](https://github.com/Mansi168/EmoWell/issues/194#issuecomment-2161042297) in [Mansi168/EmoWell](https://github.com/Mansi168/EmoWell)
+2. ❗ Opened issue [#194](https://github.com/Mansi168/EmoWell/issues/194) in [Mansi168/EmoWell](https://github.com/Mansi168/EmoWell)
+3. 🗣 Commented on [#193](https://github.com/Mansi168/EmoWell/issues/193#issuecomment-2161038052) in [Mansi168/EmoWell](https://github.com/Mansi168/EmoWell)
+4. ❗ Opened issue [#193](https://github.com/Mansi168/EmoWell/issues/193) in [Mansi168/EmoWell](https://github.com/Mansi168/EmoWell)
+5. 🗣 Commented on [#192](https://github.com/Mansi168/EmoWell/issues/192#issuecomment-2161034611) in [Mansi168/EmoWell](https://github.com/Mansi168/EmoWell)
 <!--END_SECTION:activity-->
 
 ---
