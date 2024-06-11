@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#194](https://github.com/Mansi168/EmoWell/issues/194#issuecomment-2161042297) in [Mansi168/EmoWell](https://github.com/Mansi168/EmoWell)
-2. ❗ Opened issue [#194](https://github.com/Mansi168/EmoWell/issues/194) in [Mansi168/EmoWell](https://github.com/Mansi168/EmoWell)
-3. 🗣 Commented on [#193](https://github.com/Mansi168/EmoWell/issues/193#issuecomment-2161038052) in [Mansi168/EmoWell](https://github.com/Mansi168/EmoWell)
-4. ❗ Opened issue [#193](https://github.com/Mansi168/EmoWell/issues/193) in [Mansi168/EmoWell](https://github.com/Mansi168/EmoWell)
-5. 🗣 Commented on [#192](https://github.com/Mansi168/EmoWell/issues/192#issuecomment-2161034611) in [Mansi168/EmoWell](https://github.com/Mansi168/EmoWell)
+1. 🗣 Commented on [#506](https://github.com/Omkar-Sonawane-23/Tourism/issues/506#issuecomment-2161104847) in [Omkar-Sonawane-23/Tourism](https://github.com/Omkar-Sonawane-23/Tourism)
+2. ❗ Opened issue [#506](https://github.com/Omkar-Sonawane-23/Tourism/issues/506) in [Omkar-Sonawane-23/Tourism](https://github.com/Omkar-Sonawane-23/Tourism)
+3. 🗣 Commented on [#505](https://github.com/Omkar-Sonawane-23/Tourism/issues/505#issuecomment-2161101323) in [Omkar-Sonawane-23/Tourism](https://github.com/Omkar-Sonawane-23/Tourism)
+4. ❗ Opened issue [#505](https://github.com/Omkar-Sonawane-23/Tourism/issues/505) in [Omkar-Sonawane-23/Tourism](https://github.com/Omkar-Sonawane-23/Tourism)
+5. 🗣 Commented on [#120](https://github.com/punyakrit/social-share/issues/120#issuecomment-2161093303) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
 <!--END_SECTION:activity-->
 
 ---
