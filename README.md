@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#80](https://github.com/AnguHashBlog/angular-material/pull/80#issuecomment-2162152710) in [AnguHashBlog/angular-material](https://github.com/AnguHashBlog/angular-material)
-2. 🗣 Commented on [#286](https://github.com/VanshKing30/FoodiesWeb/issues/286#issuecomment-2161208447) in [VanshKing30/FoodiesWeb](https://github.com/VanshKing30/FoodiesWeb)
-3. 🗣 Commented on [#506](https://github.com/Omkar-Sonawane-23/Tourism/issues/506#issuecomment-2161104847) in [Omkar-Sonawane-23/Tourism](https://github.com/Omkar-Sonawane-23/Tourism)
-4. ❗ Opened issue [#506](https://github.com/Omkar-Sonawane-23/Tourism/issues/506) in [Omkar-Sonawane-23/Tourism](https://github.com/Omkar-Sonawane-23/Tourism)
-5. 🗣 Commented on [#505](https://github.com/Omkar-Sonawane-23/Tourism/issues/505#issuecomment-2161101323) in [Omkar-Sonawane-23/Tourism](https://github.com/Omkar-Sonawane-23/Tourism)
+1. 🗣 Commented on [#80](https://github.com/AnguHashBlog/angular-material/pull/80#issuecomment-2162858220) in [AnguHashBlog/angular-material](https://github.com/AnguHashBlog/angular-material)
+2. 🗣 Commented on [#80](https://github.com/AnguHashBlog/angular-material/pull/80#issuecomment-2162152710) in [AnguHashBlog/angular-material](https://github.com/AnguHashBlog/angular-material)
+3. 🗣 Commented on [#286](https://github.com/VanshKing30/FoodiesWeb/issues/286#issuecomment-2161208447) in [VanshKing30/FoodiesWeb](https://github.com/VanshKing30/FoodiesWeb)
+4. 🗣 Commented on [#506](https://github.com/Omkar-Sonawane-23/Tourism/issues/506#issuecomment-2161104847) in [Omkar-Sonawane-23/Tourism](https://github.com/Omkar-Sonawane-23/Tourism)
+5. ❗ Opened issue [#506](https://github.com/Omkar-Sonawane-23/Tourism/issues/506) in [Omkar-Sonawane-23/Tourism](https://github.com/Omkar-Sonawane-23/Tourism)
 <!--END_SECTION:activity-->
 
 ---
