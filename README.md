@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/akshitagupta15june/PetMe-Prod/issues/45#issuecomment-2163480665) in [akshitagupta15june/PetMe-Prod](https://github.com/akshitagupta15june/PetMe-Prod)
-2. 🗣 Commented on [#80](https://github.com/AnguHashBlog/angular-material/pull/80#issuecomment-2162858220) in [AnguHashBlog/angular-material](https://github.com/AnguHashBlog/angular-material)
-3. 🗣 Commented on [#80](https://github.com/AnguHashBlog/angular-material/pull/80#issuecomment-2162152710) in [AnguHashBlog/angular-material](https://github.com/AnguHashBlog/angular-material)
-4. 🗣 Commented on [#286](https://github.com/VanshKing30/FoodiesWeb/issues/286#issuecomment-2161208447) in [VanshKing30/FoodiesWeb](https://github.com/VanshKing30/FoodiesWeb)
-5. 🗣 Commented on [#506](https://github.com/Omkar-Sonawane-23/Tourism/issues/506#issuecomment-2161104847) in [Omkar-Sonawane-23/Tourism](https://github.com/Omkar-Sonawane-23/Tourism)
+1. 🗣 Commented on [#45](https://github.com/akshitagupta15june/PetMe-Prod/issues/45#issuecomment-2163819919) in [akshitagupta15june/PetMe-Prod](https://github.com/akshitagupta15june/PetMe-Prod)
+2. 🗣 Commented on [#45](https://github.com/akshitagupta15june/PetMe-Prod/issues/45#issuecomment-2163480665) in [akshitagupta15june/PetMe-Prod](https://github.com/akshitagupta15june/PetMe-Prod)
+3. 🗣 Commented on [#80](https://github.com/AnguHashBlog/angular-material/pull/80#issuecomment-2162858220) in [AnguHashBlog/angular-material](https://github.com/AnguHashBlog/angular-material)
+4. 🗣 Commented on [#80](https://github.com/AnguHashBlog/angular-material/pull/80#issuecomment-2162152710) in [AnguHashBlog/angular-material](https://github.com/AnguHashBlog/angular-material)
+5. 🗣 Commented on [#286](https://github.com/VanshKing30/FoodiesWeb/issues/286#issuecomment-2161208447) in [VanshKing30/FoodiesWeb](https://github.com/VanshKing30/FoodiesWeb)
 <!--END_SECTION:activity-->
 
 ---
