@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#99](https://github.com/adarsh-singh01/PrithWe/pull/99#issuecomment-2164587911) in [adarsh-singh01/PrithWe](https://github.com/adarsh-singh01/PrithWe)
-2. 💪 Opened PR [#131](https://github.com/adarsh-singh01/PrithWe/pull/131) in [adarsh-singh01/PrithWe](https://github.com/adarsh-singh01/PrithWe)
-3. 💪 Opened PR [#55](https://github.com/akshitagupta15june/PetMe-Prod/pull/55) in [akshitagupta15june/PetMe-Prod](https://github.com/akshitagupta15june/PetMe-Prod)
-4. 🎉 Merged PR [#1](https://github.com/kapilG0/PetMe-Prod/pull/1) in [kapilG0/PetMe-Prod](https://github.com/kapilG0/PetMe-Prod)
-5. 🗣 Commented on [#45](https://github.com/akshitagupta15june/PetMe-Prod/issues/45#issuecomment-2163819919) in [akshitagupta15june/PetMe-Prod](https://github.com/akshitagupta15june/PetMe-Prod)
+1. 🗣 Commented on [#55](https://github.com/akshitagupta15june/PetMe-Prod/pull/55#issuecomment-2164869322) in [akshitagupta15june/PetMe-Prod](https://github.com/akshitagupta15june/PetMe-Prod)
+2. 🗣 Commented on [#99](https://github.com/adarsh-singh01/PrithWe/pull/99#issuecomment-2164587911) in [adarsh-singh01/PrithWe](https://github.com/adarsh-singh01/PrithWe)
+3. 💪 Opened PR [#131](https://github.com/adarsh-singh01/PrithWe/pull/131) in [adarsh-singh01/PrithWe](https://github.com/adarsh-singh01/PrithWe)
+4. 💪 Opened PR [#55](https://github.com/akshitagupta15june/PetMe-Prod/pull/55) in [akshitagupta15june/PetMe-Prod](https://github.com/akshitagupta15june/PetMe-Prod)
+5. 🎉 Merged PR [#1](https://github.com/kapilG0/PetMe-Prod/pull/1) in [kapilG0/PetMe-Prod](https://github.com/kapilG0/PetMe-Prod)
 <!--END_SECTION:activity-->
 
 ---
