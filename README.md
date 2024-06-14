@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#571](https://github.com/Anishkagupta04/RAPIDOC-HEALTHCARE-WEBSITE-/issues/571#issuecomment-2167268880) in [Anishkagupta04/RAPIDOC-HEALTHCARE-WEBSITE-](https://github.com/Anishkagupta04/RAPIDOC-HEALTHCARE-WEBSITE-)
-2. ❗ Opened issue [#571](https://github.com/Anishkagupta04/RAPIDOC-HEALTHCARE-WEBSITE-/issues/571) in [Anishkagupta04/RAPIDOC-HEALTHCARE-WEBSITE-](https://github.com/Anishkagupta04/RAPIDOC-HEALTHCARE-WEBSITE-)
-3. 🗣 Commented on [#403](https://github.com/PranavBarthwal/cosmoXplore/issues/403#issuecomment-2167264827) in [PranavBarthwal/cosmoXplore](https://github.com/PranavBarthwal/cosmoXplore)
-4. ❗ Opened issue [#403](https://github.com/PranavBarthwal/cosmoXplore/issues/403) in [PranavBarthwal/cosmoXplore](https://github.com/PranavBarthwal/cosmoXplore)
-5. 🗣 Commented on [#386](https://github.com/abhay-raj19/FitBody/pull/386#issuecomment-2165510513) in [abhay-raj19/FitBody](https://github.com/abhay-raj19/FitBody)
+1. 🗣 Commented on [#813](https://github.com/HimanshuNarware/Devlabs/issues/813#issuecomment-2167319003) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
+2. ❗ Opened issue [#813](https://github.com/HimanshuNarware/Devlabs/issues/813) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
+3. 🗣 Commented on [#178](https://github.com/AbhiPatel10/openzone/issues/178#issuecomment-2167315535) in [AbhiPatel10/openzone](https://github.com/AbhiPatel10/openzone)
+4. ❗ Opened issue [#178](https://github.com/AbhiPatel10/openzone/issues/178) in [AbhiPatel10/openzone](https://github.com/AbhiPatel10/openzone)
+5. 🗣 Commented on [#177](https://github.com/AbhiPatel10/openzone/issues/177#issuecomment-2167309967) in [AbhiPatel10/openzone](https://github.com/AbhiPatel10/openzone)
 <!--END_SECTION:activity-->
 
 ---
