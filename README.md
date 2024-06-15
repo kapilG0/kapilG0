@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#813](https://github.com/HimanshuNarware/Devlabs/issues/813#issuecomment-2167319003) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
-2. ❗ Opened issue [#813](https://github.com/HimanshuNarware/Devlabs/issues/813) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
-3. 🗣 Commented on [#178](https://github.com/AbhiPatel10/openzone/issues/178#issuecomment-2167315535) in [AbhiPatel10/openzone](https://github.com/AbhiPatel10/openzone)
-4. ❗ Opened issue [#178](https://github.com/AbhiPatel10/openzone/issues/178) in [AbhiPatel10/openzone](https://github.com/AbhiPatel10/openzone)
-5. 🗣 Commented on [#177](https://github.com/AbhiPatel10/openzone/issues/177#issuecomment-2167309967) in [AbhiPatel10/openzone](https://github.com/AbhiPatel10/openzone)
+1. 🗣 Commented on [#26](https://github.com/gitgoap/AI-Snipping-Tool/issues/26#issuecomment-2169247474) in [gitgoap/AI-Snipping-Tool](https://github.com/gitgoap/AI-Snipping-Tool)
+2. 🗣 Commented on [#52](https://github.com/gitgoap/AI-Snipping-Tool/issues/52#issuecomment-2169246886) in [gitgoap/AI-Snipping-Tool](https://github.com/gitgoap/AI-Snipping-Tool)
+3. 🗣 Commented on [#813](https://github.com/HimanshuNarware/Devlabs/issues/813#issuecomment-2167319003) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
+4. ❗ Opened issue [#813](https://github.com/HimanshuNarware/Devlabs/issues/813) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
+5. 🗣 Commented on [#178](https://github.com/AbhiPatel10/openzone/issues/178#issuecomment-2167315535) in [AbhiPatel10/openzone](https://github.com/AbhiPatel10/openzone)
 <!--END_SECTION:activity-->
 
 ---
