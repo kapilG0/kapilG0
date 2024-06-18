@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#435](https://github.com/CSEdgeOfficial/learn.csedge.courses/issues/435) in [CSEdgeOfficial/learn.csedge.courses](https://github.com/CSEdgeOfficial/learn.csedge.courses)
-2. 🗣 Commented on [#120](https://github.com/punyakrit/social-share/issues/120#issuecomment-2175819894) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
-3. 🔒 Closed issue [#120](https://github.com/punyakrit/social-share/issues/120) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
-4. 🗣 Commented on [#403](https://github.com/PranavBarthwal/cosmoXplore/issues/403#issuecomment-2175789842) in [PranavBarthwal/cosmoXplore](https://github.com/PranavBarthwal/cosmoXplore)
-5. 💪 Opened PR [#414](https://github.com/PranavBarthwal/cosmoXplore/pull/414) in [PranavBarthwal/cosmoXplore](https://github.com/PranavBarthwal/cosmoXplore)
+1. 🔓 Reopened issue [#120](https://github.com/punyakrit/social-share/issues/120) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
+2. 🗣 Commented on [#120](https://github.com/punyakrit/social-share/issues/120#issuecomment-2175992260) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
+3. 🔒 Closed issue [#435](https://github.com/CSEdgeOfficial/learn.csedge.courses/issues/435) in [CSEdgeOfficial/learn.csedge.courses](https://github.com/CSEdgeOfficial/learn.csedge.courses)
+4. 🗣 Commented on [#120](https://github.com/punyakrit/social-share/issues/120#issuecomment-2175819894) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
+5. 🔒 Closed issue [#120](https://github.com/punyakrit/social-share/issues/120) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
 <!--END_SECTION:activity-->
 
 ---
