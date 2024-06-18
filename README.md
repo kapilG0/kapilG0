@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/gitgoap/AI-Snipping-Tool/issues/26#issuecomment-2169247474) in [gitgoap/AI-Snipping-Tool](https://github.com/gitgoap/AI-Snipping-Tool)
-2. 🗣 Commented on [#52](https://github.com/gitgoap/AI-Snipping-Tool/issues/52#issuecomment-2169246886) in [gitgoap/AI-Snipping-Tool](https://github.com/gitgoap/AI-Snipping-Tool)
-3. 🗣 Commented on [#813](https://github.com/HimanshuNarware/Devlabs/issues/813#issuecomment-2167319003) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
-4. ❗ Opened issue [#813](https://github.com/HimanshuNarware/Devlabs/issues/813) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
-5. 🗣 Commented on [#178](https://github.com/AbhiPatel10/openzone/issues/178#issuecomment-2167315535) in [AbhiPatel10/openzone](https://github.com/AbhiPatel10/openzone)
+1. 🔒 Closed issue [#435](https://github.com/CSEdgeOfficial/learn.csedge.courses/issues/435) in [CSEdgeOfficial/learn.csedge.courses](https://github.com/CSEdgeOfficial/learn.csedge.courses)
+2. 🗣 Commented on [#120](https://github.com/punyakrit/social-share/issues/120#issuecomment-2175819894) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
+3. 🔒 Closed issue [#120](https://github.com/punyakrit/social-share/issues/120) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
+4. 🗣 Commented on [#403](https://github.com/PranavBarthwal/cosmoXplore/issues/403#issuecomment-2175789842) in [PranavBarthwal/cosmoXplore](https://github.com/PranavBarthwal/cosmoXplore)
+5. 💪 Opened PR [#414](https://github.com/PranavBarthwal/cosmoXplore/pull/414) in [PranavBarthwal/cosmoXplore](https://github.com/PranavBarthwal/cosmoXplore)
 <!--END_SECTION:activity-->
 
 ---
