@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#837](https://github.com/SyedImtiyaz-1/GetTechProjects/issues/837#issuecomment-2183868845) in [SyedImtiyaz-1/GetTechProjects](https://github.com/SyedImtiyaz-1/GetTechProjects)
-2. ❗ Opened issue [#837](https://github.com/SyedImtiyaz-1/GetTechProjects/issues/837) in [SyedImtiyaz-1/GetTechProjects](https://github.com/SyedImtiyaz-1/GetTechProjects)
-3. 🗣 Commented on [#836](https://github.com/SyedImtiyaz-1/GetTechProjects/issues/836#issuecomment-2183867110) in [SyedImtiyaz-1/GetTechProjects](https://github.com/SyedImtiyaz-1/GetTechProjects)
-4. ❗ Opened issue [#836](https://github.com/SyedImtiyaz-1/GetTechProjects/issues/836) in [SyedImtiyaz-1/GetTechProjects](https://github.com/SyedImtiyaz-1/GetTechProjects)
-5. 🗣 Commented on [#189](https://github.com/samarthhapse/sarthi/issues/189#issuecomment-2183855887) in [samarthhapse/sarthi](https://github.com/samarthhapse/sarthi)
+1. 🗣 Commented on [#183](https://github.com/AbhiPatel10/openzone/issues/183#issuecomment-2183899699) in [AbhiPatel10/openzone](https://github.com/AbhiPatel10/openzone)
+2. ❗ Opened issue [#183](https://github.com/AbhiPatel10/openzone/issues/183) in [AbhiPatel10/openzone](https://github.com/AbhiPatel10/openzone)
+3. 🗣 Commented on [#128](https://github.com/Abidsyed25/ScrapQuest/issues/128#issuecomment-2183898959) in [Abidsyed25/ScrapQuest](https://github.com/Abidsyed25/ScrapQuest)
+4. ❗ Opened issue [#128](https://github.com/Abidsyed25/ScrapQuest/issues/128) in [Abidsyed25/ScrapQuest](https://github.com/Abidsyed25/ScrapQuest)
+5. 🗣 Commented on [#127](https://github.com/Abidsyed25/ScrapQuest/issues/127#issuecomment-2183898363) in [Abidsyed25/ScrapQuest](https://github.com/Abidsyed25/ScrapQuest)
 <!--END_SECTION:activity-->
 
 ---
