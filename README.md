@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#189](https://github.com/samarthhapse/sarthi/issues/189#issuecomment-2183855887) in [samarthhapse/sarthi](https://github.com/samarthhapse/sarthi)
-2. ❗ Opened issue [#189](https://github.com/samarthhapse/sarthi/issues/189) in [samarthhapse/sarthi](https://github.com/samarthhapse/sarthi)
-3. 🔒 Closed issue [#813](https://github.com/HimanshuNarware/Devlabs/issues/813) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
-4. 🗣 Commented on [#813](https://github.com/HimanshuNarware/Devlabs/issues/813#issuecomment-2183814503) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
-5. 🗣 Commented on [#512](https://github.com/arghadipmanna101/Flipkart_Clone/pull/512#issuecomment-2183779930) in [arghadipmanna101/Flipkart_Clone](https://github.com/arghadipmanna101/Flipkart_Clone)
+1. 🗣 Commented on [#837](https://github.com/SyedImtiyaz-1/GetTechProjects/issues/837#issuecomment-2183868845) in [SyedImtiyaz-1/GetTechProjects](https://github.com/SyedImtiyaz-1/GetTechProjects)
+2. ❗ Opened issue [#837](https://github.com/SyedImtiyaz-1/GetTechProjects/issues/837) in [SyedImtiyaz-1/GetTechProjects](https://github.com/SyedImtiyaz-1/GetTechProjects)
+3. 🗣 Commented on [#836](https://github.com/SyedImtiyaz-1/GetTechProjects/issues/836#issuecomment-2183867110) in [SyedImtiyaz-1/GetTechProjects](https://github.com/SyedImtiyaz-1/GetTechProjects)
+4. ❗ Opened issue [#836](https://github.com/SyedImtiyaz-1/GetTechProjects/issues/836) in [SyedImtiyaz-1/GetTechProjects](https://github.com/SyedImtiyaz-1/GetTechProjects)
+5. 🗣 Commented on [#189](https://github.com/samarthhapse/sarthi/issues/189#issuecomment-2183855887) in [samarthhapse/sarthi](https://github.com/samarthhapse/sarthi)
 <!--END_SECTION:activity-->
 
 ---
