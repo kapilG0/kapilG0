@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#220](https://github.com/Nactore-Org/Nacto-Care/issues/220#issuecomment-2183740967) in [Nactore-Org/Nacto-Care](https://github.com/Nactore-Org/Nacto-Care)
-2. 🔓 Reopened issue [#120](https://github.com/punyakrit/social-share/issues/120) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
-3. 🗣 Commented on [#120](https://github.com/punyakrit/social-share/issues/120#issuecomment-2175992260) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
-4. 🔒 Closed issue [#435](https://github.com/CSEdgeOfficial/learn.csedge.courses/issues/435) in [CSEdgeOfficial/learn.csedge.courses](https://github.com/CSEdgeOfficial/learn.csedge.courses)
-5. 🗣 Commented on [#120](https://github.com/punyakrit/social-share/issues/120#issuecomment-2175819894) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
+1. 🗣 Commented on [#167](https://github.com/urstrulynishkarsh/ReactChat/pull/167#issuecomment-2183779042) in [urstrulynishkarsh/ReactChat](https://github.com/urstrulynishkarsh/ReactChat)
+2. 🗣 Commented on [#386](https://github.com/abhay-raj19/FitBody/pull/386#issuecomment-2183778650) in [abhay-raj19/FitBody](https://github.com/abhay-raj19/FitBody)
+3. 🗣 Commented on [#120](https://github.com/punyakrit/social-share/issues/120#issuecomment-2183775682) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
+4. 💪 Opened PR [#144](https://github.com/punyakrit/social-share/pull/144) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
+5. 🗣 Commented on [#220](https://github.com/Nactore-Org/Nacto-Care/issues/220#issuecomment-2183740967) in [Nactore-Org/Nacto-Care](https://github.com/Nactore-Org/Nacto-Care)
 <!--END_SECTION:activity-->
 
 ---
