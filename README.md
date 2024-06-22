@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#512](https://github.com/arghadipmanna101/Flipkart_Clone/pull/512#issuecomment-2183779930) in [arghadipmanna101/Flipkart_Clone](https://github.com/arghadipmanna101/Flipkart_Clone)
-2. 🗣 Commented on [#373](https://github.com/JiyaGupta-cs/ShopNex/pull/373#issuecomment-2183779658) in [JiyaGupta-cs/ShopNex](https://github.com/JiyaGupta-cs/ShopNex)
-3. 🗣 Commented on [#120](https://github.com/ashutoshgithubs/iemhacks_DEV-G/pull/120#issuecomment-2183779366) in [ashutoshgithubs/iemhacks_DEV-G](https://github.com/ashutoshgithubs/iemhacks_DEV-G)
-4. 🗣 Commented on [#167](https://github.com/urstrulynishkarsh/ReactChat/pull/167#issuecomment-2183779042) in [urstrulynishkarsh/ReactChat](https://github.com/urstrulynishkarsh/ReactChat)
-5. 🗣 Commented on [#386](https://github.com/abhay-raj19/FitBody/pull/386#issuecomment-2183778650) in [abhay-raj19/FitBody](https://github.com/abhay-raj19/FitBody)
+1. 🔒 Closed issue [#813](https://github.com/HimanshuNarware/Devlabs/issues/813) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
+2. 🗣 Commented on [#813](https://github.com/HimanshuNarware/Devlabs/issues/813#issuecomment-2183814503) in [HimanshuNarware/Devlabs](https://github.com/HimanshuNarware/Devlabs)
+3. 🗣 Commented on [#512](https://github.com/arghadipmanna101/Flipkart_Clone/pull/512#issuecomment-2183779930) in [arghadipmanna101/Flipkart_Clone](https://github.com/arghadipmanna101/Flipkart_Clone)
+4. 🗣 Commented on [#373](https://github.com/JiyaGupta-cs/ShopNex/pull/373#issuecomment-2183779658) in [JiyaGupta-cs/ShopNex](https://github.com/JiyaGupta-cs/ShopNex)
+5. 🗣 Commented on [#120](https://github.com/ashutoshgithubs/iemhacks_DEV-G/pull/120#issuecomment-2183779366) in [ashutoshgithubs/iemhacks_DEV-G](https://github.com/ashutoshgithubs/iemhacks_DEV-G)
 <!--END_SECTION:activity-->
 
 ---
