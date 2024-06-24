@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1462](https://github.com/jfmartinz/ResourceHub/issues/1462#issuecomment-2186976234) in [jfmartinz/ResourceHub](https://github.com/jfmartinz/ResourceHub)
-2. ❗ Opened issue [#1462](https://github.com/jfmartinz/ResourceHub/issues/1462) in [jfmartinz/ResourceHub](https://github.com/jfmartinz/ResourceHub)
-3. 🗣 Commented on [#250](https://github.com/RIKI-05/MOMOMIA/issues/250#issuecomment-2186970604) in [RIKI-05/MOMOMIA](https://github.com/RIKI-05/MOMOMIA)
-4. ❗ Opened issue [#250](https://github.com/RIKI-05/MOMOMIA/issues/250) in [RIKI-05/MOMOMIA](https://github.com/RIKI-05/MOMOMIA)
-5. 🗣 Commented on [#730](https://github.com/Counselllor/Counsellor-Web/issues/730#issuecomment-2184827672) in [Counselllor/Counsellor-Web](https://github.com/Counselllor/Counsellor-Web)
+1. ❗ Opened issue [#187](https://github.com/freeCodeCamp/contribute/issues/187) in [freeCodeCamp/contribute](https://github.com/freeCodeCamp/contribute)
+2. 🗣 Commented on [#55305](https://github.com/freeCodeCamp/freeCodeCamp/issues/55305#issuecomment-2187009973) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+3. ❗ Opened issue [#55305](https://github.com/freeCodeCamp/freeCodeCamp/issues/55305) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+4. 🗣 Commented on [#1462](https://github.com/jfmartinz/ResourceHub/issues/1462#issuecomment-2186976234) in [jfmartinz/ResourceHub](https://github.com/jfmartinz/ResourceHub)
+5. ❗ Opened issue [#1462](https://github.com/jfmartinz/ResourceHub/issues/1462) in [jfmartinz/ResourceHub](https://github.com/jfmartinz/ResourceHub)
 <!--END_SECTION:activity-->
 
 ---
