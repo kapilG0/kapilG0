@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#730](https://github.com/Counselllor/Counsellor-Web/issues/730#issuecomment-2184827672) in [Counselllor/Counsellor-Web](https://github.com/Counselllor/Counsellor-Web)
-2. 💪 Opened PR [#748](https://github.com/Counselllor/Counsellor-Web/pull/748) in [Counselllor/Counsellor-Web](https://github.com/Counselllor/Counsellor-Web)
-3. 🗣 Commented on [#730](https://github.com/Counselllor/Counsellor-Web/issues/730#issuecomment-2183901508) in [Counselllor/Counsellor-Web](https://github.com/Counselllor/Counsellor-Web)
-4. ❗ Opened issue [#730](https://github.com/Counselllor/Counsellor-Web/issues/730) in [Counselllor/Counsellor-Web](https://github.com/Counselllor/Counsellor-Web)
-5. 🗣 Commented on [#183](https://github.com/AbhiPatel10/openzone/issues/183#issuecomment-2183899699) in [AbhiPatel10/openzone](https://github.com/AbhiPatel10/openzone)
+1. 🗣 Commented on [#1462](https://github.com/jfmartinz/ResourceHub/issues/1462#issuecomment-2186976234) in [jfmartinz/ResourceHub](https://github.com/jfmartinz/ResourceHub)
+2. ❗ Opened issue [#1462](https://github.com/jfmartinz/ResourceHub/issues/1462) in [jfmartinz/ResourceHub](https://github.com/jfmartinz/ResourceHub)
+3. 🗣 Commented on [#250](https://github.com/RIKI-05/MOMOMIA/issues/250#issuecomment-2186970604) in [RIKI-05/MOMOMIA](https://github.com/RIKI-05/MOMOMIA)
+4. ❗ Opened issue [#250](https://github.com/RIKI-05/MOMOMIA/issues/250) in [RIKI-05/MOMOMIA](https://github.com/RIKI-05/MOMOMIA)
+5. 🗣 Commented on [#730](https://github.com/Counselllor/Counsellor-Web/issues/730#issuecomment-2184827672) in [Counselllor/Counsellor-Web](https://github.com/Counselllor/Counsellor-Web)
 <!--END_SECTION:activity-->
 
 ---
