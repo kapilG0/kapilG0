@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#187](https://github.com/freeCodeCamp/contribute/issues/187) in [freeCodeCamp/contribute](https://github.com/freeCodeCamp/contribute)
-2. 🗣 Commented on [#55305](https://github.com/freeCodeCamp/freeCodeCamp/issues/55305#issuecomment-2187009973) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-3. ❗ Opened issue [#55305](https://github.com/freeCodeCamp/freeCodeCamp/issues/55305) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-4. 🗣 Commented on [#1462](https://github.com/jfmartinz/ResourceHub/issues/1462#issuecomment-2186976234) in [jfmartinz/ResourceHub](https://github.com/jfmartinz/ResourceHub)
-5. ❗ Opened issue [#1462](https://github.com/jfmartinz/ResourceHub/issues/1462) in [jfmartinz/ResourceHub](https://github.com/jfmartinz/ResourceHub)
+1. 🗣 Commented on [#387](https://github.com/SUGAM-ARORA/UniCollab/issues/387#issuecomment-2189598638) in [SUGAM-ARORA/UniCollab](https://github.com/SUGAM-ARORA/UniCollab)
+2. ❗ Opened issue [#387](https://github.com/SUGAM-ARORA/UniCollab/issues/387) in [SUGAM-ARORA/UniCollab](https://github.com/SUGAM-ARORA/UniCollab)
+3. 🗣 Commented on [#386](https://github.com/SUGAM-ARORA/UniCollab/issues/386#issuecomment-2189593719) in [SUGAM-ARORA/UniCollab](https://github.com/SUGAM-ARORA/UniCollab)
+4. ❗ Opened issue [#386](https://github.com/SUGAM-ARORA/UniCollab/issues/386) in [SUGAM-ARORA/UniCollab](https://github.com/SUGAM-ARORA/UniCollab)
+5. 🗣 Commented on [#385](https://github.com/SUGAM-ARORA/UniCollab/issues/385#issuecomment-2189589954) in [SUGAM-ARORA/UniCollab](https://github.com/SUGAM-ARORA/UniCollab)
 <!--END_SECTION:activity-->
 
 ---
