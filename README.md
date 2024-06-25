@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#154](https://github.com/Avdhesh-Varshney/chanakya-niti/issues/154#issuecomment-2189689362) in [Avdhesh-Varshney/chanakya-niti](https://github.com/Avdhesh-Varshney/chanakya-niti)
-2. ❗ Opened issue [#154](https://github.com/Avdhesh-Varshney/chanakya-niti/issues/154) in [Avdhesh-Varshney/chanakya-niti](https://github.com/Avdhesh-Varshney/chanakya-niti)
-3. 🗣 Commented on [#45](https://github.com/Chit-Chat-Org/chit-chat-nextjs/issues/45#issuecomment-2189672440) in [Chit-Chat-Org/chit-chat-nextjs](https://github.com/Chit-Chat-Org/chit-chat-nextjs)
-4. ❗ Opened issue [#45](https://github.com/Chit-Chat-Org/chit-chat-nextjs/issues/45) in [Chit-Chat-Org/chit-chat-nextjs](https://github.com/Chit-Chat-Org/chit-chat-nextjs)
-5. 🗣 Commented on [#128](https://github.com/TailoredUI/TailoredUI/issues/128#issuecomment-2189665779) in [TailoredUI/TailoredUI](https://github.com/TailoredUI/TailoredUI)
+1. 🗣 Commented on [#362](https://github.com/subhadeeproy3902/BloxAI/issues/362#issuecomment-2189711694) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
+2. ❗ Opened issue [#362](https://github.com/subhadeeproy3902/BloxAI/issues/362) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
+3. 🗣 Commented on [#147](https://github.com/singhJasvinder101/MyBlog/issues/147#issuecomment-2189706336) in [singhJasvinder101/MyBlog](https://github.com/singhJasvinder101/MyBlog)
+4. ❗ Opened issue [#147](https://github.com/singhJasvinder101/MyBlog/issues/147) in [singhJasvinder101/MyBlog](https://github.com/singhJasvinder101/MyBlog)
+5. 🗣 Commented on [#438](https://github.com/abhay-raj19/FitBody/issues/438#issuecomment-2189702021) in [abhay-raj19/FitBody](https://github.com/abhay-raj19/FitBody)
 <!--END_SECTION:activity-->
 
 ---
