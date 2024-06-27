@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#116](https://github.com/4darsh-Dev/CogniGaurd/issues/116#issuecomment-2194019273) in [4darsh-Dev/CogniGaurd](https://github.com/4darsh-Dev/CogniGaurd)
-2. 🗣 Commented on [#116](https://github.com/4darsh-Dev/CogniGaurd/issues/116#issuecomment-2193979731) in [4darsh-Dev/CogniGaurd](https://github.com/4darsh-Dev/CogniGaurd)
-3. 🗣 Commented on [#334](https://github.com/usha-madithati/esmart.github.io/issues/334#issuecomment-2190447506) in [usha-madithati/esmart.github.io](https://github.com/usha-madithati/esmart.github.io)
-4. 🗣 Commented on [#362](https://github.com/subhadeeproy3902/BloxAI/issues/362#issuecomment-2189711694) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
-5. ❗ Opened issue [#362](https://github.com/subhadeeproy3902/BloxAI/issues/362) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
+1. 🗣 Commented on [#432](https://github.com/krishnaacharyaa/wanderlust/issues/432#issuecomment-2194828799) in [krishnaacharyaa/wanderlust](https://github.com/krishnaacharyaa/wanderlust)
+2. 🗣 Commented on [#116](https://github.com/4darsh-Dev/CogniGaurd/issues/116#issuecomment-2194019273) in [4darsh-Dev/CogniGaurd](https://github.com/4darsh-Dev/CogniGaurd)
+3. 🗣 Commented on [#116](https://github.com/4darsh-Dev/CogniGaurd/issues/116#issuecomment-2193979731) in [4darsh-Dev/CogniGaurd](https://github.com/4darsh-Dev/CogniGaurd)
+4. 🗣 Commented on [#334](https://github.com/usha-madithati/esmart.github.io/issues/334#issuecomment-2190447506) in [usha-madithati/esmart.github.io](https://github.com/usha-madithati/esmart.github.io)
+5. 🗣 Commented on [#362](https://github.com/subhadeeproy3902/BloxAI/issues/362#issuecomment-2189711694) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
 <!--END_SECTION:activity-->
 
 ---
