@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#438](https://github.com/krishnaacharyaa/wanderlust/pull/438#issuecomment-2196450856) in [krishnaacharyaa/wanderlust](https://github.com/krishnaacharyaa/wanderlust)
-2. 🗣 Commented on [#438](https://github.com/krishnaacharyaa/wanderlust/pull/438#issuecomment-2196375117) in [krishnaacharyaa/wanderlust](https://github.com/krishnaacharyaa/wanderlust)
-3. 🗣 Commented on [#147](https://github.com/singhJasvinder101/MyBlog/issues/147#issuecomment-2196249589) in [singhJasvinder101/MyBlog](https://github.com/singhJasvinder101/MyBlog)
-4. 💪 Opened PR [#149](https://github.com/singhJasvinder101/MyBlog/pull/149) in [singhJasvinder101/MyBlog](https://github.com/singhJasvinder101/MyBlog)
-5. 💪 Opened PR [#438](https://github.com/krishnaacharyaa/wanderlust/pull/438) in [krishnaacharyaa/wanderlust](https://github.com/krishnaacharyaa/wanderlust)
+1. 🗣 Commented on [#41](https://github.com/knight1001d/automarket/issues/41#issuecomment-2197757225) in [knight1001d/automarket](https://github.com/knight1001d/automarket)
+2. 🗣 Commented on [#438](https://github.com/krishnaacharyaa/wanderlust/pull/438#issuecomment-2196450856) in [krishnaacharyaa/wanderlust](https://github.com/krishnaacharyaa/wanderlust)
+3. 🗣 Commented on [#438](https://github.com/krishnaacharyaa/wanderlust/pull/438#issuecomment-2196375117) in [krishnaacharyaa/wanderlust](https://github.com/krishnaacharyaa/wanderlust)
+4. 🗣 Commented on [#147](https://github.com/singhJasvinder101/MyBlog/issues/147#issuecomment-2196249589) in [singhJasvinder101/MyBlog](https://github.com/singhJasvinder101/MyBlog)
+5. 💪 Opened PR [#149](https://github.com/singhJasvinder101/MyBlog/pull/149) in [singhJasvinder101/MyBlog](https://github.com/singhJasvinder101/MyBlog)
 <!--END_SECTION:activity-->
 
 ---
