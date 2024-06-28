@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#438](https://github.com/krishnaacharyaa/wanderlust/pull/438) in [krishnaacharyaa/wanderlust](https://github.com/krishnaacharyaa/wanderlust)
-2. 🗣 Commented on [#432](https://github.com/krishnaacharyaa/wanderlust/issues/432#issuecomment-2195259248) in [krishnaacharyaa/wanderlust](https://github.com/krishnaacharyaa/wanderlust)
-3. 🗣 Commented on [#432](https://github.com/krishnaacharyaa/wanderlust/issues/432#issuecomment-2194828799) in [krishnaacharyaa/wanderlust](https://github.com/krishnaacharyaa/wanderlust)
-4. 🗣 Commented on [#116](https://github.com/4darsh-Dev/CogniGaurd/issues/116#issuecomment-2194019273) in [4darsh-Dev/CogniGaurd](https://github.com/4darsh-Dev/CogniGaurd)
-5. 🗣 Commented on [#116](https://github.com/4darsh-Dev/CogniGaurd/issues/116#issuecomment-2193979731) in [4darsh-Dev/CogniGaurd](https://github.com/4darsh-Dev/CogniGaurd)
+1. 🗣 Commented on [#147](https://github.com/singhJasvinder101/MyBlog/issues/147#issuecomment-2196249589) in [singhJasvinder101/MyBlog](https://github.com/singhJasvinder101/MyBlog)
+2. 💪 Opened PR [#149](https://github.com/singhJasvinder101/MyBlog/pull/149) in [singhJasvinder101/MyBlog](https://github.com/singhJasvinder101/MyBlog)
+3. 💪 Opened PR [#438](https://github.com/krishnaacharyaa/wanderlust/pull/438) in [krishnaacharyaa/wanderlust](https://github.com/krishnaacharyaa/wanderlust)
+4. 🗣 Commented on [#432](https://github.com/krishnaacharyaa/wanderlust/issues/432#issuecomment-2195259248) in [krishnaacharyaa/wanderlust](https://github.com/krishnaacharyaa/wanderlust)
+5. 🗣 Commented on [#432](https://github.com/krishnaacharyaa/wanderlust/issues/432#issuecomment-2194828799) in [krishnaacharyaa/wanderlust](https://github.com/krishnaacharyaa/wanderlust)
 <!--END_SECTION:activity-->
 
 ---
