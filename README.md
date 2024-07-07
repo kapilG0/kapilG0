@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#430](https://github.com/subhadeeproy3902/BloxAI/pull/430#issuecomment-2212425335) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
-2. 🗣 Commented on [#152](https://github.com/punyakrit/social-share/issues/152#issuecomment-2212409385) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
-3. 💪 Opened PR [#180](https://github.com/punyakrit/social-share/pull/180) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
-4. 🗣 Commented on [#362](https://github.com/subhadeeproy3902/BloxAI/issues/362#issuecomment-2212403214) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
-5. 💪 Opened PR [#430](https://github.com/subhadeeproy3902/BloxAI/pull/430) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
+1. 🗣 Commented on [#430](https://github.com/subhadeeproy3902/BloxAI/pull/430#issuecomment-2212429891) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
+2. 🗣 Commented on [#430](https://github.com/subhadeeproy3902/BloxAI/pull/430#issuecomment-2212425335) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
+3. 🗣 Commented on [#152](https://github.com/punyakrit/social-share/issues/152#issuecomment-2212409385) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
+4. 💪 Opened PR [#180](https://github.com/punyakrit/social-share/pull/180) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
+5. 🗣 Commented on [#362](https://github.com/subhadeeproy3902/BloxAI/issues/362#issuecomment-2212403214) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
 <!--END_SECTION:activity-->
 
 ---
