@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/knight1001d/automarket/issues/41#issuecomment-2197757225) in [knight1001d/automarket](https://github.com/knight1001d/automarket)
-2. 🗣 Commented on [#438](https://github.com/krishnaacharyaa/wanderlust/pull/438#issuecomment-2196450856) in [krishnaacharyaa/wanderlust](https://github.com/krishnaacharyaa/wanderlust)
-3. 🗣 Commented on [#438](https://github.com/krishnaacharyaa/wanderlust/pull/438#issuecomment-2196375117) in [krishnaacharyaa/wanderlust](https://github.com/krishnaacharyaa/wanderlust)
-4. 🗣 Commented on [#147](https://github.com/singhJasvinder101/MyBlog/issues/147#issuecomment-2196249589) in [singhJasvinder101/MyBlog](https://github.com/singhJasvinder101/MyBlog)
-5. 💪 Opened PR [#149](https://github.com/singhJasvinder101/MyBlog/pull/149) in [singhJasvinder101/MyBlog](https://github.com/singhJasvinder101/MyBlog)
+1. 🗣 Commented on [#152](https://github.com/punyakrit/social-share/issues/152#issuecomment-2212409385) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
+2. 💪 Opened PR [#180](https://github.com/punyakrit/social-share/pull/180) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
+3. 🗣 Commented on [#362](https://github.com/subhadeeproy3902/BloxAI/issues/362#issuecomment-2212403214) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
+4. 💪 Opened PR [#430](https://github.com/subhadeeproy3902/BloxAI/pull/430) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
+5. 🗣 Commented on [#41](https://github.com/knight1001d/automarket/issues/41#issuecomment-2197757225) in [knight1001d/automarket](https://github.com/knight1001d/automarket)
 <!--END_SECTION:activity-->
 
 ---
