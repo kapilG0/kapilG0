@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#862](https://github.com/Anushkabh/krishiconnect/issues/862#issuecomment-2221156030) in [Anushkabh/krishiconnect](https://github.com/Anushkabh/krishiconnect)
-2. ❗ Opened issue [#862](https://github.com/Anushkabh/krishiconnect/issues/862) in [Anushkabh/krishiconnect](https://github.com/Anushkabh/krishiconnect)
-3. 🗣 Commented on [#1765](https://github.com/codervivek5/VigyBag/issues/1765#issuecomment-2221153553) in [codervivek5/VigyBag](https://github.com/codervivek5/VigyBag)
-4. ❗ Opened issue [#1765](https://github.com/codervivek5/VigyBag/issues/1765) in [codervivek5/VigyBag](https://github.com/codervivek5/VigyBag)
-5. 🔒 Closed issue [#362](https://github.com/subhadeeproy3902/BloxAI/issues/362) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
+1. 🗣 Commented on [#240](https://github.com/Mansi168/EmoWell/issues/240#issuecomment-2221178249) in [Mansi168/EmoWell](https://github.com/Mansi168/EmoWell)
+2. ❗ Opened issue [#240](https://github.com/Mansi168/EmoWell/issues/240) in [Mansi168/EmoWell](https://github.com/Mansi168/EmoWell)
+3. 🗣 Commented on [#414](https://github.com/HimanshuNarware/CareerZunction_Intern/issues/414#issuecomment-2221173740) in [HimanshuNarware/CareerZunction_Intern](https://github.com/HimanshuNarware/CareerZunction_Intern)
+4. ❗ Opened issue [#414](https://github.com/HimanshuNarware/CareerZunction_Intern/issues/414) in [HimanshuNarware/CareerZunction_Intern](https://github.com/HimanshuNarware/CareerZunction_Intern)
+5. 🗣 Commented on [#413](https://github.com/HimanshuNarware/CareerZunction_Intern/issues/413#issuecomment-2221172031) in [HimanshuNarware/CareerZunction_Intern](https://github.com/HimanshuNarware/CareerZunction_Intern)
 <!--END_SECTION:activity-->
 
 ---
