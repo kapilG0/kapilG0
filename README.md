@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#240](https://github.com/Mansi168/EmoWell/issues/240#issuecomment-2221178249) in [Mansi168/EmoWell](https://github.com/Mansi168/EmoWell)
-2. ❗ Opened issue [#240](https://github.com/Mansi168/EmoWell/issues/240) in [Mansi168/EmoWell](https://github.com/Mansi168/EmoWell)
-3. 🗣 Commented on [#414](https://github.com/HimanshuNarware/CareerZunction_Intern/issues/414#issuecomment-2221173740) in [HimanshuNarware/CareerZunction_Intern](https://github.com/HimanshuNarware/CareerZunction_Intern)
-4. ❗ Opened issue [#414](https://github.com/HimanshuNarware/CareerZunction_Intern/issues/414) in [HimanshuNarware/CareerZunction_Intern](https://github.com/HimanshuNarware/CareerZunction_Intern)
-5. 🗣 Commented on [#413](https://github.com/HimanshuNarware/CareerZunction_Intern/issues/413#issuecomment-2221172031) in [HimanshuNarware/CareerZunction_Intern](https://github.com/HimanshuNarware/CareerZunction_Intern)
+1. 🗣 Commented on [#49](https://github.com/Chit-Chat-Org/chit-chat-nextjs/issues/49#issuecomment-2221200449) in [Chit-Chat-Org/chit-chat-nextjs](https://github.com/Chit-Chat-Org/chit-chat-nextjs)
+2. ❗ Opened issue [#49](https://github.com/Chit-Chat-Org/chit-chat-nextjs/issues/49) in [Chit-Chat-Org/chit-chat-nextjs](https://github.com/Chit-Chat-Org/chit-chat-nextjs)
+3. 🗣 Commented on [#223](https://github.com/Avdhesh-Varshney/chanakya-niti/issues/223#issuecomment-2221191318) in [Avdhesh-Varshney/chanakya-niti](https://github.com/Avdhesh-Varshney/chanakya-niti)
+4. ❗ Opened issue [#223](https://github.com/Avdhesh-Varshney/chanakya-niti/issues/223) in [Avdhesh-Varshney/chanakya-niti](https://github.com/Avdhesh-Varshney/chanakya-niti)
+5. 🗣 Commented on [#1922](https://github.com/akshitagupta15june/PetMe/issues/1922#issuecomment-2221189228) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
 <!--END_SECTION:activity-->
 
 ---
