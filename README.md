@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#542](https://github.com/Priyaaa1/StartConnect-Hub/issues/542#issuecomment-2221112683) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
-2. 💪 Opened PR [#608](https://github.com/Priyaaa1/StartConnect-Hub/pull/608) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
-3. 🗣 Commented on [#430](https://github.com/subhadeeproy3902/BloxAI/pull/430#issuecomment-2212429891) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
-4. 🗣 Commented on [#430](https://github.com/subhadeeproy3902/BloxAI/pull/430#issuecomment-2212425335) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
-5. 🗣 Commented on [#152](https://github.com/punyakrit/social-share/issues/152#issuecomment-2212409385) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
+1. 🗣 Commented on [#862](https://github.com/Anushkabh/krishiconnect/issues/862#issuecomment-2221156030) in [Anushkabh/krishiconnect](https://github.com/Anushkabh/krishiconnect)
+2. ❗ Opened issue [#862](https://github.com/Anushkabh/krishiconnect/issues/862) in [Anushkabh/krishiconnect](https://github.com/Anushkabh/krishiconnect)
+3. 🗣 Commented on [#1765](https://github.com/codervivek5/VigyBag/issues/1765#issuecomment-2221153553) in [codervivek5/VigyBag](https://github.com/codervivek5/VigyBag)
+4. ❗ Opened issue [#1765](https://github.com/codervivek5/VigyBag/issues/1765) in [codervivek5/VigyBag](https://github.com/codervivek5/VigyBag)
+5. 🔒 Closed issue [#362](https://github.com/subhadeeproy3902/BloxAI/issues/362) in [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI)
 <!--END_SECTION:activity-->
 
 ---
