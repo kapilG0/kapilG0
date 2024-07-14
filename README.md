@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#219](https://github.com/Mansi168/EmoWell/issues/219#issuecomment-2227003942) in [Mansi168/EmoWell](https://github.com/Mansi168/EmoWell)
-2. 💪 Opened PR [#258](https://github.com/Mansi168/EmoWell/pull/258) in [Mansi168/EmoWell](https://github.com/Mansi168/EmoWell)
-3. 🗣 Commented on [#49](https://github.com/Chit-Chat-Org/chit-chat-nextjs/issues/49#issuecomment-2221200449) in [Chit-Chat-Org/chit-chat-nextjs](https://github.com/Chit-Chat-Org/chit-chat-nextjs)
-4. ❗ Opened issue [#49](https://github.com/Chit-Chat-Org/chit-chat-nextjs/issues/49) in [Chit-Chat-Org/chit-chat-nextjs](https://github.com/Chit-Chat-Org/chit-chat-nextjs)
-5. 🗣 Commented on [#223](https://github.com/Avdhesh-Varshney/chanakya-niti/issues/223#issuecomment-2221191318) in [Avdhesh-Varshney/chanakya-niti](https://github.com/Avdhesh-Varshney/chanakya-niti)
+1. 🗣 Commented on [#152](https://github.com/punyakrit/social-share/issues/152#issuecomment-2227383219) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
+2. 🔒 Closed issue [#152](https://github.com/punyakrit/social-share/issues/152) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
+3. 🗣 Commented on [#545](https://github.com/Priyaaa1/StartConnect-Hub/issues/545#issuecomment-2227382765) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
+4. 💪 Opened PR [#625](https://github.com/Priyaaa1/StartConnect-Hub/pull/625) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
+5. 🗣 Commented on [#219](https://github.com/Mansi168/EmoWell/issues/219#issuecomment-2227003942) in [Mansi168/EmoWell](https://github.com/Mansi168/EmoWell)
 <!--END_SECTION:activity-->
 
 ---
