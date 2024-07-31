@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#625](https://github.com/Priyaaa1/StartConnect-Hub/pull/625#issuecomment-2227797806) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
-2. 🗣 Commented on [#334](https://github.com/Akshatchaube01/TimeWarp/issues/334#issuecomment-2227397924) in [Akshatchaube01/TimeWarp](https://github.com/Akshatchaube01/TimeWarp)
-3. 💪 Opened PR [#379](https://github.com/Akshatchaube01/TimeWarp/pull/379) in [Akshatchaube01/TimeWarp](https://github.com/Akshatchaube01/TimeWarp)
-4. 🔒 Closed issue [#333](https://github.com/Akshatchaube01/TimeWarp/issues/333) in [Akshatchaube01/TimeWarp](https://github.com/Akshatchaube01/TimeWarp)
-5. 🗣 Commented on [#335](https://github.com/Akshatchaube01/TimeWarp/issues/335#issuecomment-2227393507) in [Akshatchaube01/TimeWarp](https://github.com/Akshatchaube01/TimeWarp)
+1. 💪 Opened PR [#1006](https://github.com/GSSoC24/Postman-Challenge/pull/1006) in [GSSoC24/Postman-Challenge](https://github.com/GSSoC24/Postman-Challenge)
+2. 🗣 Commented on [#625](https://github.com/Priyaaa1/StartConnect-Hub/pull/625#issuecomment-2227797806) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
+3. 🗣 Commented on [#334](https://github.com/Akshatchaube01/TimeWarp/issues/334#issuecomment-2227397924) in [Akshatchaube01/TimeWarp](https://github.com/Akshatchaube01/TimeWarp)
+4. 💪 Opened PR [#379](https://github.com/Akshatchaube01/TimeWarp/pull/379) in [Akshatchaube01/TimeWarp](https://github.com/Akshatchaube01/TimeWarp)
+5. 🔒 Closed issue [#333](https://github.com/Akshatchaube01/TimeWarp/issues/333) in [Akshatchaube01/TimeWarp](https://github.com/Akshatchaube01/TimeWarp)
 <!--END_SECTION:activity-->
 
 ---
