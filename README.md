@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1006](https://github.com/GSSoC24/Postman-Challenge/pull/1006) in [GSSoC24/Postman-Challenge](https://github.com/GSSoC24/Postman-Challenge)
-2. 🗣 Commented on [#625](https://github.com/Priyaaa1/StartConnect-Hub/pull/625#issuecomment-2227797806) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
-3. 🗣 Commented on [#334](https://github.com/Akshatchaube01/TimeWarp/issues/334#issuecomment-2227397924) in [Akshatchaube01/TimeWarp](https://github.com/Akshatchaube01/TimeWarp)
-4. 💪 Opened PR [#379](https://github.com/Akshatchaube01/TimeWarp/pull/379) in [Akshatchaube01/TimeWarp](https://github.com/Akshatchaube01/TimeWarp)
-5. 🔒 Closed issue [#333](https://github.com/Akshatchaube01/TimeWarp/issues/333) in [Akshatchaube01/TimeWarp](https://github.com/Akshatchaube01/TimeWarp)
+1. 🗣 Commented on [#393](https://github.com/Mansi168/EmoWell/issues/393#issuecomment-2265430956) in [Mansi168/EmoWell](https://github.com/Mansi168/EmoWell)
+2. ❗ Opened issue [#393](https://github.com/Mansi168/EmoWell/issues/393) in [Mansi168/EmoWell](https://github.com/Mansi168/EmoWell)
+3. 🗣 Commented on [#676](https://github.com/Priyaaa1/StartConnect-Hub/issues/676#issuecomment-2265424401) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
+4. ❗ Opened issue [#676](https://github.com/Priyaaa1/StartConnect-Hub/issues/676) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
+5. 🗣 Commented on [#84](https://github.com/dhruvpatidar359/nextdraw/issues/84#issuecomment-2265417933) in [dhruvpatidar359/nextdraw](https://github.com/dhruvpatidar359/nextdraw)
 <!--END_SECTION:activity-->
 
 ---
