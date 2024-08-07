@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#393](https://github.com/Mansi168/EmoWell/issues/393#issuecomment-2265430956) in [Mansi168/EmoWell](https://github.com/Mansi168/EmoWell)
-2. ❗ Opened issue [#393](https://github.com/Mansi168/EmoWell/issues/393) in [Mansi168/EmoWell](https://github.com/Mansi168/EmoWell)
-3. 🗣 Commented on [#676](https://github.com/Priyaaa1/StartConnect-Hub/issues/676#issuecomment-2265424401) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
-4. ❗ Opened issue [#676](https://github.com/Priyaaa1/StartConnect-Hub/issues/676) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
-5. 🗣 Commented on [#84](https://github.com/dhruvpatidar359/nextdraw/issues/84#issuecomment-2265417933) in [dhruvpatidar359/nextdraw](https://github.com/dhruvpatidar359/nextdraw)
+1. ❗ Opened issue [#333](https://github.com/AbhiDiva96/75per/issues/333) in [AbhiDiva96/75per](https://github.com/AbhiDiva96/75per)
+2. 🗣 Commented on [#272](https://github.com/Avdhesh-Varshney/chanakya-niti/issues/272#issuecomment-2273342007) in [Avdhesh-Varshney/chanakya-niti](https://github.com/Avdhesh-Varshney/chanakya-niti)
+3. ❗ Opened issue [#272](https://github.com/Avdhesh-Varshney/chanakya-niti/issues/272) in [Avdhesh-Varshney/chanakya-niti](https://github.com/Avdhesh-Varshney/chanakya-niti)
+4. 🗣 Commented on [#393](https://github.com/Mansi168/EmoWell/issues/393#issuecomment-2265430956) in [Mansi168/EmoWell](https://github.com/Mansi168/EmoWell)
+5. ❗ Opened issue [#393](https://github.com/Mansi168/EmoWell/issues/393) in [Mansi168/EmoWell](https://github.com/Mansi168/EmoWell)
 <!--END_SECTION:activity-->
 
 ---
