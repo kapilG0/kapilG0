@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#173](https://github.com/abhijeetnishal/Password-Shield/issues/173#issuecomment-2273371116) in [abhijeetnishal/Password-Shield](https://github.com/abhijeetnishal/Password-Shield)
-2. ❗ Opened issue [#173](https://github.com/abhijeetnishal/Password-Shield/issues/173) in [abhijeetnishal/Password-Shield](https://github.com/abhijeetnishal/Password-Shield)
-3. 🗣 Commented on [#52](https://github.com/Chit-Chat-Org/chit-chat-nextjs/issues/52#issuecomment-2273366500) in [Chit-Chat-Org/chit-chat-nextjs](https://github.com/Chit-Chat-Org/chit-chat-nextjs)
-4. ❗ Opened issue [#52](https://github.com/Chit-Chat-Org/chit-chat-nextjs/issues/52) in [Chit-Chat-Org/chit-chat-nextjs](https://github.com/Chit-Chat-Org/chit-chat-nextjs)
-5. 🗣 Commented on [#169](https://github.com/singhJasvinder101/MyBlog/issues/169#issuecomment-2273350536) in [singhJasvinder101/MyBlog](https://github.com/singhJasvinder101/MyBlog)
+1. 🗣 Commented on [#390](https://github.com/pooranjoyb/popShop/issues/390#issuecomment-2273396999) in [pooranjoyb/popShop](https://github.com/pooranjoyb/popShop)
+2. ❗ Opened issue [#390](https://github.com/pooranjoyb/popShop/issues/390) in [pooranjoyb/popShop](https://github.com/pooranjoyb/popShop)
+3. 🗣 Commented on [#74](https://github.com/devXprite/gitglance/issues/74#issuecomment-2273393331) in [devXprite/gitglance](https://github.com/devXprite/gitglance)
+4. ❗ Opened issue [#74](https://github.com/devXprite/gitglance/issues/74) in [devXprite/gitglance](https://github.com/devXprite/gitglance)
+5. 🗣 Commented on [#135](https://github.com/TailoredUI/TailoredUI/issues/135#issuecomment-2273379388) in [TailoredUI/TailoredUI](https://github.com/TailoredUI/TailoredUI)
 <!--END_SECTION:activity-->
 
 ---
