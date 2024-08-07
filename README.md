@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#333](https://github.com/AbhiDiva96/75per/issues/333) in [AbhiDiva96/75per](https://github.com/AbhiDiva96/75per)
-2. 🗣 Commented on [#272](https://github.com/Avdhesh-Varshney/chanakya-niti/issues/272#issuecomment-2273342007) in [Avdhesh-Varshney/chanakya-niti](https://github.com/Avdhesh-Varshney/chanakya-niti)
-3. ❗ Opened issue [#272](https://github.com/Avdhesh-Varshney/chanakya-niti/issues/272) in [Avdhesh-Varshney/chanakya-niti](https://github.com/Avdhesh-Varshney/chanakya-niti)
-4. 🗣 Commented on [#393](https://github.com/Mansi168/EmoWell/issues/393#issuecomment-2265430956) in [Mansi168/EmoWell](https://github.com/Mansi168/EmoWell)
-5. ❗ Opened issue [#393](https://github.com/Mansi168/EmoWell/issues/393) in [Mansi168/EmoWell](https://github.com/Mansi168/EmoWell)
+1. 🗣 Commented on [#173](https://github.com/abhijeetnishal/Password-Shield/issues/173#issuecomment-2273371116) in [abhijeetnishal/Password-Shield](https://github.com/abhijeetnishal/Password-Shield)
+2. ❗ Opened issue [#173](https://github.com/abhijeetnishal/Password-Shield/issues/173) in [abhijeetnishal/Password-Shield](https://github.com/abhijeetnishal/Password-Shield)
+3. 🗣 Commented on [#52](https://github.com/Chit-Chat-Org/chit-chat-nextjs/issues/52#issuecomment-2273366500) in [Chit-Chat-Org/chit-chat-nextjs](https://github.com/Chit-Chat-Org/chit-chat-nextjs)
+4. ❗ Opened issue [#52](https://github.com/Chit-Chat-Org/chit-chat-nextjs/issues/52) in [Chit-Chat-Org/chit-chat-nextjs](https://github.com/Chit-Chat-Org/chit-chat-nextjs)
+5. 🗣 Commented on [#169](https://github.com/singhJasvinder101/MyBlog/issues/169#issuecomment-2273350536) in [singhJasvinder101/MyBlog](https://github.com/singhJasvinder101/MyBlog)
 <!--END_SECTION:activity-->
 
 ---
