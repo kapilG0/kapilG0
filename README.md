@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#390](https://github.com/pooranjoyb/popShop/issues/390#issuecomment-2273396999) in [pooranjoyb/popShop](https://github.com/pooranjoyb/popShop)
-2. ❗ Opened issue [#390](https://github.com/pooranjoyb/popShop/issues/390) in [pooranjoyb/popShop](https://github.com/pooranjoyb/popShop)
-3. 🗣 Commented on [#74](https://github.com/devXprite/gitglance/issues/74#issuecomment-2273393331) in [devXprite/gitglance](https://github.com/devXprite/gitglance)
-4. ❗ Opened issue [#74](https://github.com/devXprite/gitglance/issues/74) in [devXprite/gitglance](https://github.com/devXprite/gitglance)
-5. 🗣 Commented on [#135](https://github.com/TailoredUI/TailoredUI/issues/135#issuecomment-2273379388) in [TailoredUI/TailoredUI](https://github.com/TailoredUI/TailoredUI)
+1. 🔒 Closed issue [#140](https://github.com/urstrulynishkarsh/ReactChat/issues/140) in [urstrulynishkarsh/ReactChat](https://github.com/urstrulynishkarsh/ReactChat)
+2. 🔒 Closed issue [#639](https://github.com/amupedia2021/amupedia-web/issues/639) in [amupedia2021/amupedia-web](https://github.com/amupedia2021/amupedia-web)
+3. 🗣 Commented on [#390](https://github.com/pooranjoyb/popShop/issues/390#issuecomment-2273396999) in [pooranjoyb/popShop](https://github.com/pooranjoyb/popShop)
+4. ❗ Opened issue [#390](https://github.com/pooranjoyb/popShop/issues/390) in [pooranjoyb/popShop](https://github.com/pooranjoyb/popShop)
+5. 🗣 Commented on [#74](https://github.com/devXprite/gitglance/issues/74#issuecomment-2273393331) in [devXprite/gitglance](https://github.com/devXprite/gitglance)
 <!--END_SECTION:activity-->
 
 ---
