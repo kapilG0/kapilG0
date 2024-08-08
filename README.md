@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#390](https://github.com/pooranjoyb/popShop/issues/390#issuecomment-2275619146) in [pooranjoyb/popShop](https://github.com/pooranjoyb/popShop)
-2. 💪 Opened PR [#392](https://github.com/pooranjoyb/popShop/pull/392) in [pooranjoyb/popShop](https://github.com/pooranjoyb/popShop)
-3. 🔒 Closed issue [#140](https://github.com/urstrulynishkarsh/ReactChat/issues/140) in [urstrulynishkarsh/ReactChat](https://github.com/urstrulynishkarsh/ReactChat)
-4. 🔒 Closed issue [#639](https://github.com/amupedia2021/amupedia-web/issues/639) in [amupedia2021/amupedia-web](https://github.com/amupedia2021/amupedia-web)
-5. 🗣 Commented on [#390](https://github.com/pooranjoyb/popShop/issues/390#issuecomment-2273396999) in [pooranjoyb/popShop](https://github.com/pooranjoyb/popShop)
+1. 🔒 Closed issue [#545](https://github.com/Priyaaa1/StartConnect-Hub/issues/545) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
+2. 🗣 Commented on [#390](https://github.com/pooranjoyb/popShop/issues/390#issuecomment-2275619146) in [pooranjoyb/popShop](https://github.com/pooranjoyb/popShop)
+3. 💪 Opened PR [#392](https://github.com/pooranjoyb/popShop/pull/392) in [pooranjoyb/popShop](https://github.com/pooranjoyb/popShop)
+4. 🔒 Closed issue [#140](https://github.com/urstrulynishkarsh/ReactChat/issues/140) in [urstrulynishkarsh/ReactChat](https://github.com/urstrulynishkarsh/ReactChat)
+5. 🔒 Closed issue [#639](https://github.com/amupedia2021/amupedia-web/issues/639) in [amupedia2021/amupedia-web](https://github.com/amupedia2021/amupedia-web)
 <!--END_SECTION:activity-->
 
 ---
