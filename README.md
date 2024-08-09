@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#676](https://github.com/Priyaaa1/StartConnect-Hub/issues/676#issuecomment-2275979100) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
-2. 💪 Opened PR [#712](https://github.com/Priyaaa1/StartConnect-Hub/pull/712) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
-3. 🔒 Closed issue [#545](https://github.com/Priyaaa1/StartConnect-Hub/issues/545) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
-4. 🗣 Commented on [#390](https://github.com/pooranjoyb/popShop/issues/390#issuecomment-2275619146) in [pooranjoyb/popShop](https://github.com/pooranjoyb/popShop)
-5. 💪 Opened PR [#392](https://github.com/pooranjoyb/popShop/pull/392) in [pooranjoyb/popShop](https://github.com/pooranjoyb/popShop)
+1. 🗣 Commented on [#379](https://github.com/Akshatchaube01/TimeWarp/pull/379#issuecomment-2277072926) in [Akshatchaube01/TimeWarp](https://github.com/Akshatchaube01/TimeWarp)
+2. 🔒 Closed issue [#120](https://github.com/punyakrit/social-share/issues/120) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
+3. 🗣 Commented on [#676](https://github.com/Priyaaa1/StartConnect-Hub/issues/676#issuecomment-2275979100) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
+4. 💪 Opened PR [#712](https://github.com/Priyaaa1/StartConnect-Hub/pull/712) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
+5. 🔒 Closed issue [#545](https://github.com/Priyaaa1/StartConnect-Hub/issues/545) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
 <!--END_SECTION:activity-->
 
 ---
