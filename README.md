@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#247](https://github.com/JiyaGupta-cs/ShopNex/issues/247#issuecomment-2277083332) in [JiyaGupta-cs/ShopNex](https://github.com/JiyaGupta-cs/ShopNex)
-2. 🗣 Commented on [#386](https://github.com/abhay-raj19/FitBody/pull/386#issuecomment-2277080313) in [abhay-raj19/FitBody](https://github.com/abhay-raj19/FitBody)
-3. 🗣 Commented on [#379](https://github.com/Akshatchaube01/TimeWarp/pull/379#issuecomment-2277072926) in [Akshatchaube01/TimeWarp](https://github.com/Akshatchaube01/TimeWarp)
-4. 🔒 Closed issue [#120](https://github.com/punyakrit/social-share/issues/120) in [punyakrit/social-share](https://github.com/punyakrit/social-share)
-5. 🗣 Commented on [#676](https://github.com/Priyaaa1/StartConnect-Hub/issues/676#issuecomment-2275979100) in [Priyaaa1/StartConnect-Hub](https://github.com/Priyaaa1/StartConnect-Hub)
+1. 🗣 Commented on [#1](https://github.com/BamaCharanChhandogi/READMEasy/issues/1#issuecomment-2386568927) in [BamaCharanChhandogi/READMEasy](https://github.com/BamaCharanChhandogi/READMEasy)
+2. ❗ Opened issue [#9](https://github.com/himeshparashar/Social-Morph/issues/9) in [himeshparashar/Social-Morph](https://github.com/himeshparashar/Social-Morph)
+3. ❗ Opened issue [#1](https://github.com/BamaCharanChhandogi/READMEasy/issues/1) in [BamaCharanChhandogi/READMEasy](https://github.com/BamaCharanChhandogi/READMEasy)
+4. 🗣 Commented on [#247](https://github.com/JiyaGupta-cs/ShopNex/issues/247#issuecomment-2277083332) in [JiyaGupta-cs/ShopNex](https://github.com/JiyaGupta-cs/ShopNex)
+5. 🗣 Commented on [#386](https://github.com/abhay-raj19/FitBody/pull/386#issuecomment-2277080313) in [abhay-raj19/FitBody](https://github.com/abhay-raj19/FitBody)
 <!--END_SECTION:activity-->
 
 ---
