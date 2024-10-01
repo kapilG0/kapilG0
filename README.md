@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/BamaCharanChhandogi/READMEasy/issues/1#issuecomment-2386568927) in [BamaCharanChhandogi/READMEasy](https://github.com/BamaCharanChhandogi/READMEasy)
-2. ❗ Opened issue [#9](https://github.com/himeshparashar/Social-Morph/issues/9) in [himeshparashar/Social-Morph](https://github.com/himeshparashar/Social-Morph)
-3. ❗ Opened issue [#1](https://github.com/BamaCharanChhandogi/READMEasy/issues/1) in [BamaCharanChhandogi/READMEasy](https://github.com/BamaCharanChhandogi/READMEasy)
-4. 🗣 Commented on [#247](https://github.com/JiyaGupta-cs/ShopNex/issues/247#issuecomment-2277083332) in [JiyaGupta-cs/ShopNex](https://github.com/JiyaGupta-cs/ShopNex)
-5. 🗣 Commented on [#386](https://github.com/abhay-raj19/FitBody/pull/386#issuecomment-2277080313) in [abhay-raj19/FitBody](https://github.com/abhay-raj19/FitBody)
+1. 🗣 Commented on [#1224](https://github.com/recodehive/machine-learning-repos/issues/1224#issuecomment-2386582999) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
+2. ❗ Opened issue [#1224](https://github.com/recodehive/machine-learning-repos/issues/1224) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
+3. 🗣 Commented on [#17](https://github.com/Mohit5Upadhyay/WeatherApplication/issues/17#issuecomment-2386574642) in [Mohit5Upadhyay/WeatherApplication](https://github.com/Mohit5Upadhyay/WeatherApplication)
+4. ❗ Opened issue [#17](https://github.com/Mohit5Upadhyay/WeatherApplication/issues/17) in [Mohit5Upadhyay/WeatherApplication](https://github.com/Mohit5Upadhyay/WeatherApplication)
+5. 🗣 Commented on [#1](https://github.com/BamaCharanChhandogi/READMEasy/issues/1#issuecomment-2386568927) in [BamaCharanChhandogi/READMEasy](https://github.com/BamaCharanChhandogi/READMEasy)
 <!--END_SECTION:activity-->
 
 ---
