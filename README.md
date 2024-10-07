@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1224](https://github.com/recodehive/machine-learning-repos/issues/1224#issuecomment-2386582999) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
-2. ❗ Opened issue [#1224](https://github.com/recodehive/machine-learning-repos/issues/1224) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
-3. 🗣 Commented on [#17](https://github.com/Mohit5Upadhyay/WeatherApplication/issues/17#issuecomment-2386574642) in [Mohit5Upadhyay/WeatherApplication](https://github.com/Mohit5Upadhyay/WeatherApplication)
-4. ❗ Opened issue [#17](https://github.com/Mohit5Upadhyay/WeatherApplication/issues/17) in [Mohit5Upadhyay/WeatherApplication](https://github.com/Mohit5Upadhyay/WeatherApplication)
-5. 🗣 Commented on [#1](https://github.com/BamaCharanChhandogi/READMEasy/issues/1#issuecomment-2386568927) in [BamaCharanChhandogi/READMEasy](https://github.com/BamaCharanChhandogi/READMEasy)
+1. ❗ Opened issue [#875](https://github.com/anmode/grabtern-frontend/issues/875) in [anmode/grabtern-frontend](https://github.com/anmode/grabtern-frontend)
+2. 🗣 Commented on [#1224](https://github.com/recodehive/machine-learning-repos/issues/1224#issuecomment-2386582999) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
+3. ❗ Opened issue [#1224](https://github.com/recodehive/machine-learning-repos/issues/1224) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
+4. 🗣 Commented on [#17](https://github.com/Mohit5Upadhyay/WeatherApplication/issues/17#issuecomment-2386574642) in [Mohit5Upadhyay/WeatherApplication](https://github.com/Mohit5Upadhyay/WeatherApplication)
+5. ❗ Opened issue [#17](https://github.com/Mohit5Upadhyay/WeatherApplication/issues/17) in [Mohit5Upadhyay/WeatherApplication](https://github.com/Mohit5Upadhyay/WeatherApplication)
 <!--END_SECTION:activity-->
 
 ---
