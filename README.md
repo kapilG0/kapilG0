@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#19](https://github.com/robinsingh-ai/AutomataVerse/issues/19) in [robinsingh-ai/AutomataVerse](https://github.com/robinsingh-ai/AutomataVerse)
-2. 🗣 Commented on [#62](https://github.com/yashvikram30/legalease/issues/62#issuecomment-3124514736) in [yashvikram30/legalease](https://github.com/yashvikram30/legalease)
-3. ❗ Opened issue [#62](https://github.com/yashvikram30/legalease/issues/62) in [yashvikram30/legalease](https://github.com/yashvikram30/legalease)
-4. 🗣 Commented on [#61](https://github.com/yashvikram30/legalease/issues/61#issuecomment-3124513229) in [yashvikram30/legalease](https://github.com/yashvikram30/legalease)
-5. ❗ Opened issue [#61](https://github.com/yashvikram30/legalease/issues/61) in [yashvikram30/legalease](https://github.com/yashvikram30/legalease)
+1. 🗣 Commented on [#87](https://github.com/BaraniVA/Habitheat/issues/87#issuecomment-3124530007) in [BaraniVA/Habitheat](https://github.com/BaraniVA/Habitheat)
+2. ❗ Opened issue [#87](https://github.com/BaraniVA/Habitheat/issues/87) in [BaraniVA/Habitheat](https://github.com/BaraniVA/Habitheat)
+3. 🗣 Commented on [#71](https://github.com/Prashanti-Hebbar/FoodIO/issues/71#issuecomment-3124525812) in [Prashanti-Hebbar/FoodIO](https://github.com/Prashanti-Hebbar/FoodIO)
+4. ❗ Opened issue [#71](https://github.com/Prashanti-Hebbar/FoodIO/issues/71) in [Prashanti-Hebbar/FoodIO](https://github.com/Prashanti-Hebbar/FoodIO)
+5. 🗣 Commented on [#70](https://github.com/Prashanti-Hebbar/FoodIO/issues/70#issuecomment-3124523558) in [Prashanti-Hebbar/FoodIO](https://github.com/Prashanti-Hebbar/FoodIO)
 <!--END_SECTION:activity-->
 
 ---
