@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#87](https://github.com/BaraniVA/Habitheat/issues/87#issuecomment-3124530007) in [BaraniVA/Habitheat](https://github.com/BaraniVA/Habitheat)
-2. ❗ Opened issue [#87](https://github.com/BaraniVA/Habitheat/issues/87) in [BaraniVA/Habitheat](https://github.com/BaraniVA/Habitheat)
-3. 🗣 Commented on [#71](https://github.com/Prashanti-Hebbar/FoodIO/issues/71#issuecomment-3124525812) in [Prashanti-Hebbar/FoodIO](https://github.com/Prashanti-Hebbar/FoodIO)
-4. ❗ Opened issue [#71](https://github.com/Prashanti-Hebbar/FoodIO/issues/71) in [Prashanti-Hebbar/FoodIO](https://github.com/Prashanti-Hebbar/FoodIO)
-5. 🗣 Commented on [#70](https://github.com/Prashanti-Hebbar/FoodIO/issues/70#issuecomment-3124523558) in [Prashanti-Hebbar/FoodIO](https://github.com/Prashanti-Hebbar/FoodIO)
+1. 🗣 Commented on [#73](https://github.com/MeghanaDG04/RECIPEDIA/issues/73#issuecomment-3124545205) in [MeghanaDG04/RECIPEDIA](https://github.com/MeghanaDG04/RECIPEDIA)
+2. ❗ Opened issue [#73](https://github.com/MeghanaDG04/RECIPEDIA/issues/73) in [MeghanaDG04/RECIPEDIA](https://github.com/MeghanaDG04/RECIPEDIA)
+3. 🗣 Commented on [#134](https://github.com/Amarjha01/InfantCareCompass/issues/134#issuecomment-3124536469) in [Amarjha01/InfantCareCompass](https://github.com/Amarjha01/InfantCareCompass)
+4. ❗ Opened issue [#134](https://github.com/Amarjha01/InfantCareCompass/issues/134) in [Amarjha01/InfantCareCompass](https://github.com/Amarjha01/InfantCareCompass)
+5. 🗣 Commented on [#255](https://github.com/Adarsh-Chaubey03/TravelGrid/issues/255#issuecomment-3124534092) in [Adarsh-Chaubey03/TravelGrid](https://github.com/Adarsh-Chaubey03/TravelGrid)
 <!--END_SECTION:activity-->
 
 ---
