@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#217](https://github.com/Kritika75/TheCawnporeMag.github.io/issues/217) in [Kritika75/TheCawnporeMag.github.io](https://github.com/Kritika75/TheCawnporeMag.github.io)
-2. 🗣 Commented on [#214](https://github.com/Kritika75/TheCawnporeMag.github.io/issues/214#issuecomment-3124490647) in [Kritika75/TheCawnporeMag.github.io](https://github.com/Kritika75/TheCawnporeMag.github.io)
-3. ❗ Opened issue [#214](https://github.com/Kritika75/TheCawnporeMag.github.io/issues/214) in [Kritika75/TheCawnporeMag.github.io](https://github.com/Kritika75/TheCawnporeMag.github.io)
-4. 🗣 Commented on [#141](https://github.com/pavitraag/Project-Vault/issues/141#issuecomment-3124485050) in [pavitraag/Project-Vault](https://github.com/pavitraag/Project-Vault)
-5. ❗ Opened issue [#141](https://github.com/pavitraag/Project-Vault/issues/141) in [pavitraag/Project-Vault](https://github.com/pavitraag/Project-Vault)
+1. ❗ Opened issue [#19](https://github.com/robinsingh-ai/AutomataVerse/issues/19) in [robinsingh-ai/AutomataVerse](https://github.com/robinsingh-ai/AutomataVerse)
+2. 🗣 Commented on [#62](https://github.com/yashvikram30/legalease/issues/62#issuecomment-3124514736) in [yashvikram30/legalease](https://github.com/yashvikram30/legalease)
+3. ❗ Opened issue [#62](https://github.com/yashvikram30/legalease/issues/62) in [yashvikram30/legalease](https://github.com/yashvikram30/legalease)
+4. 🗣 Commented on [#61](https://github.com/yashvikram30/legalease/issues/61#issuecomment-3124513229) in [yashvikram30/legalease](https://github.com/yashvikram30/legalease)
+5. ❗ Opened issue [#61](https://github.com/yashvikram30/legalease/issues/61) in [yashvikram30/legalease](https://github.com/yashvikram30/legalease)
 <!--END_SECTION:activity-->
 
 ---
