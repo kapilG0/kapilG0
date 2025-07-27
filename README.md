@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/ChakrabortyRajarshi2005/FitLife---The-Gym-App/issues/67#issuecomment-3124480869) in [ChakrabortyRajarshi2005/FitLife---The-Gym-App](https://github.com/ChakrabortyRajarshi2005/FitLife---The-Gym-App)
-2. ❗ Opened issue [#67](https://github.com/ChakrabortyRajarshi2005/FitLife---The-Gym-App/issues/67) in [ChakrabortyRajarshi2005/FitLife---The-Gym-App](https://github.com/ChakrabortyRajarshi2005/FitLife---The-Gym-App)
-3. ❗ Opened issue [#1224](https://github.com/recodehive/machine-learning-repos/issues/1224) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
-4. 🗣 Commented on [#17](https://github.com/Mohit5Upadhyay/WeatherApplication/issues/17#issuecomment-2386574642) in [Mohit5Upadhyay/WeatherApplication](https://github.com/Mohit5Upadhyay/WeatherApplication)
-5. ❗ Opened issue [#17](https://github.com/Mohit5Upadhyay/WeatherApplication/issues/17) in [Mohit5Upadhyay/WeatherApplication](https://github.com/Mohit5Upadhyay/WeatherApplication)
+1. ❗ Opened issue [#217](https://github.com/Kritika75/TheCawnporeMag.github.io/issues/217) in [Kritika75/TheCawnporeMag.github.io](https://github.com/Kritika75/TheCawnporeMag.github.io)
+2. 🗣 Commented on [#214](https://github.com/Kritika75/TheCawnporeMag.github.io/issues/214#issuecomment-3124490647) in [Kritika75/TheCawnporeMag.github.io](https://github.com/Kritika75/TheCawnporeMag.github.io)
+3. ❗ Opened issue [#214](https://github.com/Kritika75/TheCawnporeMag.github.io/issues/214) in [Kritika75/TheCawnporeMag.github.io](https://github.com/Kritika75/TheCawnporeMag.github.io)
+4. 🗣 Commented on [#141](https://github.com/pavitraag/Project-Vault/issues/141#issuecomment-3124485050) in [pavitraag/Project-Vault](https://github.com/pavitraag/Project-Vault)
+5. ❗ Opened issue [#141](https://github.com/pavitraag/Project-Vault/issues/141) in [pavitraag/Project-Vault](https://github.com/pavitraag/Project-Vault)
 <!--END_SECTION:activity-->
 
 ---
