@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/Prashanti-Hebbar/FoodIO/issues/71#issuecomment-3143077912) in [Prashanti-Hebbar/FoodIO](https://github.com/Prashanti-Hebbar/FoodIO)
-2. 🗣 Commented on [#70](https://github.com/Prashanti-Hebbar/FoodIO/issues/70#issuecomment-3143069163) in [Prashanti-Hebbar/FoodIO](https://github.com/Prashanti-Hebbar/FoodIO)
-3. 🗣 Commented on [#73](https://github.com/MeghanaDG04/RECIPEDIA/issues/73#issuecomment-3124545205) in [MeghanaDG04/RECIPEDIA](https://github.com/MeghanaDG04/RECIPEDIA)
-4. ❗ Opened issue [#73](https://github.com/MeghanaDG04/RECIPEDIA/issues/73) in [MeghanaDG04/RECIPEDIA](https://github.com/MeghanaDG04/RECIPEDIA)
-5. 🗣 Commented on [#134](https://github.com/Amarjha01/InfantCareCompass/issues/134#issuecomment-3124536469) in [Amarjha01/InfantCareCompass](https://github.com/Amarjha01/InfantCareCompass)
+1. 🗣 Commented on [#70](https://github.com/Prashanti-Hebbar/FoodIO/issues/70#issuecomment-3170629410) in [Prashanti-Hebbar/FoodIO](https://github.com/Prashanti-Hebbar/FoodIO)
+2. 🗣 Commented on [#71](https://github.com/Prashanti-Hebbar/FoodIO/issues/71#issuecomment-3143077912) in [Prashanti-Hebbar/FoodIO](https://github.com/Prashanti-Hebbar/FoodIO)
+3. 🗣 Commented on [#70](https://github.com/Prashanti-Hebbar/FoodIO/issues/70#issuecomment-3143069163) in [Prashanti-Hebbar/FoodIO](https://github.com/Prashanti-Hebbar/FoodIO)
+4. 🗣 Commented on [#73](https://github.com/MeghanaDG04/RECIPEDIA/issues/73#issuecomment-3124545205) in [MeghanaDG04/RECIPEDIA](https://github.com/MeghanaDG04/RECIPEDIA)
+5. ❗ Opened issue [#73](https://github.com/MeghanaDG04/RECIPEDIA/issues/73) in [MeghanaDG04/RECIPEDIA](https://github.com/MeghanaDG04/RECIPEDIA)
 <!--END_SECTION:activity-->
 
 ---
