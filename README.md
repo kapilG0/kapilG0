@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com/Prashanti-Hebbar/FoodIO/issues/70#issuecomment-3170629410) in [Prashanti-Hebbar/FoodIO](https://github.com/Prashanti-Hebbar/FoodIO)
-2. 🗣 Commented on [#71](https://github.com/Prashanti-Hebbar/FoodIO/issues/71#issuecomment-3143077912) in [Prashanti-Hebbar/FoodIO](https://github.com/Prashanti-Hebbar/FoodIO)
-3. 🗣 Commented on [#70](https://github.com/Prashanti-Hebbar/FoodIO/issues/70#issuecomment-3143069163) in [Prashanti-Hebbar/FoodIO](https://github.com/Prashanti-Hebbar/FoodIO)
-4. 🗣 Commented on [#73](https://github.com/MeghanaDG04/RECIPEDIA/issues/73#issuecomment-3124545205) in [MeghanaDG04/RECIPEDIA](https://github.com/MeghanaDG04/RECIPEDIA)
-5. ❗ Opened issue [#73](https://github.com/MeghanaDG04/RECIPEDIA/issues/73) in [MeghanaDG04/RECIPEDIA](https://github.com/MeghanaDG04/RECIPEDIA)
+1. 🗣 Commented on [#140](https://github.com/techxninjas2/techxninjas-client/issues/140#issuecomment-3172641132) in [techxninjas2/techxninjas-client](https://github.com/techxninjas2/techxninjas-client)
+2. 💪 Opened PR [#195](https://github.com/techxninjas2/techxninjas-client/pull/195) in [techxninjas2/techxninjas-client](https://github.com/techxninjas2/techxninjas-client)
+3. 🗣 Commented on [#73](https://github.com/MeghanaDG04/RECIPEDIA/issues/73#issuecomment-3172638106) in [MeghanaDG04/RECIPEDIA](https://github.com/MeghanaDG04/RECIPEDIA)
+4. 💪 Opened PR [#161](https://github.com/MeghanaDG04/RECIPEDIA/pull/161) in [MeghanaDG04/RECIPEDIA](https://github.com/MeghanaDG04/RECIPEDIA)
+5. 🗣 Commented on [#70](https://github.com/Prashanti-Hebbar/FoodIO/issues/70#issuecomment-3172629803) in [Prashanti-Hebbar/FoodIO](https://github.com/Prashanti-Hebbar/FoodIO)
 <!--END_SECTION:activity-->
 
 ---
