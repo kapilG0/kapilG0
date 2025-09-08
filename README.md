@@ -35,11 +35,11 @@
 <h3 align='center'>⭐Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#136](https://github.com/Prashanti-Hebbar/FoodIO/pull/136#issuecomment-3180208364) in [Prashanti-Hebbar/FoodIO](https://github.com/Prashanti-Hebbar/FoodIO)
-2. 🗣 Commented on [#71](https://github.com/Prashanti-Hebbar/FoodIO/issues/71#issuecomment-3172696574) in [Prashanti-Hebbar/FoodIO](https://github.com/Prashanti-Hebbar/FoodIO)
-3. 💪 Opened PR [#136](https://github.com/Prashanti-Hebbar/FoodIO/pull/136) in [Prashanti-Hebbar/FoodIO](https://github.com/Prashanti-Hebbar/FoodIO)
-4. 🗣 Commented on [#140](https://github.com/techxninjas2/techxninjas-client/issues/140#issuecomment-3172641132) in [techxninjas2/techxninjas-client](https://github.com/techxninjas2/techxninjas-client)
-5. 💪 Opened PR [#195](https://github.com/techxninjas2/techxninjas-client/pull/195) in [techxninjas2/techxninjas-client](https://github.com/techxninjas2/techxninjas-client)
+1. 🗣 Commented on [#71](https://github.com/Prashanti-Hebbar/FoodIO/issues/71#issuecomment-3172696574) in [Prashanti-Hebbar/FoodIO](https://github.com/Prashanti-Hebbar/FoodIO)
+2. 💪 Opened PR [#136](undefined) in [Prashanti-Hebbar/FoodIO](https://github.com/Prashanti-Hebbar/FoodIO)
+3. 🗣 Commented on [#140](https://github.com/iaadillatif/techxninjas-client/issues/140#issuecomment-3172641132) in [iaadillatif/techxninjas-client](https://github.com/iaadillatif/techxninjas-client)
+4. 💪 Opened PR [#195](undefined) in [iaadillatif/techxninjas-client](https://github.com/iaadillatif/techxninjas-client)
+5. 🗣 Commented on [#73](https://github.com/MeghanaDG04/RECIPEDIA/issues/73#issuecomment-3172638106) in [MeghanaDG04/RECIPEDIA](https://github.com/MeghanaDG04/RECIPEDIA)
 <!--END_SECTION:activity-->
 
 ---
